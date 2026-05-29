@@ -1,4 +1,4 @@
-name: Poll referendum feed
+name: Poll referendum Telegram
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       baseline_only:
-        description: "Aggiorna snapshot/feed senza creare eventi o inviare Telegram"
+        description: "Aggiorna snapshot senza creare eventi o inviare Telegram"
         required: false
         type: boolean
         default: false
@@ -26,7 +26,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SOURCE_URL: https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public
-      PUBLIC_BASE_URL: https://${{ github.repository_owner }}.github.io/referendum-feed
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       SEND_INITIAL_EVENTS: "false"
@@ -55,13 +54,13 @@ jobs:
 
       - name: Commit generated files
         run: |
-          if git diff --quiet -- data public; then
+          if git diff --quiet -- data; then
             echo "No generated changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data public
-          git commit -m "Update referendum feed"
+          git add data
+          git commit -m "Update referendum data"
           git push

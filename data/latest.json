@@ -6132,11 +6132,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-<<<<<<< HEAD
     "signaturesCount": 164375,
-=======
-    "signaturesCount": 164352,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
     "quorum": 500000,
     "openingDate": "2026-04-27",
     "deadline": "2026-07-27",
@@ -6188,20 +6184,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.bastasoldiaigiornali.it",
-<<<<<<< HEAD
       "sostenitori": 164375,
-=======
-      "sostenitori": 164352,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
       "supportata": false,
       "titolo": "Basta soldi ai giornali",
       "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
     },
-<<<<<<< HEAD
     "hash": "a858dba91b784f8916f88e81a78c087e9bf496ce739401a58a69d2c868b80c06"
-=======
-    "hash": "4b25b1e165939bf12a19127b8ed086529b2de0e511699ade73ac7ce22081e3b5"
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
   },
   {
     "id": "6400001",
@@ -6276,11 +6264,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-<<<<<<< HEAD
     "signaturesCount": 14100,
-=======
-    "signaturesCount": 14099,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -6332,20 +6316,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-<<<<<<< HEAD
       "sostenitori": 14100,
-=======
-      "sostenitori": 14099,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-<<<<<<< HEAD
     "hash": "b13d83e34550b81e83c0cc2e1934607e47a2b3f64ed88237acd2094989cd9803"
-=======
-    "hash": "42b7a2c6882886b104eb6142e139dd03532279b39ae361d738fe66c589401e6e"
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
   },
   {
     "id": "6500011",
@@ -6420,11 +6396,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-<<<<<<< HEAD
     "signaturesCount": 26774,
-=======
-    "signaturesCount": 26765,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -6476,20 +6448,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-<<<<<<< HEAD
       "sostenitori": 26774,
-=======
-      "sostenitori": 26765,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-<<<<<<< HEAD
     "hash": "9578cf354aa9a4ebfdc3228f2536d1b400d287e597bee813720e2a2ad3378ec1"
-=======
-    "hash": "94d957a9518c6c7c8b37f51c1c43f2613b8b2ad9c75306cf7baaddbb7b34dd63"
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
   },
   {
     "id": "6500013",
@@ -6687,11 +6651,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-<<<<<<< HEAD
     "signaturesCount": 1185,
-=======
-    "signaturesCount": 1169,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -6734,20 +6694,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-<<<<<<< HEAD
       "sostenitori": 1185,
-=======
-      "sostenitori": 1169,
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-<<<<<<< HEAD
     "hash": "2c0e46bc19640def07aed7be4f4434226b05d243178aef27f7d25a85ffa23fe2"
-=======
-    "hash": "7bf3184732f4b283caf7fb429a1669863507b31887feec913718aed3d1cf9a44"
->>>>>>> 425623eaba4b1c9786accca8222422a8aa02e86a
   },
   {
     "id": "700000",

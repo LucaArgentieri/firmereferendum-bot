@@ -1,6 +1,5 @@
 export interface Config {
   sourceUrl: string;
-  publicBaseUrl: string;
   telegramBotToken: string | null;
   telegramChatId: string | null;
   sendInitialEvents: boolean;
@@ -13,7 +12,6 @@ const DEFAULT_SOURCE_URL = "https://firmereferendum.giustizia.it/referendum/api-
 export function getConfig(): Config {
   return {
     sourceUrl: process.env.SOURCE_URL?.trim() || DEFAULT_SOURCE_URL,
-    publicBaseUrl: trimTrailingSlash(process.env.PUBLIC_BASE_URL?.trim() || ""),
     telegramBotToken: emptyToNull(process.env.TELEGRAM_BOT_TOKEN),
     telegramChatId: emptyToNull(process.env.TELEGRAM_CHAT_ID),
     sendInitialEvents: parseBoolean(process.env.SEND_INITIAL_EVENTS, false),
@@ -36,8 +34,4 @@ function parsePositiveInt(value: string | undefined, fallback: number): number {
   if (!value) return fallback;
   const parsed = Number.parseInt(value, 10);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
-}
-
-function trimTrailingSlash(value: string): string {
-  return value.replace(/\/+$/, "");
 }

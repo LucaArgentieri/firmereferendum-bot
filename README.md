@@ -1,4 +1,4 @@
-# Referendum Feed
+# Referendum Telegram Bot
 
 Monitor gratuito per l'endpoint pubblico delle iniziative referendum del Ministero della Giustizia.
 
@@ -8,7 +8,7 @@ Il progetto legge periodicamente i dati da:
 https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public
 ```
 
-Normalizza il payload, confronta lo snapshot precedente salvato nel repository, rileva nuove iniziative, aggiornamenti o rimozioni, invia le novita a Telegram e genera feed statici pubblicabili con GitHub Pages.
+Normalizza il payload, confronta lo snapshot precedente salvato nel repository, rileva nuove iniziative, aggiornamenti o rimozioni e invia le novita a un gruppo Telegram.
 
 Non usa database, VPS, Redis o servizi a pagamento.
 
@@ -20,7 +20,6 @@ Non usa database, VPS, Redis o servizi a pagamento.
 - Bun solo come package manager
 - GitHub Actions per il polling schedulato
 - Storage file-based in `data/`
-- Feed statici in `public/`
 - Telegram Bot API via `fetch` nativo
 
 ## Setup Locale
@@ -79,14 +78,14 @@ Variabili supportate:
 
 ```text
 SOURCE_URL=https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public
-PUBLIC_BASE_URL=https://OWNER.github.io/referendum-feed
 TELEGRAM_BOT_TOKEN=...
 TELEGRAM_CHAT_ID=...
 SEND_INITIAL_EVENTS=false
+BASELINE_ONLY=false
 FETCH_TIMEOUT_MS=20000
 ```
 
-`TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID` sono opzionali in locale. Se mancano, il polling aggiorna snapshot e feed ma salta l'invio Telegram.
+`TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID` sono opzionali in locale. Se mancano, il polling aggiorna lo snapshot ma salta l'invio Telegram.
 
 ## Bot Telegram
 
@@ -104,23 +103,6 @@ Nel repository GitHub vai in `Settings` -> `Secrets and variables` -> `Actions` 
 - `TELEGRAM_CHAT_ID`
 
 Il workflow usa questi secret solo come variabili d'ambiente. Nessun secret viene scritto nel repository.
-
-## GitHub Pages
-
-Attiva GitHub Pages da `Settings` -> `Pages`.
-
-Configurazione consigliata:
-
-- Source: `Deploy from a branch`
-- Branch: `main`
-- Folder: `/public`
-
-Dopo il primo aggiornamento, i feed saranno disponibili a URL simili a:
-
-```text
-https://OWNER.github.io/referendum-feed/feed.xml
-https://OWNER.github.io/referendum-feed/feed.json
-```
 
 ## Primo Avvio
 
@@ -146,7 +128,7 @@ cron: "*/15 * * * *"
 
 Puo anche essere avviato manualmente con `workflow_dispatch`.
 
-Il job committa solo se cambiano file dentro `data/` o `public/`.
+Il job committa solo se cambiano file dentro `data/`.
 
 ### Modalita Baseline
 
@@ -156,7 +138,6 @@ In questa modalita lo script:
 
 - aggiorna `data/latest.json`;
 - aggiorna `data/latest.hash`;
-- rigenera i feed dagli eventi gia salvati;
 - non crea nuovi eventi;
 - non invia messaggi Telegram.
 
@@ -172,15 +153,17 @@ Il fetch usa:
 - log dello status code
 - gestione errori HTTP
 
-Se l'endpoint restituisce `403`, `429`, errori temporanei o payload inatteso, lo script non prova bypass, scraping aggressivo o retry aggressivi. Mantiene lo snapshot esistente e rigenera eventualmente i feed dagli eventi gia salvati.
+Se l'endpoint restituisce `403`, `429`, errori temporanei o payload inatteso, lo script non prova bypass, scraping aggressivo o retry aggressivi. Mantiene lo snapshot esistente e termina senza inviare notifiche.
 
 ## File Generati
 
 - `data/latest.json`: ultimo snapshot normalizzato
 - `data/latest.hash`: hash SHA-256 dello snapshot
 - `data/events.json`: ultimi eventi rilevati, massimo 500
-- `public/feed.xml`: feed RSS, massimo 100 eventi
-- `public/feed.json`: JSON Feed, massimo 100 eventi
+
+## Estensioni Future
+
+Il progetto e pensato per avere Telegram come primo canale di notifica. In futuro si puo aggiungere un secondo sender, ad esempio WhatsApp Business Cloud API, riusando gli stessi eventi generati dal diff.
 
 ## Licenza
 

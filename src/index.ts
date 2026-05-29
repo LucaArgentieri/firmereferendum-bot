@@ -4,7 +4,6 @@ import { loadEnvFile } from "./env.js";
 import { fetchSource, SourceFetchError } from "./fetch-source.js";
 import { hashValue } from "./hash.js";
 import { normalizePayload } from "./normalize.js";
-import { writeFeeds } from "./rss.js";
 import {
   readEvents,
   readLatestHash,
@@ -31,7 +30,6 @@ async function main(): Promise<void> {
   } catch (error) {
     if (error instanceof SourceFetchError && error.retryable) {
       console.warn(`${error.message}. Keeping existing snapshot.`);
-      await writeFeeds(existingEvents, config.publicBaseUrl);
       return;
     }
     throw error;
@@ -40,7 +38,6 @@ async function main(): Promise<void> {
   const currentSnapshot = normalizePayload(payload);
   if (currentSnapshot.length === 0) {
     console.warn("Source payload did not contain recognizable initiatives. Keeping existing snapshot.");
-    await writeFeeds(existingEvents, config.publicBaseUrl);
     return;
   }
 
@@ -51,15 +48,13 @@ async function main(): Promise<void> {
     console.log(`Baseline-only mode enabled. Saving snapshot with ${currentSnapshot.length} items without events or Telegram notifications.`);
     await Promise.all([
       writeLatestSnapshot(currentSnapshot),
-      writeLatestHash(currentHash),
-      writeFeeds(existingEvents, config.publicBaseUrl)
+      writeLatestHash(currentHash)
     ]);
     return;
   }
 
   if (previousHash === currentHash) {
     console.log("Snapshot unchanged. No update needed.");
-    await writeFeeds(existingEvents, config.publicBaseUrl);
     return;
   }
 
@@ -73,8 +68,7 @@ async function main(): Promise<void> {
     await Promise.all([
       writeLatestSnapshot(currentSnapshot),
       writeLatestHash(currentHash),
-      writeEvents(mergedEvents),
-      writeFeeds(mergedEvents, config.publicBaseUrl)
+      writeEvents(mergedEvents)
     ]);
 
     if (initialEvents.length > 0) {
@@ -91,8 +85,7 @@ async function main(): Promise<void> {
   await Promise.all([
     writeLatestSnapshot(currentSnapshot),
     writeLatestHash(currentHash),
-    writeEvents(mergedEvents),
-    writeFeeds(mergedEvents, config.publicBaseUrl)
+    writeEvents(mergedEvents)
   ]);
 
   console.log(`Snapshot changed. New events: ${newEvents.length}.`);
