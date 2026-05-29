@@ -1,5 +1,2689 @@
 [
   {
+    "id": "38c6e11a478804505d94d0aec217f5d7f8ecb40efa977ae28f97569a7beba28e",
+    "type": "updated",
+    "itemId": "2100000",
+    "title": "Fondazione per la Famiglia",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 4195,
+        "after": 4196
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "2100000",
+      "title": "Fondazione per la Famiglia",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 4196,
+      "quorum": 50000,
+      "openingDate": "2025-01-23",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2100000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2100000",
+      "raw": {
+        "dataApertura": "2025-01-23",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-01-11",
+        "dataInizioRaccolta": "2025-01-23",
+        "dataInizioValidita": "2025-01-23",
+        "dataIns": "2025-01-23T08:16:47",
+        "dataUltimoAgg": "2025-01-23",
+        "descrizione": "Il progetto, che si propone di diventare un modello nazionale, mira a garantire un\nsostegno a 360 gradi per le famiglie, puntando su alcuni temi cardine. Tra questi\nfigurano il sostegno alla natalità, con incentivi mirati per le giovani coppie; l’accesso\nfacilitato alla casa, attraverso un fondo dedicato; la promozione di servizi educativi e\ndi cura per l’infanzia, per consentire una migliore conciliazione tra lavoro e vita\nfamiliare; e la creazione di un sistema di welfare innovativo che metta al centro la\nsolidarietà intergenerazionale. L’introduzione della Fondazione per la Famiglia rappresenta un’innovazione concreta\ne necessaria per affrontare le esigenze delle famiglie italiane, superando le inefficienze\nche hanno caratterizzato gli interventi tradizionali. La gestione dei fondi da parte di un istituto di diritto privato, con\npersonalità giuridica e senza scopo di lucro, garantisce non solo un’efficace\ncomplementarietà rispetto alle misure già implementate dallo Stato, ma anche la\nmassima trasparenza attraverso il controllo della Corte dei Conti e la\nrendicontazione pubblica. Tale struttura, grazie alla capacità di investimento e\nall’impiego regolamentato delle risorse, permetterà di perseguire obiettivi prioritari\nquali la detassazione dei redditi per famiglie di lavoratori numerose, il sostegno\neconomico diretto e l’accesso agevolato al credito per la prima casa, contribuendo al\nrafforzamento della coesione sociale e alla alla promozione della natalità.",
+        "descrizioneBreve": "La Fondazione nasce dall’urgenza di offrire risposte concrete a problematiche che da troppo tempo gravano sulle famiglie\nitaliane, come la denatalità, il costo della vita, l’accesso o il reinserimento al lavoro e\nalla casa. Il progetto punta a creare una struttura solida che, attraverso azioni mirate e innovative, diventi un punto di riferimento per il benessere familiare, proponendo\ninterventi concreti come agevolazioni fiscali, sostegno economico diretto e programmi\neducativi.",
+        "estremi": "1500002",
+        "id": 2100000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://pensieropopolareitaliano.org/",
+        "sostenitori": 4196,
+        "supportata": false,
+        "titolo": "Fondazione per la Famiglia ",
+        "titoloLeggeCostituzionale": "Istituzione della Fondazione per la Famiglia e disposizioni per il sostegno economico e fiscale alle famiglie con figli"
+      },
+      "hash": "dbff56cbc039555893fc0ab1b6aeebebcf047096038f855a26fe8fb9f8229be4"
+    }
+  },
+  {
+    "id": "16a53c9d9255b39e24c1c109ba80a40a266618f63c70db26ac5cbda833c33c6b",
+    "type": "updated",
+    "itemId": "2400001",
+    "title": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 9995,
+        "after": 9997
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "2400001",
+      "title": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 9997,
+      "quorum": 50000,
+      "openingDate": "2025-02-14",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2400001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2400001",
+      "raw": {
+        "dataApertura": "2025-02-14",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-02-13",
+        "dataInizioRaccolta": "2025-02-14",
+        "dataInizioValidita": "2025-02-14",
+        "dataIns": "2025-02-14T17:17:59",
+        "dataUltimoAgg": "2025-02-14",
+        "descrizione": "Oggi, le nuove generazioni, che rappresentano una parte significativa della popolazione italiana, sono spesso sottorappresentate sia a livello centrale che locale. La presente proposta di legge mira ad introdurre un sistema di quote generazionali che garantisca una rappresentanza equilibrata nelle istituzioni politiche, al fine di favorire un ricambio sano e sostenibile delle classi politiche e rispondere in modo più equo alle necessità di tutti i cittadini.",
+        "descrizioneBreve": "L’equilibrio generazionale nelle istituzioni politiche è fondamentale per garantire che tutte le fasce della popolazione abbiano una rappresentanza adeguata e che le politiche pubbliche siano orientate verso le esigenze di tutte le generazioni. ",
+        "estremi": "1700000",
+        "id": 2400001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 9997,
+        "supportata": false,
+        "titolo": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
+        "titoloLeggeCostituzionale": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni"
+      },
+      "hash": "510f2f07476582c96492e6c08b837509aa9580af7a8633b1d4eb566063463b16"
+    }
+  },
+  {
+    "id": "81e53552cec4cfbc7d564435762f3042b1e50d7c79406eff40800a956917261f",
+    "type": "updated",
+    "itemId": "3700000",
+    "title": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 13983,
+        "after": 13985
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "3700000",
+      "title": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 13985,
+      "quorum": 50000,
+      "openingDate": "2025-05-28",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3700000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3700000",
+      "raw": {
+        "dataApertura": "2025-05-28",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-05-15",
+        "dataInizioRaccolta": "2025-05-28",
+        "dataInizioValidita": "2025-05-21",
+        "dataIns": "2025-05-21T23:03:14",
+        "dataUltimoAgg": "2026-02-28",
+        "descrizione": "Firma per un’Italia che cresce consapevole e sana! A scuola si coltiva salute, rispetto, futuro.\n\nServe un’educazione integrata che metta al centro la persona, il cibo, l’ambiente e la qualità della vita.\nPer questo nasce la proposta di legge di iniziativa popolare che introduce, in tutte le scuole, università e accademie militari, l’insegnamento obbligatorio di: Educazione Alimentare, degli Stili di Vita Sani e Sostenibilità Ambientale.\n\nTre ambiti fondamentali, un’unica missione: formare cittadini consapevoli.\n\n- L’Educazione Alimentare insegna a scegliere il cibo con intelligenza, a conoscere la dieta mediterranea, a prevenire disturbi alimentari, obesità e malattie croniche.\n - L’Educazione alla Sostenibilità Ambientale rafforza la consapevolezza ecologica, promuove pratiche sostenibili e rispetto per la biodiversità.\n- L’Educazione agli Stili di Vita Sani stimola l’attività fisica, il benessere mentale e relazionale, la responsabilità verso sé e gli altri.\n\nÈ un investimento nella salute pubblica, nella cultura del cibo, nell’equilibrio tra persona e pianeta.\n\nQuesta legge non è solo prevenzione sanitaria: è cultura, è sostenibilità, è dignità, è sviluppo economico.\nRiscopre la tradizione alimentare italiana e la proietta nel futuro, sostenendo anche le filiere locali e l’economia dei territori.\nDiffondere la cultura della prevenzione si da piccoli, migliora la vita e rende il sistema più sostenibile\n\nFirma, condividi, sostieni. Il futuro comincia da ciò che insegniamo.",
+        "descrizioneBreve": "Firma per un’Italia più consapevole e sana!\nA scuola si coltiva salute, rispetto, futuro.\nSostieni la proposta di legge a favore Educazione Alimentare, Stili di Vita Sani e Sostenibilità Ambientale in tutte le scuole e percorsi formativi.\nTre ambiti, una missione: prevenire, educare, far crescere.\nÈ un investimento nella salute pubblica, nella cultura del cibo, nell’equilibrio tra persona e pianeta.\nPer una società più sana, sostenibile e giusta.\nRiscopre la tradizione alimentare italiana e la proietta nel futuro.\nFirma. Condividi. Il futuro comincia da ciò che insegniamo.",
+        "estremi": "2600003",
+        "id": 3700000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.radicisane.it",
+        "sostenitori": 13985,
+        "supportata": false,
+        "titolo": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
+        "titoloLeggeCostituzionale": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso”"
+      },
+      "hash": "b71cacbd2b87dcdf9901011d790ab5d9d28ca74c26a3956cab1f0475749e7253"
+    }
+  },
+  {
+    "id": "dff39841f0e1ccb095928645827e5a7111672dd43e2002931be38e4e3a883a9b",
+    "type": "updated",
+    "itemId": "3900019",
+    "title": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 3176,
+        "after": 3179
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "3900019",
+      "title": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
+      "category": "AMBIENTE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 3179,
+      "quorum": 50000,
+      "openingDate": "2025-06-09",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3900019",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3900019",
+      "raw": {
+        "dataApertura": "2025-06-09",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-03-08",
+        "dataInizioRaccolta": "2025-06-09",
+        "dataInizioValidita": "2025-06-09",
+        "dataIns": "2025-06-09T21:28:13",
+        "dataUltimoAgg": "2025-06-09",
+        "descrizione": "Lo scopo della presente proposta di legge è pertanto quello di provvedere forzatamente a\nridistribuire la popolazione degli orsi attualmente presente nella parte occidentale della provincia di Trent, che si stima essere pari a circa 32esemplari, su tutto l’arco alpino coinvolgendo i territori delle 5 regioni alpine.\nCosì facendo, potremo salvare gli orsi dalle ordinanze di abbattimento ed al contempo ridurre drasticamente la possibilità di incontri accidentali con gli esseri umani, garantendo così anche la serenità dei turisti e delle popolazioni locali.\n- Di intesa ed in collaborazione con la provincia autonoma di Trento e della Regione Trentino, gli orsi attualmente presente in loco, verranno inventariati e muniti di radio collare entro il termine di 12 mesi dalla entrata i vigore delle presente legge.\n- Terminata l’operazione di cui sopra, gli orsi verranno ridistribuiti sull’arco alpino, in coppia e più precisamente :\n- Nr. 4 esemplari nella Regione Friuli Venezia Giulia;\n- Nr. 8 esemplari nella Regione Veneto;\n- Nr. 8 esemplari nella Regione Lombardia;\n- Nr. 8 esemplari nella Regione Piemonte;\n- Nr. 4 esemplari nella Regione Valle D’Aosta.\n- Al censimento ed ai trasferimenti degli animali provvederà il Comando unità forestali, ambientali e agro alimentare dell’Arma dei Carabinieri, con mezzi e risorse proprie.\nPer informazioni contattare il numero 3801531588 con messaggi whatsapp.",
+        "descrizioneBreve": "L’episodio di aggressione, con conseguenze letali ai danni dell’uomo avvenuta il 5 aprile 2023 in Val di sole, ha portato alla ribalta delle cronache l’esistenza di un discreto gruppo di plantigradi concentrati nella parte occidentale della Provincia di Trento, fatto per lo più ignoto alla\n\nmaggioranza degli italiani. L’orso infatti è un animale schivo, normalmente di indole pacifica, che normalmente rifugge il contatto con l’uomo.",
+        "estremi": "2000006",
+        "id": 3900019,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AMBIENTE",
+          "id": 14,
+          "nome": "AMBIENTE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.rispettopertuttiglianimali.it",
+        "sostenitori": 3179,
+        "supportata": false,
+        "titolo": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
+        "titoloLeggeCostituzionale": "RIDISTRIBUIAMO GLI ORSI SULL'ARCO ALPINO"
+      },
+      "hash": "8de29bf7af687efad4b9b3b0d53d94c1afd650b45adb18211e9f468c1350aaa0"
+    }
+  },
+  {
+    "id": "3644cd48cc6ef040d73cbeb93093085391f66553c08f7c6f8e5a920a9204ee26",
+    "type": "updated",
+    "itemId": "4600001",
+    "title": "SPAZZAPOLTRONE",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 2533,
+        "after": 2537
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "4600001",
+      "title": "SPAZZAPOLTRONE",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2537,
+      "quorum": 50000,
+      "openingDate": "2025-08-31",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4600001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4600001",
+      "raw": {
+        "dataApertura": "2025-08-31",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-07-19",
+        "dataInizioRaccolta": "2025-08-31",
+        "dataInizioValidita": "2025-08-31",
+        "dataIns": "2025-08-31T18:43:37",
+        "dataUltimoAgg": "2025-08-31",
+        "descrizione": "La politica non è una carriera, ma un servizio al bene comune. Questa proposta di legge costituzionale vuole riportare trasparenza, etica e partecipazione al centro della vita democratica italiana. Prevede un limite di due mandati per tutte le cariche, lo stop al cumulo di incarichi e ai “salti di poltrona” durante il mandato, il divieto di candidarsi per chi ha condanne penali e norme chiare contro i legami economici con governi o poteri esteri. Nessuno potrà più usare le istituzioni come trampolino di carriera personale: chi è eletto deve rispettare fino in fondo la fiducia ricevuta.\n\nLa riforma rafforza anche il diritto di voto, introducendo il voto disgiunto per garantire libertà di scelta, la parità di genere e la possibilità di votare online o per posta, così da includere anche studenti e lavoratori fuori sede. Stop ai governi che manipolano le leggi elettorali a proprio vantaggio: d’ora in poi dovranno seguire l’iter delle leggi costituzionali, stabile e condiviso.\n\nLe proposte di legge popolare dovranno essere discusse obbligatoriamente e, se respinte, sottoposte a referendum. Non più iniziative ignorate, ma strumenti reali di partecipazione diretta.\n\nInfine, taglio agli sprechi: tetto alle indennità, divieto di cumulo dei compensi e abolizione delle Province. La politica deve essere un servizio sobrio e dignitoso, non un privilegio.\n\nInserire questi principi in Costituzione significa difendere la democrazia, garantendo regole eque e trasparenti che valgano sempre.",
+        "descrizioneBreve": "Basta privilegi e poltrone a vita: la politica torni a essere servizio, non carriera. Con questa proposta di legge costituzionale chiediamo limiti di mandato, stop ai cumuli di cariche, esclusione dei condannati, taglio delle indennità e abolizione delle Province. Vogliamo più trasparenza, voto libero e sicuro anche a distanza, e vere leggi popolari che non restino nei cassetti del Parlamento. Firma ora: 50.000 cittadini possono cambiare le regole del gioco e restituire dignità alla democrazia!",
+        "estremi": "3300001",
+        "id": 4600001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.facebook.com/figlidellestelleodv",
+        "sostenitori": 2537,
+        "supportata": false,
+        "titolo": "SPAZZAPOLTRONE",
+        "titoloLeggeCostituzionale": "SPAZZAPOLTRONE"
+      },
+      "hash": "1f022a37e9f2c5150cb154b111bb6ad8c41f234a0f1149dcf7632e1247d9e1a0"
+    }
+  },
+  {
+    "id": "48f3aafb04464ee6e39a70acd979acf610d5d4352997260b335e3b0c59ef5cda",
+    "type": "updated",
+    "itemId": "4600002",
+    "title": "STUDIO SENZA BARRIERE",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1043,
+        "after": 1044
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "4600002",
+      "title": "STUDIO SENZA BARRIERE",
+      "category": "ISTRUZIONE E COMUNICAZIONE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1044,
+      "quorum": 50000,
+      "openingDate": "2025-08-31",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4600002",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4600002",
+      "raw": {
+        "dataApertura": "2025-08-31",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-07-19",
+        "dataInizioRaccolta": "2025-08-31",
+        "dataInizioValidita": "2025-08-31",
+        "dataIns": "2025-08-31T19:18:12",
+        "dataUltimoAgg": "2025-08-31",
+        "descrizione": "Studiare non deve essere un privilegio per pochi, ma un diritto per tutti. Oggi in molti atenei chi non raggiunge la percentuale minima di presenze alle lezioni frontali non può sostenere gli esami. Questo obbligo penalizza studenti-lavoratori, pendolari, fuorisede e chiunque non possa garantire una presenza costante, trasformando l’università in un percorso ad ostacoli. È un’ingiustizia che contrasta con i principi di uguaglianza e di diritto allo studio sanciti dalla Costituzione.\n\nCon questa proposta di legge vogliamo abolire l’obbligo di frequenza alle lezioni frontali, restituendo libertà e dignità agli studenti. La presenza resterà necessaria solo nei laboratori e nei tirocini pratici, dove è davvero indispensabile. Gli atenei dovranno garantire materiali didattici online, lezioni a distanza e strumenti alternativi per non lasciare indietro nessuno.\n\nBasta con discriminazioni tra frequentanti e non frequentanti: niente carichi di studio extra, niente premi per chi può permettersi di stare in aula ogni giorno. Ognuno deve avere pari opportunità, indipendentemente dalla propria situazione economica, lavorativa o personale.\n\nL’università deve diventare inclusiva, moderna e accessibile a tutti, non un privilegio di pochi. Abolire l’obbligo di frequenza significa dare finalmente a ogni studente la possibilità di costruire liberamente il proprio futuro.",
+        "descrizioneBreve": "Studiare è un diritto, non un privilegio. Oggi l’obbligo di frequenza alle lezioni frontali esclude chi lavora, i fuorisede e chi non può essere sempre presente. Vogliamo abolirlo: l’università deve essere libera, accessibile e inclusiva, con pari opportunità per tutti.",
+        "estremi": "3300003",
+        "id": 4600002,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "ISTRUZIONE E COMUNICAZIONE",
+          "id": 9,
+          "nome": "ISTRUZIONE E COMUNICAZIONE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.facebook.com/figlidellestelleodv",
+        "sostenitori": 1044,
+        "supportata": false,
+        "titolo": "STUDIO SENZA BARRIERE",
+        "titoloLeggeCostituzionale": "Disposizioni per l’abolizione dell’obbligo di frequenza nella didattica frontale dei corsi universitari"
+      },
+      "hash": "1a0d841f3e2f62a55709ea37d16c5e32215442ee37da2b56cadb5c1bd9796391"
+    }
+  },
+  {
+    "id": "39146b6bcd06835249983712e1dfe7265d324940f23922f88d8cf0522abc188f",
+    "type": "updated",
+    "itemId": "500023",
+    "title": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 7501,
+        "after": 7502
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "500023",
+      "title": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 7502,
+      "quorum": 50000,
+      "openingDate": "2024-07-26",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500023",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500023",
+      "raw": {
+        "dataApertura": "2024-07-26",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2024-05-31",
+        "dataInizioRaccolta": "2024-07-26",
+        "dataInizioValidita": "2024-07-26",
+        "dataIns": "2024-07-26T13:13:56",
+        "dataUltimoAgg": "2024-07-26",
+        "descrizione": "La proposta di legge individua dei principi generali in materia di partecipazione e prevede l’istituzione di assemblee partecipative a livello nazionale, regionale o locale. L’intento principale è quello di ridare importanza e centralità nel processo decisionale democratico alle formazioni sociali e alla cittadinanza attiva, coinvolgendo cittadini e cittadine nell’articolazione di proposte e relazioni verso le quali i decisori pubblici a tutti i livelli siano tenuti a prendere posizione. In questo modo, la partecipazione dei cittadini, attraverso anche una fase formativa garantita dalle assemblee partecipative, viene estesa ben al di là del solo momento del voto e viene potenziata proprio grazie alla possibilità di ricevere una formazione dedicata e di effettuare una fase istruttoria sul tema che viene sottoposto al dibattito e al confronto. La proposta fa tesoro delle indicazioni fornite dalla Raccomandazione (UE) 2023/2836 della Commissione Europea del 12 dicembre 2023 “sulla promozione del coinvolgimento e della partecipazione effettiva dei cittadini e delle organizzazioni della società civile ai processi di elaborazione delle politiche pubbliche” e delle linee guida dell’OCSE sui processi partecipativi del 2022.",
+        "descrizioneBreve": "La presente proposta di legge di iniziativa popolare è finalizzata alla promozione e alla disciplina di alcuni principi connessi alla partecipazione democratica e all'istituzione - a livello nazionale, regionale e locale - delle assemblee partecipative di cittadinanza: veri e propri organismi di partecipazione e rappresentanza civica  aperti a tutti e chiamati a esprimersi con pareri - su materie di interesse dei cittadini - alle istituzioni competenti che sarebbero tenute ad esprimersi sulla materia oggetto del singolo parere entro 180 giorni dalla ricezione dello stesso. ",
+        "estremi": "400026",
+        "id": 500023,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.acli.it/la-tua-politica/",
+        "sostenitori": 7502,
+        "supportata": false,
+        "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
+        "titoloLeggeCostituzionale": "Istituzione delle assemblee di cittadinanza per promozione della partecipazione democratica dei cittadini"
+      },
+      "hash": "e2dbada3f45294445c1b267eaabfc9c157a9944c5f3dc8a90ae5c635ea7d7862"
+    }
+  },
+  {
+    "id": "d02919820e7c482ef6afa04ab3916a35a771e487b4359e1c61eb67da494d4c5e",
+    "type": "updated",
+    "itemId": "5200000",
+    "title": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 2080,
+        "after": 2088
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5200000",
+      "title": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2088,
+      "quorum": 50000,
+      "openingDate": "2025-11-15",
+      "deadline": "2026-05-15",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200000",
+      "raw": {
+        "dataApertura": "2025-11-15",
+        "dataFineRaccolta": "2026-05-15",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-09-16",
+        "dataInizioRaccolta": "2025-11-15",
+        "dataInizioValidita": "2025-11-13",
+        "dataIns": "2025-11-13T21:52:48",
+        "dataUltimoAgg": "2025-11-15",
+        "descrizione": "Abrogazione del voto congiunto obbligatorio.\nLa proposta di legge iniziativa popolare interviene sul testo vigente per abrogare le norme che prevedono il cosiddetto 'voto congiunto obbligatorio', ossia per cui il voto dato al candidato uninominale vale anche per le liste plurinominali collegate e, viceversa, il voto dato ad una lista plurinominale vale anche per il candidato uninominale e, nel caso si esprima il voto al candidato uninominale e ad una lista plurinominale, il voto debba essere univoco per la stessa coalizione.\n\nInoltre questa proposta abroga il meccanismo della 'ripartizione del voto', in base al quale il voto dato esclusivamente al candidato uninominale e' ripartito tra le liste collegate, in proporzione alle scelte operate dagli altri elettori, nel caso di coalizioni ovvero attribuito alla lista collegata cosicché il voto sia diretto, libero ed eguale, come prescritto dalla Costituzione.\n\nQuesto comporta che l'elettore potrà scegliere a prescindere dalle decisioni operate dagli apparati di partito.",
+        "descrizioneBreve": "Abolizione del voto congiunto obbligatorio: questa legge iniziativa popolare vuole modificare la legge elettorale per eliminare il vincolo di voto tra il candidato nei collegi uninominali e le liste plurinominali in modo da eliminare le scelte imposte dalle segreterie di partito; oggi, infatti, i voti dati al candidato uninominale valgono anche per le liste collegate nel plurinominale e viceversa, il voto quindi non è libero, non è diretto e nè uguale.",
+        "estremi": "3400002",
+        "id": 5200000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://votolibeguale.it",
+        "sostenitori": 2088,
+        "supportata": false,
+        "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
+        "titoloLeggeCostituzionale": "Abrogazione del voto congiunto  tra  candidati  uninominali e liste plurinominali legge elettorale per Camera e Senato"
+      },
+      "hash": "af96634031ccc7dc0863f0f0eb4b572c7ae48388ba19aa691799c8c83b4aa04c"
+    }
+  },
+  {
+    "id": "d784570987ac57c35c13e9496caa4439805c7d0396bc0b664866e62b66c3586d",
+    "type": "updated",
+    "itemId": "5200001",
+    "title": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 2215,
+        "after": 2223
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5200001",
+      "title": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2223,
+      "quorum": 50000,
+      "openingDate": "2025-11-15",
+      "deadline": "2026-05-15",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200001",
+      "raw": {
+        "dataApertura": "2025-11-15",
+        "dataFineRaccolta": "2026-05-15",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-09-16",
+        "dataInizioRaccolta": "2025-11-15",
+        "dataInizioValidita": "2025-11-13",
+        "dataIns": "2025-11-13T23:19:13",
+        "dataUltimoAgg": "2025-11-15",
+        "descrizione": "Articolo 1 - Pluricandidature - Il Rosatellum prevede che un candidato in quota plurinominale possa candidarsi in 5 collegi diversi in tutto il territorio nazionale e in un collegio uninominale.\nQuesto meccanismo crea un'ulteriore condizione che consente ai Partiti di predeterminare chi deve entrare in Parlamento, imponendo candidati estranei al territorio del collegio.\nL'abolizione delle pluricandidature favorisce la candidatura di persone rappresentative del territorio, ristabilendo quel rapporto tra eletti ed elettori reciso dalla legge elettorale vigente.\nArticolo 2 - Soglie di sbarramento. A differenza di quanto voluto dal legislatore le soglie aumentano la frammentazione del Parlamento riducendo il pluralismo.\nPiccole formazioni entrano in coalizione con i grandi partiti per ottenere seggi sicuri, pur in assenza sostanziale di consenso.\nOra, nel plurinominale, concorrono alla ripartizione dei seggi liste che totalizzano almeno il 3%, o il 10% per le coalizioni, a condizione che almeno una delle liste coalizzate abbia raggiunto il 3%, qualora non lo si raggiunga, ma si sia superato l'1%, i voti presi sono ripartiti tra le altre liste della coalizione, mentre sotto l'1% non sono conteggiati.",
+        "descrizioneBreve": "Abolizione delle pluricandidature: questa proposta riduce il potere degli apparati di partito nel predeterminare la composizione del Parlamento, e favorisce la presentazione di candidati che siano espressione del proprio collegio naturale e propone l'abolizione delle soglie di sbarramento.",
+        "estremi": "3400003",
+        "id": 5200001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://votolibeguale.it",
+        "sostenitori": 2223,
+        "supportata": false,
+        "titolo": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
+        "titoloLeggeCostituzionale": "Abolizione pluricandidature  legge  elettorale  per  Camera  e Senato:  ogni  candidato  in   un   solo   collegio   uninominale   o plurinominale"
+      },
+      "hash": "d3061d3dc9cbb641d85626793d31b3f606c2897b429e89b287fe781653af9501"
+    }
+  },
+  {
+    "id": "10d96b6fbd174161b779b20b2db9d2fd293521d220588dac54316cb9b2bdb0ee",
+    "type": "updated",
+    "itemId": "5200003",
+    "title": "Voto di Preferenza Firme Presentazione e Selezione Candidati",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1417,
+        "after": 1419
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5200003",
+      "title": "Voto di Preferenza Firme Presentazione e Selezione Candidati",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1419,
+      "quorum": 50000,
+      "openingDate": "2025-11-15",
+      "deadline": "2026-05-15",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200003",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200003",
+      "raw": {
+        "dataApertura": "2025-11-15",
+        "dataFineRaccolta": "2026-05-15",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-09-16",
+        "dataInizioRaccolta": "2025-11-15",
+        "dataInizioValidita": "2025-11-14",
+        "dataIns": "2025-11-14T00:44:37",
+        "dataUltimoAgg": "2025-11-15",
+        "descrizione": "Art.1 e 2 La proposta restituisce agli elettori la possibilità di indicare, tra i candidati presentati, uno o due nominativi (quota proporzionale. Possibilità negata  da oltre venti anni, a causa delle leggi elettorali succedutesi). Si intende ripristinare i dirtti costittuzionali sanciti dall'art.48.\nArt. 3 Abolizione di ogni privilegio nella raccolta delle firme per la presentazione dei candidati: tutte le liste saranno alla partenza in condizione di parità nella competizione elettorale. L'ingiusto privilegio concesso sinora ai partiti già presenti in Parlamento mette in condizioni di svantaggio chi vorrebbe entrare in Parlamento.\nArt 4. Riduzione da 1500-2000 firme necessarie a 250-500 per collegio elettorale per la presentazione di liste per le elezioni politiche. \nArt 5. Per l’accesso ai fondi del due per mille è necessario, nello statuto dei partiti, che venga data evidenza della selezione dei candidati per le elezioni Europee, Politiche e Regionali tramite primarie con voto secondo i criteri stabiliti dall'art.48 della Costituzione",
+        "descrizioneBreve": "Reintroduzione del voto di preferenza nel listino plurinominale, abolizione esenzione raccolta firme per i partiti già in parlamento con riduzione del numero di firme necessarie ed obbligo di primarie per presentazione candidati",
+        "estremi": "3400004",
+        "id": 5200003,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://votolibeguale.it",
+        "sostenitori": 1419,
+        "supportata": false,
+        "titolo": "Voto di Preferenza Firme Presentazione e Selezione Candidati\n",
+        "titoloLeggeCostituzionale": "Reintroduzione voto preferenza in listini plurinominali legge elettorale Camera e Senato. \"Modifiche al t.u. dpr 30/3/1957, n.361, e al t.u. d.lgs. 20/12/1993, n. 533 elezione Camera  e Senato\""
+      },
+      "hash": "2e928ad9a0f135338839dd4fa05f4dd2523fd2e603ab2fc274cb434ebb4f441e"
+    }
+  },
+  {
+    "id": "74f43c9b8baba6d19a52404e08616ba7024db557f709147c667463f742ec05f1",
+    "type": "updated",
+    "itemId": "5400028",
+    "title": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1526,
+        "after": 1531
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5400028",
+      "title": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1531,
+      "quorum": 50000,
+      "openingDate": "2025-12-19",
+      "deadline": "2026-06-19",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5400028",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5400028",
+      "raw": {
+        "dataApertura": "2025-12-19",
+        "dataFineRaccolta": "2026-06-19",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-12-16",
+        "dataInizioRaccolta": "2025-12-19",
+        "dataInizioValidita": "2025-12-19",
+        "dataIns": "2025-12-19T21:27:10",
+        "dataUltimoAgg": "2025-12-20",
+        "descrizione": "Questa proposta di legge è composta da 29 articoli. Nel sito del comitato è caricata la relazione illustrativa in cui vengono spiegati in maniera dettagliata tutti gli articoli. Sono trattati i seguenti punti:\n1)Mantenimento diretto dei figli. La forma di mantenimento indiretta di mantenimento tramite assegno permane solo in casi particolari e dovrà essere rendicontata al genitore obbligato al pagamento.\n2)L'assegnazione della casa coniugale al genitore che non è l'esclusivo proprietario è vincolata al pagamento di una indennità in base alla percentuale di proprietà del genitore che è uscito dall'abitazione. Sono obbligati altresì al pagamento di un'ulteriore indennità anche i terzi che non fanno parte del nucleo familiare originario.\n3)Il mantenimento diretto include anche i figli maggiorenni. Entrambi i genitori devono mantenerli fino a indipendenza economica salvo mancato impegno negli studi o nella ricerca attiva di un'occupazione lavorativa.\n4)Tutela dei minori dalla strumentalizzazione. I figli non possono essere utilizzati come strumenti di pressione o ritorsione tra genitori. Tali condotte sono qualificate come abuso e possono comportare la sospensione o la revoca della responsabilità genitoriale oltre a sanzioni di natura economica.\n5)Eliminazione della rivalutazione ISTAT degli assegni.\n6)Eliminazione dell'assegno divorzile e della legge che impone la cessione del 40% della liquidazione al titolare di tale assegno.\n7)Revisione della legge sui pignoramenti.\n",
+        "descrizioneBreve": "Il crescente malessere legato alle problematiche familiari rende sempre più urgente un nuovo intervento sulla disciplina della separazione coniugale e dell'affidamento dei figli.  Il modello attuale di affidamento (weekend alternati e 1 o 2 giorni infrasettimanali) crea notevoli disparità e ciò porta all’affollamento delle aule dei tribunali alla ricerca di tempi maggiori di frequentazione di quelli previsti dai protocolli e condizioni economiche più equilibrate per consentire una vita dignitosa ad entrambi i genitori. Il diritto di famiglia si deve adeguare alla società attuale.\n",
+        "estremi": "3800001",
+        "id": 5400028,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "comitatogiustiziaequitafamiliare.it",
+        "sostenitori": 1531,
+        "supportata": false,
+        "titolo": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA \n",
+        "titoloLeggeCostituzionale": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA"
+      },
+      "hash": "2d11389a2ff9309cc1a56ba70ee18c98991848ddbe42d61bf97c5dc6cb894c51"
+    }
+  },
+  {
+    "id": "3313719ff4a50fe5321415b312dc96ec4f30a5207cac813c526303a2c56f64f4",
+    "type": "updated",
+    "itemId": "5400032",
+    "title": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1335,
+        "after": 1340
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5400032",
+      "title": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1340,
+      "quorum": 50000,
+      "openingDate": "2025-12-20",
+      "deadline": "2026-06-20",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5400032",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5400032",
+      "raw": {
+        "dataApertura": "2025-12-20",
+        "dataFineRaccolta": "2026-06-20",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-12-16",
+        "dataInizioRaccolta": "2025-12-20",
+        "dataInizioValidita": "2025-12-20",
+        "dataIns": "2025-12-20T19:34:46",
+        "dataUltimoAgg": "2025-12-20",
+        "descrizione": "Questa proposta di legge è composta da 59 articoli spiegati in maniera approfondita nel sito del comitato.\n1. Pene più severe per le false accuse.\nIntroduzione di sanzioni penali e civili per chi presenta denunce infondate o strumentali. Chi mente per ottenere vantaggi economici, giudiziari o familiari risponde personalmente dei danni causati.\n2.Le misure cautelari e limitative dei diritti personali non possono più scattare automaticamente. È necessario l’accertamento di elementi oggettivi e riscontri concreti, nel pieno rispetto dello Stato di Diritto.\n3.Parità di tutela per tutte le vittime, senza distinzione di sesso. Le tutele alle vittime di violenza previste dall’ordinamento si applicano a tutte le persone, a prescindere dal genere, senza discriminazioni ideologiche.\n4.Responsabilità e trasparenza dei centri finanziati con fondi pubblici.\nI centri antiviolenza e di assistenza devono garantire pari accesso a tutte le vittime e rendicontare in modo trasparente l’utilizzo dei fondi pubblici. Ogni forma di esclusione o irregolarità comporta la revoca dei finanziamenti.\n5.In caso di assoluzione, è previsto il ripristino immediato dei diritti personali e genitoriali compressi durante il procedimento. Lo Stato deve rimediare agli effetti di provvedimenti adottati su accuse rivelatesi infondate.\n6.Blocca il conflitto di interessi di assistenti sociali, giudici onorari, psicologi e tecnici di CTU con l'essere soci o titolari di case famiglia e cav.\n\n",
+        "descrizioneBreve": "Lo scopo di questa proposta di legge è di ripristinare una giustizia che protegge le vittime vere e punisce gli abusi, eliminare le discriminazioni in base al genere, rendere la legge neutra ai sensi dell'articolo 3 della Costituzione. La riforma rafforza la tutela delle vittime reali e contrasta l’uso distorto della giustizia come strumento di ricatto o per ottenere vantaggi nella separazione e affidamento dei figli. Consente la ripetizione delle somme erogate alle querelanti e ai CAV quando l'imputato è stato assolto in formula piena in sede penale.\n",
+        "estremi": "3800003",
+        "id": 5400032,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "comitatogiustiziaequitafamiliare.it",
+        "sostenitori": 1340,
+        "supportata": false,
+        "titolo": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
+        "titoloLeggeCostituzionale": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI "
+      },
+      "hash": "6eaa9cd4bc11f23636370238b6201a09492674c45a28e09c1388ffece472c4c6"
+    }
+  },
+  {
+    "id": "4f757cf2688f6cc556c038acf89f0eac578e2580c15d5aa7a29e5dd3f18dd093",
+    "type": "updated",
+    "itemId": "5500012",
+    "title": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 4060,
+        "after": 4073
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5500012",
+      "title": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 4073,
+      "quorum": 50000,
+      "openingDate": "2026-01-13",
+      "deadline": "2026-07-13",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5500012",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5500012",
+      "raw": {
+        "dataApertura": "2026-01-13",
+        "dataFineRaccolta": "2026-07-13",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-12-02",
+        "dataInizioRaccolta": "2026-01-13",
+        "dataInizioValidita": "2026-01-13",
+        "dataIns": "2026-01-13T17:21:17",
+        "dataUltimoAgg": "2026-01-13",
+        "descrizione": "La proposta di Legge di Iniziativa Popolare per l’introduzione di un REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI) ha come obiettivo principale istituire un sostegno economico strutturale e continuativo per i cittadini in difficoltà economica. L’RMGI mira a contrastare , con il fine di farla diminuire progressivamente negli anni , la povertà assoluta e relativa, garantendo un REDDITO DI BASE a chi è privo di mezzi adeguati, abile al lavoro ma escluso dal mercato del lavoro, e non tutelato da altre forme di sostegno pubblico. La proposta critica le attuali misure ADI e SFL per aver ridotto del 50% i beneficiari del Reddito di Cittadinanza, aumentando il numero di persone in povertà assoluta. L’RMGI si configura come uno strumento per promuovere l’inclusione sociale e lavorativa, obbligando i beneficiari più giovani 18-49 anni a partecipare a percorsi di politiche attive per l’inserimento lavorativo o la formazione professionale. Per i cittadini dai 50 anni in poi, la partecipazione è facoltativa, diventa obbligatorio il percorso di LSU – LAVORI SOCIALMENTE UTILI , mentre per gli over 67 l’RMGI sostituisce le pensioni minime sociali , incrementando l’ importo attuale.",
+        "descrizioneBreve": "IL GRUPPO REDDITO MINIMO GARANTITO INDIVIDUALE HA \nL' OBIETTIVO DI PRESENTARE IN PARLAMENTO UNA  proposta di Legge di Iniziativa Popolare per l’introduzione di un REDDITO MINIMO GARANTITO INDIVIDUALE  (RMGI) ATTRAVERSO LA RACCOLTA DI 50.000 FIRME per ottenere un sostegno economico al pari di altri Paesi Europei. L’RMGI mira a contrastare , con il fine di farla diminuire progressivamente negli anni , la povertà assoluta e relativa, garantendo un REDDITO  DI BASE a chi è privo di mezzi adeguati, abile al lavoro ma escluso dal mercato del lavoro e non tutelato da altre forme di sostegno.",
+        "estremi": "3700001",
+        "id": 5500012,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
+        "sostenitori": 4073,
+        "supportata": false,
+        "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
+        "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
+      },
+      "hash": "4f958af5ccf53f926955d64adb30683d67c5a8c8872689c593433015ce20da66"
+    }
+  },
+  {
+    "id": "edce47e28a624d365c1e4fddf6ba80717e9a8c61d13b147b1f42fce2bf35ef49",
+    "type": "updated",
+    "itemId": "5600002",
+    "title": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 51016,
+        "after": 51081
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600002",
+      "title": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 51081,
+      "quorum": 50000,
+      "openingDate": "2026-01-20",
+      "deadline": "2026-07-20",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600002",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600002",
+      "raw": {
+        "dataApertura": "2026-01-20",
+        "dataFineRaccolta": "2026-07-20",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-01-16",
+        "dataInizioRaccolta": "2026-01-20",
+        "dataInizioValidita": "2026-01-20",
+        "dataIns": "2026-01-20T09:54:53",
+        "dataUltimoAgg": "2026-01-20",
+        "descrizione": "AIOM (Associazione Italiana di Oncologia Medica), Fondazione AIRC, Fondazione Umberto Veronesi e Fondazione AIOM promuovono l’introduzione di una accisa fissa di 5 euro su tutti i prodotti da fumo e da inalazione di nicotina, compresi quelli di nuova generazione. \n\nLa strategia di incremento drastico del prezzo si è dimostrata la più efficace in altri Paesi Europei (come la Francia e l'Irlanda) nel ridurre in maniera significativa il numero di fumatori. \n\nIl fumo di tabacco rappresenta una delle principali cause di malattia e mortalità prevenibile nel nostro Paese. Ogni anno in Italia si stimano circa 93.000 decessi attribuibili al tabagismo, con effetti rilevanti sull’incidenza di tumori, patologie cardiovascolari, malattie respiratorie croniche, e altre malattie. L’impatto economico e sociale del fenomeno è di straordinaria entità: i costi complessivi derivanti dal consumo di tabacco e nicotina, tra spese sanitarie dirette, perdita di produttività e danni ambientali, superano i 26 miliardi di euro annui. \n\nLa proposta prevede che il gettito derivante dall’accisa sia vincolato a finalità di pubblico interesse e, in particolare, al finanziamento del Servizio Sanitario Nazionale.\n\n",
+        "descrizioneBreve": "AIOM (Associazione Italiana di Oncologia Medica), Fondazione AIRC, Fondazione Umberto Veronesi e Fondazione AIOM promuovono l’introduzione di una accisa fissa di 5 euro su tutti i prodotti da fumo e da inalazione di nicotina, compresi quelli di nuova generazione. \nL’obiettivo è contrastare il tabagismo che è associato a circa 93000 decessi all’anno in Italia (per cancro e per altre patologie) con costi enormi per il Servizio Sanitario Nazionale. \nLa strategia di incremento drastico del prezzo si è dimostrata la più efficace in altri Paesi Europei nel ridurre il numero di fumatori.\n",
+        "estremi": "4000001",
+        "id": 5600002,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://5eurocontroilfumo.it/",
+        "sostenitori": 51081,
+        "supportata": false,
+        "titolo": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
+        "titoloLeggeCostituzionale": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale"
+      },
+      "hash": "635d8622ab0e3a4a109d469f3e82a702ecdccf425d94e2fa63c0da6193bd10df"
+    }
+  },
+  {
+    "id": "eb00906244319b0a6e8e52b49862a70874626984d1131cbc42208a9327b2be66",
+    "type": "updated",
+    "itemId": "5600004",
+    "title": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 538,
+        "after": 539
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600004",
+      "title": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 539,
+      "quorum": 50000,
+      "openingDate": "2026-01-25",
+      "deadline": "2026-07-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600004",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600004",
+      "raw": {
+        "dataApertura": "2026-01-25",
+        "dataFineRaccolta": "2026-07-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-10-30",
+        "dataInizioRaccolta": "2026-01-25",
+        "dataInizioValidita": "2026-01-21",
+        "dataIns": "2026-01-21T11:57:07",
+        "dataUltimoAgg": "2026-01-25",
+        "descrizione": "La proposta di legge costituzionale vuole riconoscere e tutelare espressamente le Province montane,\noggi in svantaggio strutturale. Le Province montane, individuate con legge della Repubblica, previo parere dei Consigli regionali interessati, sono riconosciute quali enti territoriali autonomi. \nLa legge mira a contrastare spopolamento e marginalità. Punta a rafforzare la solidarietà territoriale e la rappresentanza democratica con elezione diretta degli organi provinciali. Prevede un’autonomia finanziaria mirata, attribuibile dalle Regioni senza nuovi oneri per lo Stato.\nLe Province montane saranno individuate con legge della Repubblica, previo parere regionale,\nsulla base di criteri non solo altimetrici ma anche demografici e socio-economici.\nModifica tre articoli: 114 (introduzione delle Province montane), 117 (competenza statale sulle\nregole elettorali), 119 (facoltà regionale di sostegno finanziario).",
+        "descrizioneBreve": "La proposta di legge costituzionale vuole riconoscere e tutelare espressamente le Province montane, oggi in svantaggio strutturale. Mira a contrastare spopolamento e marginalità. Punta a rafforzare la solidarietà territoriale e la rappresentanza democratica con elezione diretta degli organi provinciali. Prevede un’autonomia finanziaria mirata, attribuibile dalle Regioni senza nuovi oneri per lo Stato.\nLe Province montane sarebbero individuate con legge della Repubblica, previo parere regionale, sulla base di criteri non solo altimetrici ma anche demografici, sociali ed economici. ",
+        "estremi": "3600004",
+        "id": 5600004,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://partitopopolarenord.org/proposte-di-legge/autonomia-delle-province-montane/",
+        "sostenitori": 539,
+        "supportata": false,
+        "titolo": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
+        "titoloLeggeCostituzionale": "Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane"
+      },
+      "hash": "61a16a3e42f7256a3c5d1061b4e4b13f6a15eebfd441497925a3094dbf4b7b83"
+    }
+  },
+  {
+    "id": "e38beebffdadca4a4e1310adc7b343d9e6a32f6991aa8ccf2016bf916aee8ec8",
+    "type": "updated",
+    "itemId": "5600005",
+    "title": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 447,
+        "after": 448
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600005",
+      "title": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico",
+      "category": "ISTRUZIONE E COMUNICAZIONE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 448,
+      "quorum": 50000,
+      "openingDate": "2026-01-25",
+      "deadline": "2026-07-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600005",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600005",
+      "raw": {
+        "dataApertura": "2026-01-25",
+        "dataFineRaccolta": "2026-07-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-10-30",
+        "dataInizioRaccolta": "2026-01-25",
+        "dataInizioValidita": "2026-01-21",
+        "dataIns": "2026-01-21T12:18:19",
+        "dataUltimoAgg": "2026-01-25",
+        "descrizione": "La modifica dell’articolo 9 della Costituzione è finalizzata ad elevare al rango di diritto costituzionale quello di conoscere la Storia della propria terra, come inalienabile diritto personale e prepolitico, che costituisce la necessaria base per l’identità personale, il sentimento di appartenenza e di cittadinanza. La Storia è innanzitutto quella della terra nella quale si nasce, si vive, si prospera, si costruisce la propria famiglia e la propria vicenda personale: è la storia della propria Città, della propria Provincia, della propria Regione: nel complesso scenario italiano, si tratta di millenni di Storia sedimentata e complessa, che ha plasmato in maniera duratura il carattere dei Popoli che vivono in Italia. \nDi fronte a un mondo globalizzato e apolide, la risposta deve essere identitaria e valoriale, perché senza identità le persone diventano numeri e moltitudine.\nAttraverso la Storia delle nostre Regioni può essere narrata la Storia mondiale di ogni epoca (guerre, conquiste, scoperte, fasi economiche, migrazioni, fenomeni sociali) alla luce del suo concreto accadere nelle nostre terre.\nIl Sistema scolastico della Repubblica deve pertanto ispirarsi al principio della sacralità dell’identità storica, e nella definizione delle linee generali dell’istruzione e della formazione scolastica di ogni ordine e grado, la Repubblica deve assicurare la più ampia valorizzazione dell’identità culturale e della storia delle Città, delle Province e delle Regioni che la compongono.\n",
+        "descrizioneBreve": "La modifica dell’articolo 9 della Costituzione è finalizzata ad elevare al rango di diritto costituzionale quello di conoscere la Storia della propria terra, come inalienabile diritto personale e prepolitico, che costituisce la necessaria base per l’identità personale, il sentimento di appartenenza e di cittadinanza. La Storia è innanzitutto quella della terra nella quale si nasce, si vive, si prospera, si costruisce la propria famiglia e la propria vicenda personale: è la storia della propria Città, della propria Provincia, della propria Regione.",
+        "estremi": "3600005",
+        "id": 5600005,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "ISTRUZIONE E COMUNICAZIONE",
+          "id": 9,
+          "nome": "ISTRUZIONE E COMUNICAZIONE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://partitopopolarenord.org/proposte-di-legge/scuola-identita-e-storia-regionale/",
+        "sostenitori": 448,
+        "supportata": false,
+        "titolo": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico\n",
+        "titoloLeggeCostituzionale": "Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico"
+      },
+      "hash": "01bf2721c16565243970ddaef68b304b5349b451e06fadffb680566f8edcf107"
+    }
+  },
+  {
+    "id": "8be23148b90353962600c32c94990a19aa99585962d00575a8ba8c64c880953a",
+    "type": "updated",
+    "itemId": "5600006",
+    "title": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1420,
+        "after": 1421
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600006",
+      "title": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1421,
+      "quorum": 50000,
+      "openingDate": "2026-01-25",
+      "deadline": "2026-07-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600006",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600006",
+      "raw": {
+        "dataApertura": "2026-01-25",
+        "dataFineRaccolta": "2026-07-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-10-30",
+        "dataInizioRaccolta": "2026-01-25",
+        "dataInizioValidita": "2026-01-21",
+        "dataIns": "2026-01-21T12:23:27",
+        "dataUltimoAgg": "2026-01-25",
+        "descrizione": "La modifica dell’articolo ha il fine di ridurre il margine di opinabilità nel giudizio sulla condotta del pubblico ufficiale che abbia dovuto ricorrere all’impiego di armi per respingere una violenza. Tale esigenza è imposta dagli episodi, sempre più numerosi, di esponenti delle Forze dell’Ordine condannati per reati contro la persona in ragione delle modalità con le quali avevano respinto violenze in atto da parte di terzi. Si è previsto, pertanto, che, in funzione delle modalità con le quali viene attuata la violenza e, dunque, a seconda della carica lesiva della stessa, il pubblico ufficiale possa ricorrere a strumenti di contrasto di efficacia crescente, con la garanzia che, adottando lo strumento di contrasto previsto per il tipo di violenza in atto, si presumerà ex lege e iuris et de iure che l’impiego di detto strumento sia proporzionato rispetto alla violenza da respingere, con esclusione, dunque, di ogni valutazione in merito effettuata ex post. Allo scopo di rendere ancora più efficace l’azione dei pubblici ufficiali nel contrasto alle violenze contro i cittadini e contro le stesse Forze dell’Ordine, si è previsto inoltre che, ai fini dell’articolo in esame, le armi comuni ad impulsi elettrici – i cosiddetti “taser” - non siano considerate armi da sparo e, quindi, il loro impiego sia legittimo dinanzi a qualsiasi forma di violenza alla persona.",
+        "descrizioneBreve": "Uso legittimo delle armi: in funzione delle modalità con le quali viene attuata la violenza e, dunque, a seconda della carica lesiva della stessa, il pubblico ufficiale deve poter ricorrere a strumenti di contrasto di efficacia crescente, con la garanzia che, adottando lo strumento di contrasto previsto per il tipo di violenza in atto, si presumerà ex lege e iuris et de iure che l’impiego di detto strumento sia proporzionato rispetto alla violenza da respingere, con esclusione, dunque, di ogni valutazione in merito effettuata ex post.",
+        "estremi": "3600003",
+        "id": 5600006,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+        "sostenitori": 1421,
+        "supportata": false,
+        "titolo": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
+        "titoloLeggeCostituzionale": "Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi"
+      },
+      "hash": "62e306fbde16a2c5f66e46f4e44021416a3cdb194c352e9271bba43e369c4c1f"
+    }
+  },
+  {
+    "id": "49a61b519b95eed32fec1b555721085022159bbcd72c6160184daf2f78d3e9a5",
+    "type": "updated",
+    "itemId": "5600007",
+    "title": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 3356,
+        "after": 3364
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600007",
+      "title": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 3364,
+      "quorum": 50000,
+      "openingDate": "2026-01-25",
+      "deadline": "2026-07-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600007",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600007",
+      "raw": {
+        "dataApertura": "2026-01-25",
+        "dataFineRaccolta": "2026-07-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-10-30",
+        "dataInizioRaccolta": "2026-01-25",
+        "dataInizioValidita": "2026-01-21",
+        "dataIns": "2026-01-21T12:29:00",
+        "dataUltimoAgg": "2026-01-25",
+        "descrizione": "La modifica dell’articolo è tesa rafforzare la possibilità di esercizio della legittima difesa, esigenza\nfortemente sentita a livello di opinione pubblica, in una fase storica della Repubblica ove la\ncriminalità comune – superficialmente definita da troppi commentari “micro criminalità” – dilaga,\nspecialmente nella forma della violazione del domicilio. In tale circostanza, dunque, il cittadino si\ntrova solo di fronte a forme di aggressione spesso gravi, scontando l’obiettiva difficoltà di valutare\nle reali intenzioni dell’aggressore e di agire in maniera lucida, in considerazione del grave\nturbamento che tipicamente investe la vittima. Per tali ragioni, in questi casi, appare oltremodo\nopportuno che la sussistenza del requisito della proporzionalità tra difesa ed offesa venga sempre\npresunto ex lege e iuris et de iure, in automatico, svincolando colui che deve difendere il proprio domicilio dagli aggressori dalla necessità di effettuare valutazioni sulle dinamiche in atto che, per ragioni emotive e\ntemporali, non sono quasi mai umanamente pretendibili; ciò anche nel caso in cui la vittima si\navvalga di armi legittimamente detenute o di altro mezzo idoneo alla difesa, senza il ricorso ai quali,\nnella maggior parte delle occasioni, la difesa non è obiettivamente possibile. La medesima necessità\ne, quindi, la medesima logica permane anche nel caso di violazioni del luogo ove la vittima esercita\nun'attività commerciale, professionale o imprenditoriale.",
+        "descrizioneBreve": "Quando una persona subisce un’aggressione, spesso grave, è difficile capire le reali intenzioni di chi attacca e mantenere la lucidità, perché lo shock è inevitabile. Per questo è giusto presumere sempre la proporzionalità tra difesa e offesa, senza pretendere che chi si difende in casa debba fare valutazioni complesse mentre è in pericolo. Quindi la difesa è sempre legittima. ",
+        "estremi": "3600002",
+        "id": 5600007,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+        "sostenitori": 3364,
+        "supportata": false,
+        "titolo": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
+        "titoloLeggeCostituzionale": "Modifiche all’art. 52 del codice penale in materia di difesa legittima"
+      },
+      "hash": "d6d7dcc4088657930617fc66c372ebbd41e0c5498031a7d09e8b25772d47dff2"
+    }
+  },
+  {
+    "id": "dbc9238635da15ee9bb552e5205fc532581560b179b6857618ed6c3db6a42739",
+    "type": "updated",
+    "itemId": "5600011",
+    "title": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 2394,
+        "after": 2397
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600011",
+      "title": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2397,
+      "quorum": 50000,
+      "openingDate": "2026-01-25",
+      "deadline": "2026-07-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600011",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600011",
+      "raw": {
+        "dataApertura": "2026-01-25",
+        "dataFineRaccolta": "2026-07-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2025-10-30",
+        "dataInizioRaccolta": "2026-01-25",
+        "dataInizioValidita": "2026-01-21",
+        "dataIns": "2026-01-21T12:44:56",
+        "dataUltimoAgg": "2026-01-25",
+        "descrizione": "La modifica dell’articolo 14 della Costituzione è finalizzata ad elevare al rango di diritto costituzionale quello di difesa del domicilio del cittadino, quale luogo ove si esprime primariamente la sua personalità. È dato notorio a livello generale ed inconfutabile che l’abitazione di residenza – luogo in cui primariamente si declina il concetto di domicilio – è per il cittadino il centro dei suoi interessi personali, familiari, culturali e spirituali; essa è il luogo in cui egli cerca tranquillità e riposo dopo le incombenze quotidiane, in cui egli coltiva i propri interessi culturali ed in cui conserva i beni a cui è più legato e, soprattutto, l’abitazione è il luogo degli affetti familiari e dei ricordi più intimi. Il domicilio, dunque, non è un semplice spazio, asettico ed avulso dalla persona, ma è “un tempio” pregno delle esperienze di chi vi dimora, che catalizza in maniera massima i suoi affetti, interessi e ricordi. Per tale ragione, la difesa del domicilio contro qualunque intruso che vi si sia introdotto in violazione di legge merita certamente di essere elevato a valore primario dello Stato, in quanto detta violazione integra un pregiudizio grave alla persona.      ",
+        "descrizioneBreve": "La modifica dell’articolo 14 della Costituzione è finalizzata ad elevare al rango di diritto costituzionale quello di difesa del domicilio del cittadino, quale luogo ove si esprime primariamente la sua personalità. \nIl domicilio, quale luogo ove si svolge in via primaria la personalità umana, è inviolabile.\nLa sua difesa contro chi vi si sia introdotto in violazione di legge non è, in alcun caso, punibile. ",
+        "estremi": "3600001",
+        "id": 5600011,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+        "sostenitori": 2397,
+        "supportata": false,
+        "titolo": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
+        "titoloLeggeCostituzionale": "Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio"
+      },
+      "hash": "0b3fc43fed097dca469ed7bfd422b0894dc003976100214f7ace654bd9ddf74a"
+    }
+  },
+  {
+    "id": "0a641569374e1f44ab1c2619c034822ddd1272e2da546d279c59c37e4dd94ab6",
+    "type": "updated",
+    "itemId": "5600018",
+    "title": "Stop Tassa Etica",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 16309,
+        "after": 16323
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5600018",
+      "title": "Stop Tassa Etica",
+      "category": "ECONOMIA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 16323,
+      "quorum": 50000,
+      "openingDate": "2026-01-22",
+      "deadline": "2026-07-22",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600018",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600018",
+      "raw": {
+        "dataApertura": "2026-01-22",
+        "dataFineRaccolta": "2026-07-22",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-01-20",
+        "dataInizioRaccolta": "2026-01-22",
+        "dataInizioValidita": "2026-01-22",
+        "dataIns": "2026-01-22T22:09:36",
+        "dataUltimoAgg": "2026-02-03",
+        "descrizione": "La presente proposta di legge mira ad abolire la “tassa etica”, un’addizionale IRPEF e IRES del\n25% applicata ai redditi derivanti da attività pienamente lecite nel settore pornografico. Introdotta\nnel 2006, si tratta di una tassa aggiuntiva che, per chi lavora in questo ambito, si somma alle altre\nimposte ordinarie già dovute. Determina un trattamento fiscale discriminatorio fondato non sulla\ncapacità contributiva, ma su una valutazione morale del contenuto dell’attività lavorativa svolta.\nQuesta impostazione contrasta con principi fondamentali dell’ordinamento costituzionale: la laicità\ndello Stato, che impone neutralità rispetto alle scelte morali individuali; l’uguaglianza fiscale, che\nvieta discriminazioni arbitrarie tra contribuenti; la libertà di espressione; e il principio di capacità\ncontributiva, secondo cui ciascuno deve contribuire alle spese pubbliche in proporzione al proprio\nreddito.\n\nLa tassa etica colpisce infatti lavoratrici e lavoratori che svolgono un’attività legale non per quanto\nguadagnano, ma per ciò che producono, trasformando il fisco in uno strumento di giudizio etico e di\nstigmatizzazione sociale.\n\nLa proposta intende dunque ripristinare un sistema tributario equo, neutrale e coerente con i principi\ncostituzionali, eliminando una misura punitiva che non tutela alcun interesse pubblico e che\nrappresenta un precedente pericoloso nell’uso della leva fiscale come strumento di controllo morale.",
+        "descrizioneBreve": "La presente proposta di legge mira ad abolire la “tassa etica”, un'addizionale IRPEF e IRES applicata ai redditi derivanti da attività pienamente lecite nel settore pornografico. Tale addizionale, pari al 25%, si aggiunge alle imposte ordinarie e introduce un trattamento fiscale discriminatorio fondato su una valutazione morale dell’attività lavorativa svolta, in contrasto con i principi di uguaglianza, laicità dello Stato e capacità contributiva.",
+        "estremi": "4000003",
+        "id": 5600018,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "ECONOMIA",
+          "id": 5,
+          "nome": "ECONOMIA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://radicali.it/campagne/stop-tassa-etica/",
+        "sostenitori": 16323,
+        "supportata": false,
+        "titolo": "Stop Tassa Etica",
+        "titoloLeggeCostituzionale": "Abrogazione dell’articolo 1, comma 466, della legge 23 dicembre 2005, n. 266 (c.d. “tassa etica”)."
+      },
+      "hash": "35570d4e225bf74d4b9c6107cea9ccb2c02e56a5f4232f63a7cf7e3710706621"
+    }
+  },
+  {
+    "id": "f72f8e0f6b6fda69443d712290d184c147b9ac18d5bbfa5e9a613065f77b5588",
+    "type": "updated",
+    "itemId": "5700000",
+    "title": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 125834,
+        "after": 125854
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5700000",
+      "title": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 125854,
+      "quorum": 50000,
+      "openingDate": "2026-01-30",
+      "deadline": "2026-07-30",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5700000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5700000",
+      "raw": {
+        "dataApertura": "2026-01-30",
+        "dataFineRaccolta": "2026-07-30",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-01-17",
+        "dataInizioRaccolta": "2026-01-30",
+        "dataInizioValidita": "2026-01-30",
+        "dataIns": "2026-01-30T08:45:51",
+        "dataUltimoAgg": "2026-01-30",
+        "descrizione": "La proposta di legge di iniziativa popolare “Remigrazione e Riconquista” rafforza la normativa vigente in materia di governo dei flussi migratori, tutela della sicurezza pubblica e politiche demografiche. Prevede misure più incisive di contrasto all’immigrazione irregolare, al traffico di esseri umani e allo sfruttamento lavorativo, attraverso l’inasprimento delle sanzioni penali e patrimoniali, il potenziamento delle espulsioni e dei rimpatri e specifiche disposizioni per stranieri condannati per reati gravi, inclusa la revoca della cittadinanza acquisita per naturalizzazione nei casi previsti.\n\nLa proposta istituisce un Programma Nazionale di Remigrazione per favorire il rientro volontario e assistito di cittadini stranieri regolarmente presenti, mediante incentivi economici, percorsi formativi pre-partenza e supporto al reinserimento nei Paesi d’origine, regolato da un Patto di Remigrazione con obblighi e controlli successivi al rientro. È inoltre istituito un Fondo per la Remigrazione, finanziato anche tramite la riconversione di risorse già destinate all’accoglienza e mediante proventi da confische.\n\nSono introdotte disposizioni per la regolamentazione delle attività delle ONG operanti nel Mediterraneo, la revisione delle norme sul ricongiungimento familiare e l’abolizione della protezione speciale. La proposta prevede infine il rafforzamento delle misure per il rientro degli italo-discendenti e l’istituzione di un Fondo per la Natalità Italiana.",
+        "descrizioneBreve": "La proposta di legge “Remigrazione e Riconquista” rafforza il quadro normativo in materia di immigrazione, sicurezza e politiche demografiche. Introduce misure più efficaci contro immigrazione irregolare, traffico di esseri umani e sfruttamento lavorativo, potenzia le procedure di rimpatrio ed espulsione, disciplina l’attività delle ONG, istituisce programmi di remigrazione volontaria assistita e fondi dedicati alla remigrazione e alla natalità italiana.",
+        "estremi": "4000002",
+        "id": 5700000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.remigrazione.org",
+        "sostenitori": 125854,
+        "supportata": false,
+        "titolo": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
+        "titoloLeggeCostituzionale": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana"
+      },
+      "hash": "e70e155d33225540e651f1b76cb06ed2de6d3e423f6a366611b8e92ce7db3af1"
+    }
+  },
+  {
+    "id": "fdaffdadc0a45b8345815912c392212f6b6b4774437c83f21f5b2f993887a63b",
+    "type": "updated",
+    "itemId": "5800000",
+    "title": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 3465,
+        "after": 3470
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "5800000",
+      "title": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 3470,
+      "quorum": 50000,
+      "openingDate": "2026-02-16",
+      "deadline": "2026-08-16",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5800000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5800000",
+      "raw": {
+        "dataApertura": "2026-02-16",
+        "dataFineRaccolta": "2026-08-16",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-02-13",
+        "dataInizioRaccolta": "2026-02-16",
+        "dataInizioValidita": "2026-02-16",
+        "dataIns": "2026-02-16T11:47:36",
+        "dataUltimoAgg": "2026-02-22",
+        "descrizione": "L’ordinamento vigente, pur prevedendo singoli strumenti di tutela in ambito civile, amministrativo e penale, non dispone di una disciplina unitaria del bullismo come fenomeno autonomo, soprattutto quando esso si sviluppa in contesti protetti o istituzionalizzati, caratterizzati da relazioni asimmetriche e dalla possibile amplificazione del danno attraverso dinamiche di gruppo.\n     La legge 29 maggio 2017, n. 71, ha introdotto una disciplina specifica in materia di cyberbullismo, ma risulta limitata alle condotte realizzate mediante strumenti informatici e non copre adeguatamente le forme tradizionali di bullismo né le ipotesi più gravi di bullismo di gruppo.\nDa qui la necessità di un intervento legislativo che coniughi:\n•\tprevenzione e formazione,\n•\ttutela effettiva della vittima,\n•\tresponsabilizzazione dell’autore,\n•\trisposta penale mirata, proporzionata e specializzata.\n",
+        "descrizioneBreve": "La presente proposta di legge popolare è presentata al fine di introdurre un quadro normativo organico e sistematico di prevenzione, tutela e contrasto del fenomeno del bullismo, con particolare riguardo agli ambienti scolastici, educativi, sportivi e formativi, nei quali tali condotte si manifestano con maggiore frequenza e con conseguenze particolarmente gravi.\n    Il bullismo rappresenta oggi una emergenza sociale ed educativa, con effetti profondi e duraturi sullo sviluppo psico-fisico delle vittime, sull’esercizio dei loro diritti fondamentali e sulla qualità della vita.",
+        "estremi": "4100000",
+        "id": 5800000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 3470,
+        "supportata": false,
+        "titolo": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
+        "titoloLeggeCostituzionale": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo"
+      },
+      "hash": "4fc54d6ae329f74771a37ab0e16ec77261fe073e8f27e833915259168f8eba98"
+    }
+  },
+  {
+    "id": "58f2a0933706fbd48ac3ef133a64129449398eb97c0099c084b886025c0b1f6f",
+    "type": "updated",
+    "itemId": "6000002",
+    "title": "\"NOEMI DURINI\"",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 4458,
+        "after": 4461
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6000002",
+      "title": "\"NOEMI DURINI\"",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 4461,
+      "quorum": 50000,
+      "openingDate": "2026-03-03",
+      "deadline": "2026-09-03",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6000002",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6000002",
+      "raw": {
+        "dataApertura": "2026-03-03",
+        "dataFineRaccolta": "2026-09-03",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-02-24",
+        "dataInizioRaccolta": "2026-03-03",
+        "dataInizioValidita": "2026-03-03",
+        "dataIns": "2026-03-03T14:31:22",
+        "dataUltimoAgg": "2026-04-29",
+        "descrizione": "La presente proposta di legge di iniziativa popolare, ex art. 71, secondo comma, della Costituzione, intende dare voce a tantissimi cittadini ormai esasperati, sconfortati e stanchi di un Sistema che tutela gli assassini e non le vittime di femminicidio. Assistiamo ad una INGIUSTIZIA nella GIUSTIZIA con assassini che ricevono tutele maggiori di VITTIME e FAMILIARI a cui sono stati strappati i loro cari per SEMPRE. Lo Stato dovrebbe garantire una Giustizia che sia concreta per la sicurezza delle donne e delle famiglie e NON CONCEDERE agli autori di tali fatti criminosi benefici e permessi premio. Ci troviamo di fronte ai familiari delle vittime che vivono il VERO ERGASTOLO del dolore e gli assassini liberi dopo pochi anni, proprio come è accaduto a Lucio Marzo che ha iniziato a beneficiare di permessi \"premio\" a distanza di tre anni dal femminicidio di Noemi e a distanza di un anno dalla sentenza di condanna definitiva. I permessi premio a Lucio Marzo sono stati concessi sulla base di valutazioni considerate positive, ma i fatti hanno raccontato altro. Durante uno di questi permessi, nel 2023, è stato fermato ubriaco alla guida. \nPermessi concessi anche dopo il rientro positivo ai cannabinoidi o per motivazioni incomprensibili, come la partecipazione alle partite del Cagliari, la frequentazione di una ragazza o il permesso premio per recarsi alle urne per votare nonostante l'interdizione dai pubblici uffici. Una situazione inaccettabile in un paese civile come l'Italia.",
+        "descrizioneBreve": "La proposta legislativa di iniziativa popolare \"Noemi Durini\", non e' solo un atto formale, e' un GRIDO di dolore, una richiesta di GIUSTIZIA, e' una battaglia di CIVILTA'. Non solo per Noemi, per tutte le donne uccise, per tutte le famiglie spezzate, per un paese che non può più tollerare l'impunità.\nIl cuore della proposta legislativa \"Noemi Durini\" e' uno solo: BASTA Permessi \"PREMIO\" e \"BENEFICI\" Penitenziari per chi si macchia di reati efferati come un femminicidio.",
+        "estremi": "4200000",
+        "id": 6000002,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "Proposta legislativa scritta dall'avv.Valentina Presicce ",
+        "sostenitori": 4461,
+        "supportata": false,
+        "titolo": "\"NOEMI DURINI\"",
+        "titoloLeggeCostituzionale": "\"Noemi Durini\""
+      },
+      "hash": "3ee13245562814632965b2b2e110fa0b6ca96eebd7f4e0dfa6d12e0fa198f683"
+    }
+  },
+  {
+    "id": "298370572e1f4360c96201b8148279d571c2fdd8a4870783ea4811c26c666de7",
+    "type": "updated",
+    "itemId": "6100007",
+    "title": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 35275,
+        "after": 35568
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6100007",
+      "title": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
+      "category": "AGRICOLTURA, SILVICOLTURA E PESCA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 35568,
+      "quorum": 50000,
+      "openingDate": "2026-03-16",
+      "deadline": "2026-09-16",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6100007",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6100007",
+      "raw": {
+        "dataApertura": "2026-03-16",
+        "dataFineRaccolta": "2026-09-16",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-03-13",
+        "dataInizioRaccolta": "2026-03-16",
+        "dataInizioValidita": "2026-03-16",
+        "dataIns": "2026-03-16T15:51:47",
+        "dataUltimoAgg": "2026-03-17",
+        "descrizione": "La proposta di legge disciplina il graduale superamento e il definitivo divieto dell’utilizzo di gabbie e di sistemi di contenimento, individuali o collettivi, che limitino la libertà di movimento per tutte le specie animali allevate a fini alimentari. Le disposizioni contenute sono altresì volte a sostenere la riconversione strutturale e tecnologica delle aziende zootecniche, valorizzando la sostenibilità ambientale, garantendo la tutela della salute pubblica e la qualità della filiera. Tale divieto si rende necessario – alla luce anche dei pareri scientifici dell’Autorità europea per la sicurezza alimentare (EFSA) – in quanto l’allevamento in gabbia rappresenta uno dei principali problemi legati al benessere animale negli attuali sistemi intensivi di produzione alimentare: l’allevamento in gabbia è considerato infatti lesivo delle caratteristiche etologiche degli animali. Nell’ultimo Eurobarometro sul benessere animale più del 90% dei cittadini italiani ha dichiarato la propria contrarietà al confinamento in gabbia per gli animali. Introdurre un divieto a livello nazionale risponde alle richieste della società civile e rappresenta un’occasione unica di innovazione per le filiere produttive italiane, in linea con quanto già fatto da molti paesi competitor. Molti italiani hanno già chiesto un divieto delle gabbie per tutte le specie allevate – attraverso l’iniziativa ‘End the Cage Age’ – ma non hanno ancora ricevuto risposte concrete dalle istituzioni.",
+        "descrizioneBreve": "Negli attuali sistemi intensivi di produzione alimentare l’allevamento in gabbia rappresenta uno dei principali problemi legati al benessere animale. Gli animali, confinati in spazi ristretti, non possono esprimere comportamenti naturali fondamentali con conseguenze molto gravi sia a livello fisico che mentale, come documentato anche da pareri scientifici internazionali. La proposta di legge d’iniziativa popolare mira ad introdurre un divieto a livello nazionale dell'uso delle gabbie per tutte le specie animali allevate a fini alimentari.",
+        "estremi": "4300001",
+        "id": 6100007,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AGRICOLTURA, SILVICOLTURA E PESCA",
+          "id": 15,
+          "nome": "AGRICOLTURA, SILVICOLTURA E PESCA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.essereanimali.org/gabbie-vuote",
+        "sostenitori": 35568,
+        "supportata": false,
+        "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
+        "titoloLeggeCostituzionale": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free"
+      },
+      "hash": "cb8fbf1ab8025de2d21ee3e838944cb59cbf853456fe43690387460d3914dfec"
+    }
+  },
+  {
+    "id": "6c643b36855ae6e51317d699ebc993448b8d08d29a9319b1706962a6dd9d1586",
+    "type": "updated",
+    "itemId": "6100008",
+    "title": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 7836,
+        "after": 7855
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6100008",
+      "title": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
+      "category": "VITA POLITICA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 7855,
+      "quorum": 50000,
+      "openingDate": "2026-03-18",
+      "deadline": "2026-09-18",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6100008",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6100008",
+      "raw": {
+        "dataApertura": "2026-03-18",
+        "dataFineRaccolta": "2026-09-18",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-03-17",
+        "dataInizioRaccolta": "2026-03-18",
+        "dataInizioValidita": "2026-03-18",
+        "dataIns": "2026-03-18T11:32:22",
+        "dataUltimoAgg": "2026-03-18",
+        "descrizione": "La proposta che avanziamo mira a trovare uno spazio istituzionale per una forma di Difesa, prevista già dal nostro ordinamento legislativo, che non sia quella legata alle Forze Armate e allo strumento militare. Se il percorso della Legge di iniziativa popolare arriverà a compimento daremo finalmente  concretezza a ciò che prefiguravano i Costituenti con il ripudio della guerra e che già oggi è previsto dalla legge e confermato dalla Corte Costituzionale: la possibilità di assolvere all’obbligo costituzionale dell’articolo 52 con una struttura di Difesa civile alternativa a quella prettamente militare, finanziata direttamente dai cittadini attraverso l’opzione fiscale in sede di dichiarazione dei redditi.\n\nIl Dipartimento, collocato presso la Presidenza del Consiglio, andrà a coordinare i Corpi civili di pace, un Istituto di ricerca per la pace e il disarmo operando in sinergia con protezione civile e servizio civile universale. Il finanziamento avverrà anche tramite un Fondo nazionale, alimentato dalla Legge di Bilancio e dalla facoltà dei contribuenti di destinare il 6 per mille dell’IRPEF senza oneri aggiuntivi.\nIn un momento in cui il dibattito pubblico europeo sembra aver capitolato all’equazione “più sicurezza = più armi” questa proposta afferma con chiarezza l’opposto: la vera sicurezza si costruisce con prevenzione dei conflitti, mediazione, coesione sociale e cooperazione internazionale.",
+        "descrizioneBreve": "L’iniziativa popolare per un Dipartimento della difesa civile, non armata e nonviolenta promossa dalla Campagna “Un’altra difesa è possibile” (CNESC, Rete Pace Disarmo, Sbilanciamoci) muove da un presupposto preciso: il dovere di difesa della Patria sancito nell’articolo 52 della Costituzione può essere adempiuto anche con strumenti civili, come già riconosciuto dalla Corte Costituzionale. Gli articoli 2 e 11 della Costituzione (solidarietà e ripudio della guerra) disegnano un concetto di sicurezza fondato su protezione delle persone e delle istituzioni democratiche, non sulla forza militare",
+        "estremi": "4300002",
+        "id": 6100008,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "VITA POLITICA",
+          "id": 1,
+          "nome": "VITA POLITICA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.difesacivilenonviolenta.org",
+        "sostenitori": 7855,
+        "supportata": false,
+        "titolo": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
+        "titoloLeggeCostituzionale": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta"
+      },
+      "hash": "3d1d5d7774cfd88d4d0dcf8ad320365d69cbb9f9cd65c75d3dd5bcb238ece185"
+    }
+  },
+  {
+    "id": "e8b2f8cfee1c191a28fa99d445b0755362147ff1dc966c4c2b80098d9aa7f588",
+    "type": "updated",
+    "itemId": "6200004",
+    "title": "Basta soldi ai giornali",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 164375,
+        "after": 164715
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6200004",
+      "title": "Basta soldi ai giornali",
+      "category": "IMPRESA E CONCORRENZA",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 164715,
+      "quorum": 500000,
+      "openingDate": "2026-04-27",
+      "deadline": "2026-07-27",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6200004",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6200004",
+      "raw": {
+        "dataApertura": "2026-04-27",
+        "dataFineRaccolta": "2026-07-27",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-04-21",
+        "dataInizioRaccolta": "2026-04-27",
+        "dataInizioValidita": "2026-04-23",
+        "dataIns": "2026-04-23T19:12:28",
+        "dataUltimoAgg": "2026-04-27",
+        "descrizione": "La proposta di abolizione, attraverso referendum dell’ultima proroga legislativa disposta, intende porre fine al finanziamento pubblico ai giornali",
+        "descrizioneBreve": "Abrogazione finanziamento diretto ai giornali",
+        "estremi": "4400002",
+        "id": 6200004,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IMPRESA E CONCORRENZA",
+          "id": 11,
+          "nome": "IMPRESA E CONCORRENZA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sito": "www.bastasoldiaigiornali.it",
+        "sostenitori": 164715,
+        "supportata": false,
+        "titolo": "Basta soldi ai giornali",
+        "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
+      },
+      "hash": "e1757bda1726bb8ad2e03f224d22d295f5805efb2cc3c5669eb371a52c078ff3"
+    }
+  },
+  {
+    "id": "5a8f2328d4aa79d617a1ac2c2e2a7dcdb54d4d8b5c8e3e99a278f707f24104d3",
+    "type": "updated",
+    "itemId": "6400001",
+    "title": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1129,
+        "after": 1132
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6400001",
+      "title": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1132,
+      "quorum": 50000,
+      "openingDate": "2026-05-03",
+      "deadline": "2026-11-03",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6400001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6400001",
+      "raw": {
+        "dataApertura": "2026-05-03",
+        "dataFineRaccolta": "2026-11-03",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-04-24",
+        "dataInizioRaccolta": "2026-05-03",
+        "dataInizioValidita": "2026-05-02",
+        "dataIns": "2026-05-02T19:16:14",
+        "dataUltimoAgg": "2026-05-03",
+        "descrizione": "Diritti sanciti dalla nostra Costituzione che non dovrebbero dipendere né dalle possibilità economiche, né tanto meno dal luogo di nascita e di residenza del bambino/a e della sua famiglia.  Purtroppo,  la situazione negli ultimi anni in Italia, ci presenta uno scenario ben diverso.  Il grado di civiltà di una popolazione parte proprio dall’attenzione e dalla tutela che vengono  garantite ai bambini e ai fragili. COSA  PREVEDE  LA NOSTRA PROPOSTA : \n1) LA GARANZIA DELLA CONTINUITA' ASSISTENZIALE PEDIATRICA IN TUTTO IL TERRITORIO ITALIANO estendendo  le previsioni della legge Toscana approvata su nostra iniziativa                                                            2) MISURE PER GARANTIRE LA SICUREZZA DELL'ASSISTENZA NEONATALE E PEDIATRICA  EVITANDO LA DESERTIFICAZIONE DEI PUNTI NASCITA NEI TERRITORI   3) DESTINAZIONE DI FONDI PER L’ ATTIVITA' A FAVORE DEI PAZIENTI EXTRAREGIONALI AGLI OSPEDALI PEDIATRICI E AI REPARTI PEDIATRICI PUBBLICI                                                                                                          4) DIRITTO A CURE TOTALMENTE GRATUITE PER I PERCORSI FUORI REGIONE    5)L’ESTENSIONE DEL' ETA' DI ASSISTENZA TERRITORIALE E OSPEDALIERA PEDIATRICA A 18 ANNI\n6)LA REALIZZAZIONE DI PERCORSI DI PASSAGGIO DAI CENTRI  PEDIATRICI A QUELLI PER GLI DULTI PER I ADOLESCENTI DURANTE L' ETA' DI TRANSIZIONE DAI 16 AI 18 ANNI \n7)INTERVENTI NELLE ZONE CARENTI  \n                                                                                      ",
+        "descrizioneBreve": "L’esigenza di  tornare a garantire, indipendentemente dal luogo di nascita e residenza e dalle possibilità economiche, l'equità e il diritto di accesso a cure universali e gratuite alle bambine/i e adolescenti in tutto il territorio italiano ha spinto piu di 80 realtà no profit aderenti a : l’Albero delle Famiglie(con gran parte delle Associazioni Genitori afferenti all’Osp. Pediatrico Meyer) , la ‘FIAGOP - Fed. Italiana Ass. Genitori e Guariti Oncoematologia Pediatrica’ e il Comitato della Provincia di Arezzo e territori Toscani, fondato da Cuore di Bimbo ATGBC, ad unirsi per l'iniziativa ",
+        "estremi": "4500000",
+        "id": 6400001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.alberodellefamiglie.it",
+        "sostenitori": 1132,
+        "supportata": false,
+        "titolo": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
+        "titoloLeggeCostituzionale": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO. MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA"
+      },
+      "hash": "e8432a04d87aed19a28acbc5dfd2ed4d2540f3d3e6b7243f841f591519ceacad"
+    }
+  },
+  {
+    "id": "f5b979ffa1db70cd16e1eb2e32c3aa5ba1b1d04e1f3dd1c67e555421bae5f845",
+    "type": "updated",
+    "itemId": "6500000",
+    "title": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 14100,
+        "after": 14172
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6500000",
+      "title": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
+      "category": "OCCUPAZIONE E LAVORO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 14172,
+      "quorum": 50000,
+      "openingDate": "2026-05-14",
+      "deadline": "2026-11-14",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500000",
+      "raw": {
+        "dataApertura": "2026-05-14",
+        "dataFineRaccolta": "2026-11-14",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-04-28",
+        "dataInizioRaccolta": "2026-05-14",
+        "dataInizioValidita": "2026-05-08",
+        "dataIns": "2026-05-08T10:18:33",
+        "dataUltimoAgg": "2026-05-14",
+        "descrizione": "Molti lavoratori e lavoratrici in appalto sono vittime di sfruttamento, precarietà, infortuni, alimentando una concorrenza al ribasso tra lavoratori e imprese. \nLa proposta di legge vuole rafforzare le loro tutele garantendo, se svolgono lo stesso lavoro dei dipendenti del committente, identiche tutele economiche e normative (sia se sono lavoratori subordinati che autonomi).  Questo a difesa anche dell’occupazione dentro le aziende committenti.\nSi propone inoltre che i committenti siano responsabili in caso di applicazione di contratti collettivi non corretti o se i diritti dei lavoratori in appalto siano violati e, se l’appalto non è genuino, si propone che i lavoratori siano assunti automaticamente dal committente.\nSi propone anche, nei settori a maggior rischio di incidenti, lavoro nero, infiltrazioni criminali il divieto di subappalto e che il committente verifichi che l’appalto si svolga con tempi e un numero di lavoratori congrui al tipo di attività, per ridurre così gli infortuni.\n",
+        "descrizioneBreve": "La proposta rafforza le tutele dei lavoratori e delle lavoratrici degli appalti, in materia di salute e sicurezza e garantisce, se fanno lo stesso lavoro dei dipendenti del committente, stessi diritti e salario.",
+        "estremi": "4500001",
+        "id": 6500000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "OCCUPAZIONE E LAVORO",
+          "id": 12,
+          "nome": "OCCUPAZIONE E LAVORO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
+        "sostenitori": 14172,
+        "supportata": false,
+        "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
+        "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
+      },
+      "hash": "fbf25947a8cbda0979ed3107f2e79601d30dad946fad742557fd6ec4262ddf5b"
+    }
+  },
+  {
+    "id": "cf568626256c421e718660154f6016d6b8d09e9e5ef690ecdfcbb1a5982a4c4c",
+    "type": "updated",
+    "itemId": "6500011",
+    "title": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 11742,
+        "after": 11806
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6500011",
+      "title": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
+      "category": "RELAZION INTERNAZIONALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 11806,
+      "quorum": 50000,
+      "openingDate": "2026-05-10",
+      "deadline": "2026-11-10",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500011",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500011",
+      "raw": {
+        "dataApertura": "2026-05-10",
+        "dataFineRaccolta": "2026-11-10",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-04-22",
+        "dataInizioRaccolta": "2026-05-10",
+        "dataInizioValidita": "2026-05-10",
+        "dataIns": "2026-05-10T11:50:28",
+        "dataUltimoAgg": "2026-05-10",
+        "descrizione": "La presente proposta di legge costituzionale intende rafforzare il precetto dell'art. 11 della Costituzione, elevando il ripudio della guerra da principio etico a vincolo giuridico cogente per l'azione internazionale della Repubblica.  L'intervento si articola su due direttrici fondamentali:\n- Si integra la disciplina sulle limitazioni di sovranità: esse saranno legittime solo se conformi ai principi e ai diritti garantiti dalla Costituzione. Tale emendamento assicura che la partecipazione a organizzazioni internazionali non possa mai pregiudicare il nucleo essenziale delle garanzie costituzionali;\n- Si introduce lo status di neutralità permanente rispetto a schieramenti o alleanze militari.\nIn un quadro globale caratterizzato da oltre 250 conflitti armati (non solo guerre fra Stati, ma crisi e conflittualità locali), tale scelta è preordinata a salvaguardare l'indipendenza e la sicurezza nazionali. La neutralità non inficia il diritto alla legittima difesa (ex art. 52 Cost.), ma qualifica l'Italia come attore di mediazione e cooperazione nel Mondo.  Giuridicamente, la proposta è compatibile con l'ordinamento dell'UE: gli artt. 31 e 42, par. 7, del TUE consentono infatti agli Stati membri di mantenere specifiche politiche di sicurezza e di astenersi da decisioni con implicazioni militari. L'obiettivo finale è restituire allo Stato piena sovranità nelle scelte di politica estera e di difesa, promuovendo attivamente la pace e la giustizia fra le Nazioni. ",
+        "descrizioneBreve": "Iniziativa di Legge popolare avente ad oggetto l'introduzione all'articolo 11 della Costituzione dello status di neutralità permanente dell'Italia, e delle garanzie di costituzionalità nell'adesione alle Organizzazioni internazionali; con esiti di riallocazione delle relative risorse in Sanità, Ricerca, Istruzione, Stato sociale, Programmazione economica, sostegno alle Piccole e Medie Imprese, Sviluppo del Mezzogiorno e Sicurezza nelle città.",
+        "estremi": "4400003",
+        "id": 6500011,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "RELAZION INTERNAZIONALI",
+          "id": 2,
+          "nome": "RELAZION INTERNAZIONALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://comitatoitalianeutrale.it/",
+        "sostenitori": 11806,
+        "supportata": false,
+        "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
+        "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
+      },
+      "hash": "f33b8525502c1fdeb074607ca7761b966ff575ddfb3b981c3ffc7f87780db61a"
+    }
+  },
+  {
+    "id": "4c56f6db6c792c5942127ca5b94ca7a554552446268b85aedec7affd16511125",
+    "type": "updated",
+    "itemId": "6500012",
+    "title": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 26774,
+        "after": 26901
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6500012",
+      "title": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
+      "category": "AMBIENTE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 26901,
+      "quorum": 50000,
+      "openingDate": "2026-05-10",
+      "deadline": "2026-11-10",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500012",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500012",
+      "raw": {
+        "dataApertura": "2026-05-10",
+        "dataFineRaccolta": "2026-11-10",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-05-05",
+        "dataInizioRaccolta": "2026-05-10",
+        "dataInizioValidita": "2026-05-10",
+        "dataIns": "2026-05-10T12:00:30",
+        "dataUltimoAgg": "2026-05-10",
+        "descrizione": "Partendo dai Trattati internazionali, normative europee e nazionali ed in applicazione del principio si pre\ncauzione e richiamandosi alla Convenzione dell’ ONU sulla diversità biologica del 2010 che ha \nstabilito che la geoingegneria comporta una seria violazione dei diritti umani a causa dei pericoli \nimpliciti nelle tecnologie utilizzate e alla Moratoria delle Nazioni Unite Cop 10 Nagoya,\n alla Risoluzione dell’ Assemblea Generale delle Nazioni Unite sulla protezione dell’ atmosfera AIRES 76/112; al  Trattato ONU sulla Biodiversità (CBD 1992); all’l’Accordo sulla conservazione e l' uso sostenibile             \n della biodiversità marina nelle aree al di là  della giurisdizione nazionale (Bbnj) del 2026;alla Dichiarazione di Rio sull’Ambiente e lo Sviluppo (1992); al Dlg 152/2006 Testo Unico Ambientale;\ned in applicazione dello stesso principio di precauzione che permea tutto il diritto posto a tutela della salute e del benessere ambientale ed umano, e che è stato altresì cristallizzato  nell’ art Art.191 TFUE, co 2 \n“La politica dell’Unione in materia ambientale mira a un elevato livello di tutela, tenendo conto \ndella diversità delle situazioni nelle varie regioni dell’Unione. Essa è fondata sui principi della \nprecauzione e dell’azione preventiva.”  In perfetta e totale applicazione degli Artt Costituzionali : 9 co 2 Cost,41 co3, 32 co.1.\nSi vieta l' attività di Modifica delle condizioni metereologiche attraverso attività di geoingegneria nei cieli italiani.\nPer \n  ",
+        "descrizioneBreve": "Questa legge chiede che venga posto un divieto all' attività di Geoingegneria climatica(Geoingegneria) nei cieli italiani.",
+        "estremi": "4600001",
+        "id": 6500012,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AMBIENTE",
+          "id": 14,
+          "nome": "AMBIENTE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.cieliblu.it",
+        "sostenitori": 26901,
+        "supportata": false,
+        "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
+        "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
+      },
+      "hash": "4a95db042a472871efc1d4f9c80aff7e30117fa1fb5fec28e990373911346259"
+    }
+  },
+  {
+    "id": "b9d3e354560931ad35fc82973344ef1063fd8fef63057eb70750087bfeb5fa69",
+    "type": "updated",
+    "itemId": "6500013",
+    "title": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 20658,
+        "after": 20781
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6500013",
+      "title": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 20781,
+      "quorum": 50000,
+      "openingDate": "2026-05-14",
+      "deadline": "2026-11-14",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500013",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500013",
+      "raw": {
+        "dataApertura": "2026-05-14",
+        "dataFineRaccolta": "2026-11-14",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-04-28",
+        "dataInizioRaccolta": "2026-05-14",
+        "dataInizioValidita": "2026-05-12",
+        "dataIns": "2026-05-12T12:22:59",
+        "dataUltimoAgg": "2026-05-14",
+        "descrizione": "Il Servizio sanitario nazionale riflette storia, valori e priorità del nostro Paese. Con la legge 833/1978 e la Costituzione prima, l’Italia ha scelto di garantire il benessere individuale e collettivo, la prevenzione dei rischi in ogni ambito di vita e di lavoro e assicurare l’assistenza ai bisogni di salute. La sanità pubblica è fondamentale strumento per lo sviluppo economico e sociale, libera le persone dal timore di non avere i soldi per curarsi. Oggi il Servizio sanitario nazionale è in profonda crisi: persone e professionisti rischiano di arrendersi. È urgente interrompere il declino e avviare il rilancio del Servizio sanitario nazionale attraverso il progressivo adeguamento del finanziamento, il rafforzamento della dotazione di personale e la ripresa della programmazione a ogni livello. Una proposta di legge che indica una strada alternativa alle tesi sull’insostenibilità del Servizio sanitario nazionale. L’obiettivo è ridare risposte alle persone e fiducia ai professionisti, riconoscendo l’urgenza di interventi concreti, prima di ogni progetto complessivo di riforma.",
+        "descrizioneBreve": "Una proposta per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio sanitario nazionale, per ridare risposte alle persone e fiducia ai professionisti, perché la nostra salute è una priorità.",
+        "estremi": "4500003",
+        "id": 6500013,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.salutediritto.it/",
+        "sostenitori": 20781,
+        "supportata": false,
+        "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
+        "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
+      },
+      "hash": "9be3e839c4c04d0bfc437ad42187e8ebf8a26af94aabc26b691f69573abb4321"
+    }
+  },
+  {
+    "id": "0542589740aac4a83d5a24d200f5ee1d0d189fd602fe303309d2900faad26e02",
+    "type": "updated",
+    "itemId": "6500014",
+    "title": "IMPOSTA GRANDI PATRIMONI",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 33112,
+        "after": 33391
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6500014",
+      "title": "IMPOSTA GRANDI PATRIMONI",
+      "category": "ECONOMIA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 33391,
+      "quorum": 50000,
+      "openingDate": "2026-05-13",
+      "deadline": "2026-11-13",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500014",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500014",
+      "raw": {
+        "dataApertura": "2026-05-13",
+        "dataFineRaccolta": "2026-11-13",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-05-08",
+        "dataInizioRaccolta": "2026-05-13",
+        "dataInizioValidita": "2026-05-13",
+        "dataIns": "2026-05-13T12:58:07",
+        "dataUltimoAgg": "2026-05-13",
+        "descrizione": "Si propone un’imposta patrimoniale annuale sui grandi patrimoni superiori a 2 milioni di euro, escludendo l’abitazione principale e le imposte patrimoniali già versate.\nLe aliquote sono progressive dall’1% al 3,5% e colpiscono solo la quota eccedente la soglia.\nL’obiettivo è ristabilire equità fiscale, ridurre le disuguaglianze e rispettare i principi costituzionali di capacità contributiva e progressività.\nSecondo le stime, il prelievo interesserebbe una platea ristretta (100–500 mila contribuenti, meno dell’1% degli italiani), e il gettito stimato è tra 26 e 65 miliardi annui.\nLe risorse sono vincolate a sanità, istruzione, politiche abitative, ambiente, sicurezza sul lavoro, disabilità, sostegno al reddito e riduzione del carico fiscale sul lavoro.\nLa proposta include inoltre una riforma dell’imposta di successione, innalzando le aliquote sui grandi trasferimenti ereditari e riducendo le disuguaglianze intergenerazionali.",
+        "descrizioneBreve": "La proposta di legge di iniziativa popolare, intende introdurre una imposta sui grandi patrimoni ",
+        "estremi": "4700000",
+        "id": 6500014,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "ECONOMIA",
+          "id": 5,
+          "nome": "ECONOMIA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.unpercentoequo.it",
+        "sostenitori": 33391,
+        "supportata": false,
+        "titolo": "IMPOSTA GRANDI PATRIMONI",
+        "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
+      },
+      "hash": "5720a3db47df0a0cb67b05d009b5432e7b6bdd61af1176f24dd566a16d893c4d"
+    }
+  },
+  {
+    "id": "4c9af733cce34bea7d351717b76cdb10065e55ce94bc9f2616423c40aa9af5e7",
+    "type": "updated",
+    "itemId": "6700009",
+    "title": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 1185,
+        "after": 1427
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "6700009",
+      "title": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
+      "category": "IMPRESA E CONCORRENZA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1427,
+      "quorum": 50000,
+      "openingDate": "2026-05-25",
+      "deadline": "2026-11-25",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6700009",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6700009",
+      "raw": {
+        "dataApertura": "2026-05-25",
+        "dataFineRaccolta": "2026-11-25",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-05-19",
+        "dataInizioRaccolta": "2026-05-25",
+        "dataInizioValidita": "2026-05-25",
+        "dataIns": "2026-05-25T16:11:48",
+        "dataUltimoAgg": "2026-05-25",
+        "descrizione": "La proposta di legge recante “Misure per la rigenerazione urbana del commercio e dei servizi di prossimità”, reca disposizioni volte a sostenere in modo strutturale le attività commerciali e i servizi di prossimità, contrastando i fenomeni di desertificazione commerciale e rafforzando il tessuto economico e sociale dei territori. Il provvedimento persegue l’obiettivo di garantire la continuità dei servizi essenziali alla popolazione residente, valorizzando la rete degli esercizi di vicinato, i presìdi multiservizio e le forme di aggregazione tra imprese. Cuore della proposta è l’istituzione delle Zone Economiche Speciali di Prossimità (ZESpro), quali ambiti territoriali nei quali concentrare un insieme coordinato di misure a favore delle imprese del commercio e dei servizi di prossimità. All’interno delle ZESpro è previsto un regime organico di interventi comprendente incentivi fiscali, misure di sostegno finanziario, contributi per l’avvio, il mantenimento e il rilancio delle attività economiche, nonché interventi di semplificazione amministrativa. Le agevolazioni sono definite nel rispetto della normativa UE sugli aiuti di Stato e sono finalizzate a rafforzare l’attrattività economica e la stabilità delle attività nei contesti urbani e periurbani. Il provvedimento prevede inoltre l’istituzione di un Osservatorio nazionale per il monitoraggio e la valutazione dell’efficacia delle misure adottate, nonché di un Fondo dedicato al finanziamento degli interventi previsti.",
+        "descrizioneBreve": "La proposta introduce misure per la rigenerazione urbana del commercio e dei servizi di prossimità, al fine di contrastare la rarefazione commerciale, garantire la continuità dei servizi essenziali e rafforzare il tessuto economico locale. È prevista l’istituzione delle Zone Economiche Speciali di Prossimità (ZESpro), con agevolazioni fiscali, misure di sostegno finanziario e semplificazioni amministrative per gli esercizi di vicinato. Sono inoltre istituiti un Fondo dedicato e un Osservatorio nazionale per il monitoraggio delle politiche di settore.",
+        "estremi": "4800000",
+        "id": 6700009,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IMPRESA E CONCORRENZA",
+          "id": 11,
+          "nome": "IMPRESA E CONCORRENZA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 1427,
+        "supportata": false,
+        "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
+        "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
+      },
+      "hash": "21d7c4c7b3d39d3d374ea611cb0c1e97bf693265aae7d7a5546b9f033463f8e9"
+    }
+  },
+  {
+    "id": "e9c31ca8d1719d2bc545d8b51a9ef13270c6998327474d57a76bd9611a318f0f",
+    "type": "updated",
+    "itemId": "700000",
+    "title": "Abolizione dei ticket sanitari",
+    "changes": [
+      {
+        "field": "signaturesCount",
+        "before": 22400,
+        "after": 22401
+      }
+    ],
+    "createdAt": "2026-05-29T10:54:53.460Z",
+    "item": {
+      "id": "700000",
+      "title": "Abolizione dei ticket sanitari",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 22401,
+      "quorum": 50000,
+      "openingDate": "2024-08-04",
+      "deadline": "9999-12-31",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/700000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/700000",
+      "raw": {
+        "dataApertura": "2024-08-04",
+        "dataFineRaccolta": "9999-12-31",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2024-06-25",
+        "dataInizioRaccolta": "2024-08-04",
+        "dataInizioValidita": "2024-08-04",
+        "dataIns": "2024-08-04T10:15:02",
+        "dataUltimoAgg": "2024-08-04",
+        "descrizione": "Legge di iniziativa popolare per l'abolizione di tutti i ticket sanitari, di ogni forma di compartecipazione alla spesa sanitaria da parte dell'utenza, affinché la spesa sanitaria sia finanziata unicamente attraverso la fiscalità generale progressiva.",
+        "descrizioneBreve": "Abolizione dei ticket sanitari",
+        "estremi": "400024",
+        "id": 700000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 22401,
+        "supportata": false,
+        "titolo": "Abolizione dei ticket sanitari ",
+        "titoloLeggeCostituzionale": "Abolizione dei ticket sanitari"
+      },
+      "hash": "d98a3c84fed1266a0304ea5a53395b6e9108e8d71724b978e19607b2ab6a438a"
+    }
+  },
+  {
     "id": "352ae96b832ede36e2168fb80d1cfd32444148148c29ef799f906f6222931abb",
     "type": "updated",
     "itemId": "1100000",
