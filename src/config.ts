@@ -4,6 +4,7 @@ export interface Config {
   telegramBotToken: string | null;
   telegramChatId: string | null;
   sendInitialEvents: boolean;
+  baselineOnly: boolean;
   fetchTimeoutMs: number;
 }
 
@@ -16,6 +17,7 @@ export function getConfig(): Config {
     telegramBotToken: emptyToNull(process.env.TELEGRAM_BOT_TOKEN),
     telegramChatId: emptyToNull(process.env.TELEGRAM_CHAT_ID),
     sendInitialEvents: parseBoolean(process.env.SEND_INITIAL_EVENTS, false),
+    baselineOnly: parseBoolean(process.env.BASELINE_ONLY, false),
     fetchTimeoutMs: parsePositiveInt(process.env.FETCH_TIMEOUT_MS, 20_000)
   };
 }

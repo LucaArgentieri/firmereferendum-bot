@@ -47,6 +47,16 @@ async function main(): Promise<void> {
   const currentHash = hashValue(currentSnapshot);
   const isFirstRun = previousSnapshot.length === 0 || !previousHash;
 
+  if (config.baselineOnly) {
+    console.log(`Baseline-only mode enabled. Saving snapshot with ${currentSnapshot.length} items without events or Telegram notifications.`);
+    await Promise.all([
+      writeLatestSnapshot(currentSnapshot),
+      writeLatestHash(currentHash),
+      writeFeeds(existingEvents, config.publicBaseUrl)
+    ]);
+    return;
+  }
+
   if (previousHash === currentHash) {
     console.log("Snapshot unchanged. No update needed.");
     await writeFeeds(existingEvents, config.publicBaseUrl);

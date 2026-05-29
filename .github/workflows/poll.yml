@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      baseline_only:
+        description: "Aggiorna snapshot/feed senza creare eventi o inviare Telegram"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -11,6 +17,9 @@ permissions:
 concurrency:
   group: referendum-feed-poll
   cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   poll:
@@ -21,6 +30,7 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       SEND_INITIAL_EVENTS: "false"
+      BASELINE_ONLY: ${{ github.event_name == 'workflow_dispatch' && inputs.baseline_only || false }}
 
     steps:
       - name: Checkout repository

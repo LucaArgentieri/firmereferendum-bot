@@ -148,6 +148,20 @@ Puo anche essere avviato manualmente con `workflow_dispatch`.
 
 Il job committa solo se cambiano file dentro `data/` o `public/`.
 
+### Modalita Baseline
+
+Dopo modifiche alla normalizzazione o al formato degli eventi puoi lanciare il workflow manuale con `baseline_only=true`.
+
+In questa modalita lo script:
+
+- aggiorna `data/latest.json`;
+- aggiorna `data/latest.hash`;
+- rigenera i feed dagli eventi gia salvati;
+- non crea nuovi eventi;
+- non invia messaggi Telegram.
+
+Serve per riallineare lo snapshot ed evitare notifiche massive dovute a cambi tecnici del formato.
+
 ## Gestione Errori
 
 Il fetch usa:

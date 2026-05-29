@@ -2,12 +2,16 @@
   {
     "id": "1100000",
     "title": "REFERENDUM CITTADINANZA",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 637487,
+    "quorum": 500000,
+    "openingDate": "2024-09-06",
     "deadline": "2024-09-28",
-    "detailUrl": "https://www.attivati.referendumcittadinanza.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1100000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1100000",
     "raw": {
       "dataApertura": "2024-09-06",
       "dataChiusura": "2024-09-28",
@@ -60,17 +64,21 @@
       "titolo": "REFERENDUM CITTADINANZA",
       "titoloLeggeCostituzionale": "Nuove norme sulla cittadinanza."
     },
-    "hash": "9a14740e585694f87f39df90a911ed369b476056217b2f7f8d0cf6979ec433c9"
+    "hash": "7277e7b886d52db982e601d2c74c57a67f2d347eff5915794a1383e546bbd431"
   },
   {
     "id": "1200000",
     "title": "ELIMINAZIONE DI 500 MILIARDI DI SPRECHI E MALAPOLITICA",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 4566,
+    "quorum": 50000,
+    "openingDate": "2024-09-18",
     "deadline": "2025-04-16",
-    "detailUrl": "https://www.stiamouniti.com",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1200000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1200000",
     "raw": {
       "dataApertura": "2024-09-18",
       "dataChiusura": "2025-04-16",
@@ -123,17 +131,21 @@
       "titolo": "ELIMINAZIONE DI 500 MILIARDI DI SPRECHI E MALAPOLITICA ",
       "titoloLeggeCostituzionale": "ELIMINAZIONE DI 500 MILIARDI DI SPRECHI E MALAPOLITICA "
     },
-    "hash": "036c26984f6d0f3b86f058c87482a92cfebe768cbdc728e31affe1aa1efe7661"
+    "hash": "0f30ff9fc3a061e3df4a300048323cb8a09cde8aa9e34a031029cb6d9ecf9d3f"
   },
   {
     "id": "1400001",
     "title": "Modifiche alla Legge 29 Luglio 1949 n. 717 Norme per l’arte negli edifici pubblici",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 2548,
+    "quorum": 50000,
+    "openingDate": "2024-09-25",
     "deadline": "9999-12-31",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1400001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1400001",
     "raw": {
       "dataApertura": "2024-09-25",
       "dataFineRaccolta": "9999-12-31",
@@ -176,17 +188,21 @@
       "titolo": "Modifiche alla Legge 29 Luglio 1949 n. 717 Norme per l’arte negli edifici pubblici",
       "titoloLeggeCostituzionale": "Modifiche alla Legge 29 Luglio 1949 n. 717 Norme per l’arte negli edifici pubblici"
     },
-    "hash": "055e642d8065758f87c9e46539b73799a4e1ed79e01f9f66c1ae5a7bb8e4ee70"
+    "hash": "785b9bfa4628813580be977571899afd24280ff0093b1dcaad4f566d190b87ed"
   },
   {
     "id": "1500002",
     "title": "SPERIMENTAZIONE ANIMALE",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 6922,
+    "quorum": 500000,
+    "openingDate": "2024-10-22",
     "deadline": "2025-01-22",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1500002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1500002",
     "raw": {
       "dataApertura": "2024-10-22",
       "dataChiusura": "2025-02-17",
@@ -239,17 +255,21 @@
       "titolo": "SPERIMENTAZIONE ANIMALE ",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "a51ccfe2b0931b443a510c80f36b48cd50c2e9d18505f646809ecd5c0d55c95b"
+    "hash": "167697e3d4585dce495bc52e9403ee65a1bd0a6c2065839e354d9e0f2a4ffddf"
   },
   {
     "id": "1500003",
     "title": "NO CIRCHI CON UTILIZZO DI ANIMALI",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 8318,
+    "quorum": 500000,
+    "openingDate": "2024-10-22",
     "deadline": "2025-01-22",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1500003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1500003",
     "raw": {
       "dataApertura": "2024-10-22",
       "dataChiusura": "2025-02-17",
@@ -302,17 +322,21 @@
       "titolo": "NO CIRCHI CON UTILIZZO DI ANIMALI  ",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "898db9a417ace9395fe03e521899db78536b01e3d3b232a535286ddc3b9fecfe"
+    "hash": "5e946ed7ae5f794502e08675978efa4fa0eb422e887834939da7cbda6aa989cb"
   },
   {
     "id": "1500004",
     "title": "IL NUCLEARE NEL MIX ELETTRICO NAZIONALE ORA",
+    "category": "ENERGIA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 72840,
+    "quorum": 50000,
+    "openingDate": "2024-10-23",
     "deadline": "2025-01-13",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1500004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1500004",
     "raw": {
       "dataApertura": "2024-10-23",
       "dataChiusura": "2025-01-13",
@@ -364,17 +388,21 @@
       "titolo": "IL NUCLEARE NEL MIX ELETTRICO NAZIONALE ORA",
       "titoloLeggeCostituzionale": "IL NUCLEARE NEL MIX ELETTRICO NAZIONALE ORA"
     },
-    "hash": "126bdd163f5ac0c93eb83066eb78823656ef61569b8425cc3f6ca3e4fec1f86a"
+    "hash": "2d3dd814a3774ca19413fe1d43be6cbbbcd05ca96740abf976cff916a6e6ba9b"
   },
   {
     "id": "1600012",
     "title": "«Legge Lorini-Papa: Concessione della Laurea alla Memoria come Atto di Umanità e Riconoscimento»",
+    "category": "ISTRUZIONE E COMUNICAZIONE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 8000,
+    "quorum": 50000,
+    "openingDate": "2024-10-30",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.lucianolorini.it/laureaallamemoria/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1600012",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1600012",
     "raw": {
       "dataApertura": "2024-10-30",
       "dataFineRaccolta": "9999-12-31",
@@ -426,17 +454,21 @@
       "titolo": "«Legge Lorini-Papa: Concessione della Laurea alla Memoria come Atto di Umanità e Riconoscimento»",
       "titoloLeggeCostituzionale": "«Legge Lorini-Papa: Concessione della Laurea alla Memoria come Atto di Umanità e Riconoscimento»"
     },
-    "hash": "ffffe38916f05c21fb0e38b3ff9841b23f9b7b1ca54edbd206a1d656b92177ad"
+    "hash": "9415183f320b2ac147af55918a4c92080aa2b68e7a7ad9b19be108dc1226cc9c"
   },
   {
     "id": "1800000",
     "title": "Adeguamento  della  procedura  e   dell'esecuzione   del   Tso psichiatrico  alla  Costituzione  ed  agli  obblighi   internazionali dell'Italia",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 1706,
+    "quorum": 50000,
+    "openingDate": "2024-12-14",
     "deadline": "2025-06-25",
-    "detailUrl": "https://dirittiallafollia.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1800000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1800000",
     "raw": {
       "dataApertura": "2024-12-14",
       "dataChiusura": "2025-06-25",
@@ -489,17 +521,21 @@
       "titolo": "Adeguamento  della  procedura  e   dell'esecuzione   del   Tso psichiatrico  alla  Costituzione  ed  agli  obblighi   internazionali dell'Italia",
       "titoloLeggeCostituzionale": "Adeguamento  della  procedura  e   dell'esecuzione   del   Tso psichiatrico  alla  Costituzione  ed  agli  obblighi   internazionali dell'Italia"
     },
-    "hash": "fe3c14d44054e23821077ddb020467e4d1f963439982c67bac5dd76d47dd15e0"
+    "hash": "7ceae95dfd50599e0846b4c4ed02feb4d1ebf2512d44cddbdf8d82efe03fc490"
   },
   {
     "id": "1800001",
     "title": "Abolizione degli istituti dell'interdizione e dell'inabilitazione. Riforma dell'amministrazione di sostegno.",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 1588,
+    "quorum": 50000,
+    "openingDate": "2024-12-14",
     "deadline": "2025-08-04",
-    "detailUrl": "https://dirittiallafollia.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1800001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1800001",
     "raw": {
       "dataApertura": "2024-12-14",
       "dataChiusura": "2025-08-04",
@@ -552,17 +588,21 @@
       "titolo": "Abolizione degli istituti dell'interdizione e dell'inabilitazione. Riforma dell'amministrazione di sostegno.",
       "titoloLeggeCostituzionale": "Abolizione degli istituti dell'interdizione e dell'inabilitazione. Riforma dell'amministrazione di sostegno."
     },
-    "hash": "62712ed44076432c11b43daff02dfe1b4a2c1777e989f148c54ab589f222b25c"
+    "hash": "9f94b8333471ea2f153aadbc0a6612ae6bc94ab0e14dd581fb26fc4a7a35f52f"
   },
   {
     "id": "1900000",
     "title": "PROPOSTA DI LEGGE COSTITUZIONALE DI INIZIATIVA POPOLARE\n«Modifiche agli articoli 32, 75 e 135 della Costituzione e alla legge costituzionale 25 maggio 1970, n. 352» (G.U., serie generale, n.111 del 13/05/2023)",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2387,
+    "signaturesCount": 2388,
+    "quorum": 50000,
+    "openingDate": "2025-01-01",
     "deadline": "9999-12-31",
-    "detailUrl": "https://assembleacostituentecittadini.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/1900000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/1900000",
     "raw": {
       "dataApertura": "2025-01-01",
       "dataFineRaccolta": "9999-12-31",
@@ -609,22 +649,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://assembleacostituentecittadini.it/",
-      "sostenitori": 2387,
+      "sostenitori": 2388,
       "supportata": false,
       "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE DI INIZIATIVA POPOLARE\n«Modifiche agli articoli 32, 75 e 135 della Costituzione e alla legge costituzionale 25 maggio 1970, n. 352» (G.U., serie generale, n.111 del 13/05/2023)",
       "titoloLeggeCostituzionale": "«Modifiche agli articoli 32, 75 e 135 della Costituzione e alla legge costituzionale 25 maggio 1970, n. 352» "
     },
-    "hash": "56c47a784e8d6fe0c27ba5ce87096b4fd6ae3e24c8de8420bcea57817a057039"
+    "hash": "5a808effc8dd7badf1647daa464547e8425e89f562b65927fcef560024688242"
   },
   {
     "id": "2000000",
     "title": "Quesito 1 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - abrogazione obblighi vaccinali e sanzioni pecuniarie\n\nLibertà di cura e scelta terapeutica dei bambini - Abrogazione delle sanzioni pecuniarie per i bambini che non adempiono all'obbligo di vaccinazione con 10 vaccini pediatrici imposti dalla Legge Lorenzin",
+    "category": "QUESTIONI SOCIALI",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 25902,
+    "quorum": 500000,
+    "openingDate": "2025-03-15",
     "deadline": "2025-06-15",
-    "detailUrl": "https://www.permiofiglioscelgoio.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2000000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2000000",
     "raw": {
       "dataApertura": "2025-03-15",
       "dataChiusura": "2025-06-16",
@@ -677,17 +721,21 @@
       "titolo": "Quesito 1 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - abrogazione obblighi vaccinali e sanzioni pecuniarie\n\nLibertà di cura e scelta terapeutica dei bambini - Abrogazione delle sanzioni pecuniarie per i bambini che non adempiono all'obbligo di vaccinazione con 10 vaccini pediatrici imposti dalla Legge Lorenzin",
       "titoloLeggeCostituzionale": "Richiesta di referendum di abrogazione parziale del decreto-legge 7 giugno 2017, n. 73 convertito con modifiche in legge31 luglio 2017, n. 119 (c.d. Legge Lorenzin) "
     },
-    "hash": "363554ccfaa073fd571296ce43719014d73129b74c9109ea8877ac76b00a4e11"
+    "hash": "ac9f013328dfe81dc1e4fd4ca004a671ae79eb31bcc771b3b3a7fdd68f842405"
   },
   {
     "id": "2000002",
     "title": "Proposta di legge Zuncheddu e altri su risarcimento vittime di giustizia",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 7196,
+    "quorum": 50000,
+    "openingDate": "2025-01-15",
     "deadline": "2025-12-29",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2000002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2000002",
     "raw": {
       "dataApertura": "2025-01-15",
       "dataChiusura": "2025-12-29",
@@ -739,17 +787,21 @@
       "titolo": "Proposta di legge Zuncheddu e altri su risarcimento vittime di giustizia",
       "titoloLeggeCostituzionale": "Proposta di legge Zuncheddu e altri su risarcimento vittime di giustizia"
     },
-    "hash": "549a77daf018e782d7b3d94feddd13da69d811b835778eb55ba5d068e6c14550"
+    "hash": "856106d30762d97b6cfcca5854154bd62e6ef10a818afd3b047661fed65b771d"
   },
   {
     "id": "2100000",
     "title": "Fondazione per la Famiglia",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 4195,
+    "quorum": 50000,
+    "openingDate": "2025-01-23",
     "deadline": "9999-12-31",
-    "detailUrl": "https://pensieropopolareitaliano.org/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2100000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2100000",
     "raw": {
       "dataApertura": "2025-01-23",
       "dataFineRaccolta": "9999-12-31",
@@ -793,17 +845,21 @@
       "titolo": "Fondazione per la Famiglia ",
       "titoloLeggeCostituzionale": "Istituzione della Fondazione per la Famiglia e disposizioni per il sostegno economico e fiscale alle famiglie con figli"
     },
-    "hash": "2784b3d72139ff05de7df9f904189c4531d76920b03637286368141bf870610a"
+    "hash": "2973dcb20cfe591b1671a773d4fa70851ea64300eb53bb590b9802359b9a0602"
   },
   {
     "id": "2200000",
     "title": "UTILIZZO DI ANIMALI NEI GIARDINI ZOOLOGICI",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 374,
+    "quorum": 500000,
+    "openingDate": "2025-02-03",
     "deadline": "2025-03-17",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2200000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2200000",
     "raw": {
       "dataApertura": "2025-02-03",
       "dataChiusura": "2025-03-17",
@@ -856,17 +912,21 @@
       "titolo": "UTILIZZO DI ANIMALI NEI GIARDINI ZOOLOGICI",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "6822f20b2126b9f19510f65f050cb484b019dd7d56498f63228c0051a660b1ce"
+    "hash": "059b32cd65b07872747b3a7fa2f9fe608fc673a25c524b563b9edc8f2419364f"
   },
   {
     "id": "2200001",
     "title": "UTILIZZO DI ANIMALI NELLE MANIFESTAZIONI STORICHE",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 302,
+    "quorum": 500000,
+    "openingDate": "2025-02-03",
     "deadline": "2025-03-17",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2200001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2200001",
     "raw": {
       "dataApertura": "2025-02-03",
       "dataChiusura": "2025-03-17",
@@ -919,17 +979,21 @@
       "titolo": "UTILIZZO DI ANIMALI NELLE MANIFESTAZIONI STORICHE",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "23e74072cd6a7d57966580738684ce8d7d77da760afaeb95055e113279bc31ec"
+    "hash": "48002fc8e50559cf04024a2f0321ab1afd561fcfc900593d6fed71828d14264f"
   },
   {
     "id": "2300000",
     "title": "Norme in materia di tutela del diritto dei minori alla bigenitorialità",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 8366,
+    "quorum": 50000,
+    "openingDate": "2025-02-08",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.comitatogenitoriperifigli.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2300000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2300000",
     "raw": {
       "dataApertura": "2025-02-08",
       "dataFineRaccolta": "9999-12-31",
@@ -973,17 +1037,21 @@
       "titolo": "Norme in materia di tutela del diritto dei minori alla bigenitorialità",
       "titoloLeggeCostituzionale": "Norme in materia di tutela del diritto dei minori alla bigenitorialità"
     },
-    "hash": "8fb38438a4fc6e630ab5b30b3e8cde7c925c55d953fda0cde9344a41fc74748e"
+    "hash": "3e5439d1c58d5642a2f7dc9dbd5880c31f95d4547dea526e0e2037184d899ec4"
   },
   {
     "id": "2400001",
     "title": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 9995,
+    "quorum": 50000,
+    "openingDate": "2025-02-14",
     "deadline": "9999-12-31",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2400001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2400001",
     "raw": {
       "dataApertura": "2025-02-14",
       "dataFineRaccolta": "9999-12-31",
@@ -1026,17 +1094,21 @@
       "titolo": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
       "titoloLeggeCostituzionale": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni"
     },
-    "hash": "d0cc5a061b14bfc94e29348f155705771460c4d621d132d7dfd0fb4795261813"
+    "hash": "0881c6c3f49dec50404c757b184855b44c27c625039a57c18e91f02903a22ed8"
   },
   {
     "id": "2500001",
     "title": "Legge Frescura – Menia Corbanese – Belfi: modifiche alla tabella A allegata al Decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti la riduzione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’igiene femminile e ad alcuni prodotti per la prima infanzia.",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 66793,
+    "quorum": 50000,
+    "openingDate": "2025-02-20",
     "deadline": "2025-05-20",
-    "detailUrl": "https://www.instagram.com/tagliamoliva?igsh=Y2twejB5ankzZGp5",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2500001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2500001",
     "raw": {
       "dataApertura": "2025-02-20",
       "dataChiusura": "2025-05-20",
@@ -1089,17 +1161,21 @@
       "titolo": "Legge Frescura – Menia Corbanese – Belfi: modifiche alla tabella A allegata al Decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti la riduzione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’igiene femminile e ad alcuni prodotti per la prima infanzia.",
       "titoloLeggeCostituzionale": "Legge Frescura–Menia Corbanese–Belfi: modifiche alla tabella A allegata al DPR 633/1972, concernenti la riduzione dell’aliquota IVA relativa ai prodotti per l'igiene femminile e la prima infanzia."
     },
-    "hash": "4f657da39b97a2424bbcd78af4770ee08535b5cda6b910e5c90b624b90e46110"
+    "hash": "8244dd8f2e77af82e0b5dc5bbd1093559513a07a8a17011ea46a8b95e829665c"
   },
   {
     "id": "2600005",
     "title": "“Disposizioni per il riconoscimento della specificità militare”",
+    "category": "OCCUPAZIONE E LAVORO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 4098,
+    "quorum": 50000,
+    "openingDate": "2025-03-01",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.dubitoergocogito.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2600005",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2600005",
     "raw": {
       "dataApertura": "2025-03-01",
       "dataFineRaccolta": "9999-12-31",
@@ -1151,17 +1227,21 @@
       "titolo": "“Disposizioni per il riconoscimento della specificità militare”",
       "titoloLeggeCostituzionale": "“Disposizioni per il riconoscimento della specificità militare”"
     },
-    "hash": "81e18fecc497945381d41c5f91dc89e8287ec9424cfe6a61dd4eb760929f2dd7"
+    "hash": "6dee1d8b9b816d4f154d739c9de90ff398da9f4aa5b8c65079f998c3147d6d96"
   },
   {
     "id": "2600008",
     "title": "Quesito 2 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - Abrogazione delle disposizioni della Legge c.d. Lorenzin che condizionano l'iscrizione dei bambini agli asili nido e alle scuole dell'infanzia all'espletamento delle vaccinazioni obbligatorie previste dalla detta legge",
+    "category": "QUESTIONI SOCIALI",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 19352,
+    "quorum": 500000,
+    "openingDate": "2025-03-15",
     "deadline": "2025-06-15",
-    "detailUrl": "https://www.permiofiglioscelgoio.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2600008",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2600008",
     "raw": {
       "dataApertura": "2025-03-15",
       "dataChiusura": "2025-06-16",
@@ -1214,17 +1294,21 @@
       "titolo": "Quesito 2 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - Abrogazione delle disposizioni della Legge c.d. Lorenzin che condizionano l'iscrizione dei bambini agli asili nido e alle scuole dell'infanzia all'espletamento delle vaccinazioni obbligatorie previste dalla detta legge",
       "titoloLeggeCostituzionale": "Richiesta di referendum di abrogazione parziale del decreto-legge 7 giugno 2017, n. 73 convertito con modifiche in legge31 luglio 2017, n. 119 (c.d. Legge Lorenzin)"
     },
-    "hash": "db0d510e83e72d1194a845fe9bfc0eba26b2d878bc463e88770fc4ef17d7c338"
+    "hash": "0f510e6a20c8ef0cf5a147743336a30f05ac9c516cf1a8b4aa0c768456ddcacc"
   },
   {
     "id": "2700001",
     "title": "Modifiche agli articoli 44, 47 e 117 della Costituzione in materia di\nriconoscimento e garanzia del diritto all’abitazione.",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 10342,
+    "quorum": 50000,
+    "openingDate": "2025-03-11",
     "deadline": "2025-09-18",
-    "detailUrl": "https://www.maqualecasa.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700001",
     "raw": {
       "dataApertura": "2025-03-11",
       "dataChiusura": "2025-09-18",
@@ -1277,17 +1361,21 @@
       "titolo": "Modifiche agli articoli 44, 47 e 117 della Costituzione in materia di\nriconoscimento e garanzia del diritto all’abitazione.\n",
       "titoloLeggeCostituzionale": "Modifiche agli articoli 44, 47 e 117 della Costituzione in materia di riconoscimento e garanzia del diritto all’abitazione."
     },
-    "hash": "6045c83e27f7396305fbe289f4b66b16830b2dec2e060dddd726f011de7a95a2"
+    "hash": "313942c50ea4bad9ec4d8b62b9a3b34354e568729bb1b3432863b628ad2c8b25"
   },
   {
     "id": "2700004",
     "title": "Quesito 3 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - Abrogazione delle disposizioni della Legge c.d. Lorenzin che prevedono la somministrazione di vaccini in formulazione combinata contenenti anche l'antigene della malattia per la quale il bambino ha già l'immunità naturale da avvenuta guarigione.",
+    "category": "QUESTIONI SOCIALI",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 17667,
+    "quorum": 500000,
+    "openingDate": "2025-03-15",
     "deadline": "2025-06-15",
-    "detailUrl": "https://www.permiofiglioscelgoio.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700004",
     "raw": {
       "dataApertura": "2025-03-15",
       "dataChiusura": "2025-06-16",
@@ -1340,17 +1428,21 @@
       "titolo": "Quesito 3 - Referendum Legge c.d. Lorenzin - #permiofiglioscelgoio - Abrogazione delle disposizioni della Legge c.d. Lorenzin che prevedono la somministrazione di vaccini in formulazione combinata contenenti anche l'antigene della malattia per la quale il bambino ha già l'immunità naturale da avvenuta guarigione. ",
       "titoloLeggeCostituzionale": "Richiesta di referendum di abrogazione parziale del decreto-legge 7 giugno 2017, n. 73 convertito con modifiche in legge31 luglio 2017, n. 119 (c.d. Legge Lorenzin)"
     },
-    "hash": "ec82718fcd3eb1e77f2ecac6e03c3f5e2b51ab0d9659cfaeb59e60f4c46f996a"
+    "hash": "9564098e71a2d8e0427a4d2164a1b398558997988e8b3352c25f610e50b8bcb0"
   },
   {
     "id": "2700005",
     "title": "VIETIAMO LA CACCIA - ART. 842 -",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 34359,
+    "quorum": 500000,
+    "openingDate": "2025-03-13",
     "deadline": "2025-06-13",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700005",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700005",
     "raw": {
       "dataApertura": "2025-03-13",
       "dataChiusura": "2025-06-14",
@@ -1403,17 +1495,21 @@
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "Art. 842  del Codice Civile, primo e secondo comma"
     },
-    "hash": "a58d587da0a0b7fd458ff90cb44f161d7c44fa753284cf2afc84e19cb4be9000"
+    "hash": "5a50bd08a7fbe1519e49e4f1b5f4f8c4d584d234c3b1e8f8d9e5fccfcfd2bf9c"
   },
   {
     "id": "2700006",
     "title": "RENDERE ILLEGALE LA CACCIA IN ITALIA",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 39238,
+    "quorum": 500000,
+    "openingDate": "2025-03-13",
     "deadline": "2025-06-13",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700006",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700006",
     "raw": {
       "dataApertura": "2025-03-13",
       "dataChiusura": "2025-06-14",
@@ -1466,17 +1562,21 @@
       "titolo": "RENDERE ILLEGALE LA CACCIA IN ITALIA",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "d6e222378bd3d3b9e72645bc6054a32da160c47b2af2745b655292898ee39816"
+    "hash": "a6d919ac6b322f83c696b9ae48d517e5b2bcf42d045f72965912b2c40e680bb4"
   },
   {
     "id": "2700007",
     "title": "RENDERE ILLEGALE IN ITALIA GLI ALLEVAMENTI INTENSIVI -  ART. 19 TER -",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 54058,
+    "quorum": 500000,
+    "openingDate": "2025-03-13",
     "deadline": "2025-06-13",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700007",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700007",
     "raw": {
       "dataApertura": "2025-03-13",
       "dataChiusura": "2025-06-14",
@@ -1529,17 +1629,21 @@
       "titolo": "RENDERE ILLEGALE IN ITALIA GLI ALLEVAMENTI INTENSIVI -  ART. 19 TER - ",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "7f688e6b7502a13e7efb5379ea45d6d9835e265f16c9cea1a543505d271a3fb3"
+    "hash": "9cc4e3accb8c9cb1d218ede7a7bde08fef387994000c506d3ec4e35ea2f242b1"
   },
   {
     "id": "2700008",
     "title": "REFERENDUM CONTRO IL NUOVO CODICE DELLA STRADA",
+    "category": "QUESTIONI SOCIALI",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 10853,
+    "quorum": 500000,
+    "openingDate": "2025-03-13",
     "deadline": "2025-06-13",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2700008",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2700008",
     "raw": {
       "dataApertura": "2025-03-13",
       "dataChiusura": "2025-06-14",
@@ -1592,17 +1696,21 @@
       "titolo": "REFERENDUM CONTRO IL NUOVO CODICE DELLA STRADA ",
       "titoloLeggeCostituzionale": "NUOVO CODICE DELLA STRADA LEGGE 25 NOVEMBRE 2024 NR. 177"
     },
-    "hash": "73fac6f59de5261bb235b3a4579e60a8af1dfbd3bac507a2520133166f39285f"
+    "hash": "f11d30c8e38208fe2e268c9c6b50355b0a8ec52cf96e09ebbc2e914fc2ce96d6"
   },
   {
     "id": "2800000",
     "title": "Disciplina dell'attività di trasporto al pubblico",
+    "category": "TRASPORTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 13225,
+    "quorum": 50000,
+    "openingDate": "2025-03-24",
     "deadline": "2026-01-22",
-    "detailUrl": "https://www.articolo16.org/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2800000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2800000",
     "raw": {
       "dataApertura": "2025-03-24",
       "dataChiusura": "2026-01-22",
@@ -1655,17 +1763,21 @@
       "titolo": "Disciplina dell'attività di trasporto al pubblico",
       "titoloLeggeCostituzionale": "Disciplina dell'attività di trasporto al pubblico"
     },
-    "hash": "842cb071d6971447f21a9f7bbd2be717a9d3370741ac7f3e6a58ac0e543b6ef5"
+    "hash": "76792a8b28bab58ce706d1debf34603acb8ed78a5a1ab060465872abc53d0e3d"
   },
   {
     "id": "2900000",
     "title": "ABOLIZIONE DELLA POLIZIA LOCALE (1 di 5): abrogazione della legge fondamentale della Polizia Locale",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 4522,
+    "quorum": 500000,
+    "openingDate": "2025-04-11",
     "deadline": "2025-07-10",
-    "detailUrl": "https://referendumabrogativopolizialocale.eu/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2900000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2900000",
     "raw": {
       "dataApertura": "2025-04-11",
       "dataChiusura": "2025-07-10",
@@ -1718,17 +1830,21 @@
       "titolo": "ABOLIZIONE DELLA POLIZIA LOCALE (1 di 5): abrogazione della legge fondamentale della Polizia Locale",
       "titoloLeggeCostituzionale": "Legge 7 marzo 1986 n. 65, «Legge-quadro sull’ordinamento della polizia municipale»"
     },
-    "hash": "038ec46f9c15389aa336a11c089b014166b3e0b53490576874b48887967df847"
+    "hash": "1284971eebbb6933ac1b16a364fef35d3e3f08d3f78df4d6e6eb17df9723300f"
   },
   {
     "id": "2900002",
     "title": "ABOLIZIONE DELLA POLIZIA LOCALE (2 di 5): eliminazione delle qualifiche di pubblica sicurezza in capo al personale della Polizia Locale",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 3321,
+    "quorum": 500000,
+    "openingDate": "2025-04-11",
     "deadline": "2025-07-10",
-    "detailUrl": "https://referendumabrogativopolizialocale.eu/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2900002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2900002",
     "raw": {
       "dataApertura": "2025-04-11",
       "dataChiusura": "2025-07-10",
@@ -1781,17 +1897,21 @@
       "titolo": "ABOLIZIONE DELLA POLIZIA LOCALE (2 di 5): eliminazione delle qualifiche di pubblica sicurezza in capo al personale della Polizia Locale",
       "titoloLeggeCostituzionale": "Regio Decreto 31 agosto 1907 n. 690, «Che approva l’unito testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza»"
     },
-    "hash": "27b2698598e92ac618baf7b61f57b123e627bd8d51e390fd5088cc6108a1adb2"
+    "hash": "7a4f22803da66e247bf1d62b89677acb80f14460c7b02c124b358457287350dd"
   },
   {
     "id": "2900003",
     "title": "ABOLIZIONE DELLA POLIZIA LOCALE (3 di 5): eliminazione delle qualifiche di polizia giudiziaria in capo al personale della Polizia Locale",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 3094,
+    "quorum": 500000,
+    "openingDate": "2025-04-11",
     "deadline": "2025-07-10",
-    "detailUrl": "https://referendumabrogativopolizialocale.eu/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2900003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2900003",
     "raw": {
       "dataApertura": "2025-04-11",
       "dataChiusura": "2025-07-10",
@@ -1844,17 +1964,21 @@
       "titolo": "ABOLIZIONE DELLA POLIZIA LOCALE (3 di 5): eliminazione delle qualifiche di polizia giudiziaria in capo al personale della Polizia Locale",
       "titoloLeggeCostituzionale": "Decreto del Presidente della Repubblica 22 settembre 1988 n. 447, «Approvazione del codice di procedura penale»"
     },
-    "hash": "c7a37c4435662cfa431a2c3080d083f50ac91088db94b69f17350e255f26300e"
+    "hash": "29e96bb61ada8cbfda4bca311c86384d0e4fed8a5b1fd18123f4723e8a3a5583"
   },
   {
     "id": "2900004",
     "title": "ABOLIZIONE DELLA POLIZIA LOCALE (4 di 5): eliminazione della funzione di polizia stradale in capo alla Polizia Locale",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 2963,
+    "quorum": 500000,
+    "openingDate": "2025-04-11",
     "deadline": "2025-07-10",
-    "detailUrl": "https://referendumabrogativopolizialocale.eu/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2900004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2900004",
     "raw": {
       "dataApertura": "2025-04-11",
       "dataChiusura": "2025-07-10",
@@ -1907,17 +2031,21 @@
       "titolo": "ABOLIZIONE DELLA POLIZIA LOCALE (4 di 5): eliminazione della funzione di polizia stradale in capo alla Polizia Locale",
       "titoloLeggeCostituzionale": "Decreto Legislativo 30 aprile 1992 n. 285, «Nuovo codice della strada»"
     },
-    "hash": "6ea5e5a71c5414a0c478d42cd7a34aa1946c05c5927ffd61ccca64bc5de45418"
+    "hash": "726a45c12a562e6cab59d850e920979860359b66a28275c30d6c3a13b2167457"
   },
   {
     "id": "2900005",
     "title": "ABOLIZIONE DELLA POLIZIA LOCALE (5 di 5): possibilità di assegnare personale pubblico in disponibilità anche alle Pubbliche Amministrazioni disciplinate da propri ordinamenti, indicate all’art. 3 D.Lgs. 165/2001",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 3016,
+    "quorum": 500000,
+    "openingDate": "2025-04-11",
     "deadline": "2025-07-10",
-    "detailUrl": "https://referendumabrogativopolizialocale.eu/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/2900005",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/2900005",
     "raw": {
       "dataApertura": "2025-04-11",
       "dataChiusura": "2025-07-10",
@@ -1970,17 +2098,21 @@
       "titolo": "ABOLIZIONE DELLA POLIZIA LOCALE (5 di 5): possibilità di assegnare personale pubblico in disponibilità anche alle Pubbliche Amministrazioni disciplinate da propri ordinamenti, indicate all’art. 3 D.Lgs. 165/2001",
       "titoloLeggeCostituzionale": "Decreto Legislativo 30 marzo 2001 n. 165, «Norme generali sull’ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»"
     },
-    "hash": "240e0b24fa346c94baa43abf4566410ba5dd7ea9b72661f43bd515e0582d4aaf"
+    "hash": "3891c52d2725904b5b222911cbad05e3a727a4af69e247150cc17b939888048a"
   },
   {
     "id": "3400000",
     "title": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea.",
+    "category": "UNIONE EUROPEA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2298,
+    "signaturesCount": 2299,
+    "quorum": 50000,
+    "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
-    "detailUrl": "https://italexitperlitalia.it/iniziative",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3400000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3400000",
     "raw": {
       "dataApertura": "2025-05-13",
       "dataFineRaccolta": "9999-12-31",
@@ -2027,22 +2159,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://italexitperlitalia.it/iniziative",
-      "sostenitori": 2298,
+      "sostenitori": 2299,
       "supportata": false,
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea.",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea."
     },
-    "hash": "ad6fc5bd0fc48ab968094b9cf2bf810cb48a0689eabdcd6e37de31a611b6e46b"
+    "hash": "5a249d3e3e2678b2e5aafb1de99e61367f548ffbee8a7575e0eae712cd730fd0"
   },
   {
     "id": "3400003",
     "title": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 1117,
+    "quorum": 50000,
+    "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
-    "detailUrl": "https://italexitperlitalia.it/iniziative",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3400003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3400003",
     "raw": {
       "dataApertura": "2025-05-13",
       "dataFineRaccolta": "9999-12-31",
@@ -2094,17 +2230,21 @@
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  ",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  "
     },
-    "hash": "c3d848331a6d7d02a293f4dc1b68e3327975ec4025c7473d28a122b644082892"
+    "hash": "eda9d0b808b9e72d07b4e4f5dd8d33ade40ae1023f4e1c2c41446a90aff19791"
   },
   {
     "id": "3600000",
     "title": "Referendum UGUALI!",
+    "category": "QUESTIONI SOCIALI",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 361505,
+    "quorum": 500000,
+    "openingDate": "2025-05-05",
     "deadline": "2025-08-04",
-    "detailUrl": "https://referendumuguali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3600000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3600000",
     "raw": {
       "dataApertura": "2025-05-05",
       "dataChiusura": "2025-08-04",
@@ -2157,17 +2297,21 @@
       "titolo": "Referendum UGUALI!",
       "titoloLeggeCostituzionale": "Legge 20 maggio 2016, n. 76"
     },
-    "hash": "0ceda3576a55240f77681ee211640381271c0ea5eb937a00d628094a47ec96fe"
+    "hash": "e692e2d3b5375424decedf649cfcd0c5494c62a4bc4e7ac781d80446d466176b"
   },
   {
     "id": "3700000",
     "title": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 13983,
+    "quorum": 50000,
+    "openingDate": "2025-05-28",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.radicisane.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3700000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3700000",
     "raw": {
       "dataApertura": "2025-05-28",
       "dataFineRaccolta": "9999-12-31",
@@ -2219,17 +2363,21 @@
       "titolo": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
       "titoloLeggeCostituzionale": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso”"
     },
-    "hash": "f86d586023eb07769a7845c679477b796285226a27b60476ba8493866a6399c7"
+    "hash": "e52949d83f0f39983c0f962c472e242cb714eaa2f5236693d6ac9a00ac2fcc04"
   },
   {
     "id": "3800001",
     "title": "REFERENDUM “SÌ MATRIMONIO EGUALITARIO”",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 11608,
+    "quorum": 500000,
+    "openingDate": "2025-05-26",
     "deadline": "2025-08-26",
-    "detailUrl": "https://matrimonioegualitario.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3800001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3800001",
     "raw": {
       "dataApertura": "2025-05-26",
       "dataChiusura": "2025-08-27",
@@ -2282,17 +2430,21 @@
       "titolo": "REFERENDUM “SÌ MATRIMONIO EGUALITARIO”",
       "titoloLeggeCostituzionale": "Regolamento delle Unioni civili tra persone dello stesso sesso e disciplina delle convivenze (Legge 20 Maggio 2016 n. 76)"
     },
-    "hash": "bf7f311fa35959200433cb94f2105e4f388f1da136b76e9c8256b0c04532ecd0"
+    "hash": "edf982c2be92bc9234a0b26782a2307e9fec7a709cc7a0f4df5fc76416b2348d"
   },
   {
     "id": "3800002",
     "title": "“Zotti-Lizzi per il Riconoscimento del lavoro usurante per i conducenti del trasporto merci”",
+    "category": "TRASPORTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 4028,
+    "quorum": 50000,
+    "openingDate": "2025-05-26",
     "deadline": "2025-12-20",
-    "detailUrl": "https://www.willysicurezzaelegalita.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3800002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3800002",
     "raw": {
       "dataApertura": "2025-05-26",
       "dataChiusura": "2025-12-20",
@@ -2345,17 +2497,21 @@
       "titolo": " “Zotti-Lizzi per il Riconoscimento del lavoro usurante per i conducenti del trasporto merci”",
       "titoloLeggeCostituzionale": "\"Zotti-Lizzi per il Riconoscimento del lavoro usurante per i conducenti del trasporto merci\""
     },
-    "hash": "d593270101ce20bd7212c4d49e78989a7163bbd393a9bf6133d9315b732992aa"
+    "hash": "abdc03cf90ad1bdc7e3c48b1cedd9fa0d4fb005922aeef772a1667f4f003806e"
   },
   {
     "id": "3800006",
     "title": "Modifiche delle norme del processo tributario (Decreto Legislativo 31 dicembre 1992, n. 546, e successive modifiche ed integrazioni), in materia di controversie relative ai contributi di bonifica, al fine di consentire un’efficace difesa dei cittadini consorziati (art. 24 della Costituzione).",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 834,
+    "quorum": 50000,
+    "openingDate": "2025-05-28",
     "deadline": "9999-12-31",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3800006",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3800006",
     "raw": {
       "dataApertura": "2025-05-28",
       "dataFineRaccolta": "9999-12-31",
@@ -2398,17 +2554,21 @@
       "titolo": "Modifiche delle norme del processo tributario (Decreto Legislativo 31 dicembre 1992, n. 546, e successive modifiche ed integrazioni), in materia di controversie relative ai contributi di bonifica, al fine di consentire un’efficace difesa dei cittadini consorziati (art. 24 della Costituzione).",
       "titoloLeggeCostituzionale": "Modifiche al processo tributario per le controversie sui contributi di bonifica, per garantire una difesa efficace dei consorziati ai sensi dell’art. 24 della Costituzione."
     },
-    "hash": "e49947e3c3de3a6b0a5405cec30c00c3f74186a18c431e3f11526468a9d8747e"
+    "hash": "5d2d289149d68d979db78791dc95a0678065248fca02b60b338bc97a9615ca42"
   },
   {
     "id": "3900018",
     "title": "BASTA QUORUM PER I REFERENDUM!  CHI VOTA DECIDE.",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 71066,
+    "quorum": 50000,
+    "openingDate": "2025-06-09",
     "deadline": "2025-06-26",
-    "detailUrl": "https://www.bastaquorum.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3900018",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3900018",
     "raw": {
       "dataApertura": "2025-06-09",
       "dataChiusura": "2025-06-26",
@@ -2461,17 +2621,21 @@
       "titolo": "BASTA QUORUM PER I REFERENDUM!  CHI VOTA DECIDE.",
       "titoloLeggeCostituzionale": "Modifica all'art. 75 comma 4 della Costituzione, per abolire il quorum di partecipazione per la validita' dei referendum abrogativi e favorire la partecipazione democratica:  chi  vota, decide."
     },
-    "hash": "88f87440ce781e60cc214f126feab5150d1b7f40f9a1dac7ada4fba8603f52c9"
+    "hash": "b99e2a3e4c121da47026e536dddf5ed574f2465abedea4663671566d6a02732b"
   },
   {
     "id": "3900019",
     "title": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
+    "category": "AMBIENTE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 3176,
+    "quorum": 50000,
+    "openingDate": "2025-06-09",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.rispettopertuttiglianimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3900019",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3900019",
     "raw": {
       "dataApertura": "2025-06-09",
       "dataFineRaccolta": "9999-12-31",
@@ -2523,17 +2687,21 @@
       "titolo": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
       "titoloLeggeCostituzionale": "RIDISTRIBUIAMO GLI ORSI SULL'ARCO ALPINO"
     },
-    "hash": "4e8bb32780982a59625bdd37072a49c54d5873fe3b426e5bf70fb5b87cb19be9"
+    "hash": "865b4183f2da3bd2f5dca6b7aae105c8cd80fabbf55cb032ab70079fd74ff55e"
   },
   {
     "id": "3900020",
     "title": "Servizi pubblici per il benessere psicologico",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 64006,
+    "quorum": 50000,
+    "openingDate": "2025-06-10",
     "deadline": "2025-12-04",
-    "detailUrl": "https://www.dirittoastarebene.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/3900020",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/3900020",
     "raw": {
       "dataApertura": "2025-06-10",
       "dataChiusura": "2025-12-04",
@@ -2586,17 +2754,21 @@
       "titolo": "Servizi pubblici per il benessere psicologico\n",
       "titoloLeggeCostituzionale": "Istituzione della Rete Nazionale dei Servizi Pubblici per il Benessere Psicologico"
     },
-    "hash": "cdc0f3e11fc0a541a91774982ffec93db194df0bac722185d08ddf956353aab2"
+    "hash": "63c61465e0c603181589f04530de08a693017411c82a10d1fdea464f1098398c"
   },
   {
     "id": "4000000",
     "title": "VIETIAMO LA CACCIA - ART. 842 –",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 4781,
+    "quorum": 500000,
+    "openingDate": "2025-06-16",
     "deadline": "2025-09-16",
-    "detailUrl": "https://www.rispettopertuttiglianimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4000000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4000000",
     "raw": {
       "dataApertura": "2025-06-16",
       "dataChiusura": "2025-09-17",
@@ -2649,17 +2821,21 @@
       "titolo": "VIETIAMO LA CACCIA - ART. 842 – ",
       "titoloLeggeCostituzionale": "ART. 842 - PRIMO E SECONDO COMMA CODICE CIVILE"
     },
-    "hash": "63a501043e51a3c5c8bba0806b7b601e6fd3cca3a21850abb16b3cf2677e5372"
+    "hash": "abaaed074a063011a5a8126cae88aae7fdaaf68dea510d09d0c3ce518ac3cf8a"
   },
   {
     "id": "4000001",
     "title": "RENDERE ILLEGALE LA CACCIA IN ITALIA",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 3601,
+    "quorum": 500000,
+    "openingDate": "2025-06-16",
     "deadline": "2025-09-16",
-    "detailUrl": "https://www.rispettopertuttiglianimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4000001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4000001",
     "raw": {
       "dataApertura": "2025-06-16",
       "dataChiusura": "2025-09-17",
@@ -2712,17 +2888,21 @@
       "titolo": "RENDERE ILLEGALE LA CACCIA IN ITALIA ",
       "titoloLeggeCostituzionale": "ART. 19 TER - RENDERE ILLEGALE LA CACCIA "
     },
-    "hash": "723f4d2dfcb468808108935f41b0eae870e8f3c52e598e066991d0dc206504ac"
+    "hash": "cd9a886b99e8af41b5c425f98f6c2422d738ac51962f44f735b7d0b7e77c8c06"
   },
   {
     "id": "4000002",
     "title": "RENDERE ILLEGALE IN ITALIA GLI ALLEVAMENTI INTENSIVI - ART.19 TER",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 3405,
+    "quorum": 500000,
+    "openingDate": "2025-06-16",
     "deadline": "2025-09-16",
-    "detailUrl": "https://www.rispettopertuttiglianimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4000002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4000002",
     "raw": {
       "dataApertura": "2025-06-16",
       "dataChiusura": "2025-09-17",
@@ -2775,17 +2955,21 @@
       "titolo": "RENDERE ILLEGALE IN ITALIA GLI ALLEVAMENTI INTENSIVI - ART.19 TER",
       "titoloLeggeCostituzionale": "ART. 19 TER - RENDERE ILLEGALE GLI ALLEVAMENTI INTENSIVI"
     },
-    "hash": "a7017692c8dc4d5f1cf90d4a8e3bb2c7f9e4f5bf55a0ce4193518e799376bb64"
+    "hash": "bd786e7cd89980d6cf0c996964aafa474349e463ec7e43599345e18ecada4bcb"
   },
   {
     "id": "4000006",
     "title": "Volete Voi che sia abrogato il decreto Legislativo  16 Marzo 1999 n. 79 ( attuazione della direttiva  96/92/CE recante   norme comuni per il mercato interno dell’energia elettrica) nel testo risultante  dalle modificazioni e integrazioni limitatamente alla seguente parte: articolo 3 comma 11, limitatamente alle parole “ l’autorità per l’energia elettrica e il gas provvede al conseguente adeguamento del corrispettivo di cui al comma 10”",
+    "category": "ENERGIA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 1770,
+    "quorum": 500000,
+    "openingDate": "2025-06-18",
     "deadline": "2025-09-18",
-    "detailUrl": "https:www.aept.eu",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4000006",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4000006",
     "raw": {
       "dataApertura": "2025-06-18",
       "dataChiusura": "2025-09-19",
@@ -2838,17 +3022,21 @@
       "titolo": "Volete Voi che sia abrogato il decreto Legislativo  16 Marzo 1999 n. 79 ( attuazione della direttiva  96/92/CE recante   norme comuni per il mercato interno dell’energia elettrica) nel testo risultante  dalle modificazioni e integrazioni limitatamente alla seguente parte: articolo 3 comma 11, limitatamente alle parole “ l’autorità per l’energia elettrica e il gas provvede al conseguente adeguamento del corrispettivo di cui al comma 10”\n",
       "titoloLeggeCostituzionale": "decreto legislativo 16 marzo 1999 n.79 art 3 comma 11"
     },
-    "hash": "779167b3af9ee1e487b37d5fe3a791adb5d2726fe8b6ca72ddcaf2c5f9f42aab"
+    "hash": "2183e3af2f5c97292ece84cb135f4d3000bded8f611c40de1be0c86bfa5bae49"
   },
   {
     "id": "4100009",
     "title": "Eutanasia Legale: ora serve una buona legge",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 57000,
+    "quorum": 50000,
+    "openingDate": "2025-06-26",
     "deadline": "2025-07-13",
-    "detailUrl": "https://www.associazionelucacoscioni.it/eutanasia-legale-la-proposta-di-legge-popolare",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4100009",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4100009",
     "raw": {
       "dataApertura": "2025-06-26",
       "dataChiusura": "2025-07-13",
@@ -2901,17 +3089,21 @@
       "titolo": "Eutanasia Legale: ora serve una buona legge",
       "titoloLeggeCostituzionale": "Disposizioni in materia di aiuto medico alla morte volontaria"
     },
-    "hash": "e2e6fd4c9fa8165ce8197f127c9b393091dffed0bc0bbe93629a2fb4ef74bda9"
+    "hash": "b6969d936e5e5690aa047d165fb2b6f8686f25b047638269695b467a8853bef7"
   },
   {
     "id": "4100011",
     "title": "STOP CACCIA!\nSTOP UCCISIONI DEGLI ANIMALI PER DIVERTIMENTO",
+    "category": "AMBIENTE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 53663,
+    "quorum": 50000,
+    "openingDate": "2025-06-25",
     "deadline": "2025-09-17",
-    "detailUrl": "https://bit.ly/stop-caccia",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4100011",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4100011",
     "raw": {
       "dataApertura": "2025-06-25",
       "dataChiusura": "2025-09-17",
@@ -2964,17 +3156,21 @@
       "titolo": "STOP CACCIA!\nSTOP UCCISIONI DEGLI ANIMALI PER DIVERTIMENTO\n",
       "titoloLeggeCostituzionale": "Proposta di legge di iniziativa popolare per il divieto di caccia, il diritto alla vita degli animali selvatici e la promozione della convivenza con gli stessi"
     },
-    "hash": "c1bccbfd3d282278c7ad5c9ef972f22a322a30a96c690db6c1251cbf20306677"
+    "hash": "5f2e1acac941896ec01a90b7b1521b7c390f68d429f18ed0297576305d954306"
   },
   {
     "id": "4200000",
     "title": "Voglio votare fuorisede",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 53140,
+    "quorum": 50000,
+    "openingDate": "2025-07-02",
     "deadline": "2025-11-26",
-    "detailUrl": "https://willmedia.it/voto-fuorisede/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4200000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4200000",
     "raw": {
       "dataApertura": "2025-07-02",
       "dataChiusura": "2025-11-26",
@@ -3027,17 +3223,21 @@
       "titolo": "Voglio votare fuorisede",
       "titoloLeggeCostituzionale": "Voglio votare fuorisede"
     },
-    "hash": "0cb6349583645e73dc4335fb03cd27ff83469c23160d713898df1532106e81b9"
+    "hash": "04247584dd60795aaf3b27c6059d9cb5eaa563b06293ae1de029f0b16040db75"
   },
   {
     "id": "4300012",
     "title": "LEGGE ELETTORALE PROPORZIONALE CON PREFERENZE",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 522,
+    "quorum": 50000,
+    "openingDate": "2025-09-10",
     "deadline": "2026-03-11",
-    "detailUrl": "comitatoiniziativepopolari.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4300012",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4300012",
     "raw": {
       "dataApertura": "2025-09-10",
       "dataChiusura": "2026-03-11",
@@ -3090,17 +3290,21 @@
       "titolo": "LEGGE ELETTORALE PROPORZIONALE CON PREFERENZE",
       "titoloLeggeCostituzionale": "LEGGE ELETTORALE PROPORZIONALE CON PREFERENZE"
     },
-    "hash": "f7505c5308c4dbc1bf20c0236de7ca3d060708def19894dd34335cb82d51fc34"
+    "hash": "486a5897e8343617e447253b484a1947497ca9006c0d0f8eb8e32a4a1627b1d8"
   },
   {
     "id": "4300013",
     "title": "INTRODUZIONE DEL CANCELLIERATO ITALIANO",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 211,
+    "quorum": 50000,
+    "openingDate": "2025-09-10",
     "deadline": "2026-03-11",
-    "detailUrl": "comitatoiniziativepopolari.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4300013",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4300013",
     "raw": {
       "dataApertura": "2025-09-10",
       "dataChiusura": "2026-03-11",
@@ -3153,17 +3357,21 @@
       "titolo": "INTRODUZIONE DEL CANCELLIERATO ITALIANO",
       "titoloLeggeCostituzionale": "INTRODUZIONE DEL CANCELLIERATO ITALIANO"
     },
-    "hash": "6b4396dd87a6bfc6965e351dfc2528f9715d8d95773c79802112075d89ffde90"
+    "hash": "6b79a4b9af035e2669f3a23e4f2b4c0d04727ebf81a632b2976502c228505e7c"
   },
   {
     "id": "4400002",
     "title": "Immuni dal populismo - Riforma dell'Art. 68 Cost.",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 3430,
+    "quorum": 50000,
+    "openingDate": "2025-07-23",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.fondazioneluigieinaudi.it/immuni-dal-populismo-ripristiniamo-art-68-della-costituzione/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4400002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4400002",
     "raw": {
       "dataApertura": "2025-07-23",
       "dataFineRaccolta": "9999-12-31",
@@ -3215,17 +3423,21 @@
       "titolo": "Immuni dal populismo - Riforma dell'Art. 68 Cost.",
       "titoloLeggeCostituzionale": "Immuni dal populismo - Riforma dell'Art. 68 Cost."
     },
-    "hash": "64d3eca99583318accb1f6d4e9c3c7ca18dc563d0dae890e248e97a1626de803"
+    "hash": "82643c8d979f793406bc0f2e7b1d00c7c5d9c0d03908d8c5e2ce2cad11d8f4fd"
   },
   {
     "id": "4500001",
     "title": "MODIFICA AL DECRETO LEGGE, CONVERTITO CON\nMODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE\n“DISPOSIZIONI URGENTI IN MATERIA DI SICUREZZA\nDELLE CITTÀ”",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 531,
+    "quorum": 50000,
+    "openingDate": "2025-07-29",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.jesuslenygomes.com",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4500001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4500001",
     "raw": {
       "dataApertura": "2025-07-29",
       "dataFineRaccolta": "9999-12-31",
@@ -3269,17 +3481,21 @@
       "titolo": "MODIFICA AL DECRETO LEGGE, CONVERTITO CON\nMODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE\n“DISPOSIZIONI URGENTI IN MATERIA DI SICUREZZA\nDELLE CITTÀ”\n",
       "titoloLeggeCostituzionale": "«MODIFICA AL DECRETO LEGGE, CONVERTITO CON MODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE \"DI- S P O S I Z I O N I U R G E N T I I N M AT E R I A D I S I C U R E Z Z A D E L L E CITTÀ\"»"
     },
-    "hash": "fcc65b6eefad023090fc48a15ccc1760b585446c979ffcd7bf51798f43512ea3"
+    "hash": "44c6901f2c41ca1b54e087aaf8b6a931557b534dbcb2ac50342e9366d02068b7"
   },
   {
     "id": "4600001",
     "title": "SPAZZAPOLTRONE",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2532,
+    "signaturesCount": 2533,
+    "quorum": 50000,
+    "openingDate": "2025-08-31",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.facebook.com/figlidellestelleodv",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4600001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4600001",
     "raw": {
       "dataApertura": "2025-08-31",
       "dataFineRaccolta": "9999-12-31",
@@ -3326,22 +3542,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/figlidellestelleodv",
-      "sostenitori": 2532,
+      "sostenitori": 2533,
       "supportata": false,
       "titolo": "SPAZZAPOLTRONE",
       "titoloLeggeCostituzionale": "SPAZZAPOLTRONE"
     },
-    "hash": "2c3fd441441a05dc63308e0f4ecb64928ae729c9c811d334b40cdc7c49a0700d"
+    "hash": "1019a23ea91dc17ca5099e53e834cbe34c87807e856a6d478126a534a9559e77"
   },
   {
     "id": "4600002",
     "title": "STUDIO SENZA BARRIERE",
+    "category": "ISTRUZIONE E COMUNICAZIONE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 1043,
+    "quorum": 50000,
+    "openingDate": "2025-08-31",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.facebook.com/figlidellestelleodv",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4600002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4600002",
     "raw": {
       "dataApertura": "2025-08-31",
       "dataFineRaccolta": "9999-12-31",
@@ -3393,17 +3613,21 @@
       "titolo": "STUDIO SENZA BARRIERE",
       "titoloLeggeCostituzionale": "Disposizioni per l’abolizione dell’obbligo di frequenza nella didattica frontale dei corsi universitari"
     },
-    "hash": "5d55236f8508b4bff31e937580ffd49de10dd0351cc9278acb43c950266e7c60"
+    "hash": "a784ddc06ad751923b3ca3cc03acdda4089fb7010369432b1d82b6114dc1a5c9"
   },
   {
     "id": "4800000",
     "title": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI E LISTE\nPLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO.",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 1660,
+    "quorum": 500000,
+    "openingDate": "2025-09-18",
     "deadline": "2025-12-10",
-    "detailUrl": "https://votolibeguale.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4800000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4800000",
     "raw": {
       "dataApertura": "2025-09-18",
       "dataChiusura": "2025-12-10",
@@ -3456,17 +3680,21 @@
       "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI E LISTE\nPLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO.",
       "titoloLeggeCostituzionale": "Testi unici recanti norme per l'elezione della Camera dei Deputati e del Senato di cui a DPR 30 marzo 1957 n.361 e D.Lgls 20 dicembre n.533 e successive modifiche"
     },
-    "hash": "87e7c69dcdd3f724e686af78a50e084358932265ee8894a08b6f43232dc67b6a"
+    "hash": "76841c305d636e21ddd64747b4ee751e7dc43b067ded2e2bc5ff0c77304a6919"
   },
   {
     "id": "4800001",
     "title": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 2097,
+    "quorum": 500000,
+    "openingDate": "2025-09-18",
     "deadline": "2025-12-10",
-    "detailUrl": "https://votolibeguale.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4800001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4800001",
     "raw": {
       "dataApertura": "2025-09-18",
       "dataChiusura": "2025-12-10",
@@ -3519,17 +3747,21 @@
       "titolo": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE",
       "titoloLeggeCostituzionale": "Testi unici recanti norme per l'elezione della Camera dei Deputati e del Senato di cui a DPR 30 marzo 1957 n.361 e D.Lgls 20 dicembre n.533 e successive modifiche"
     },
-    "hash": "f08c13f83985143d36f3311f593fc2e7dbc2ddbb46167446bef6489445353f7f"
+    "hash": "ae7e560c4d8a2f15d094ae3afb63d07474b4e8e04c9ed46e75154a56f93f0c65"
   },
   {
     "id": "4900001",
     "title": "Non più di 20 per classe - Facciamo spazio a un'istruzione di qualità",
+    "category": "ISTRUZIONE E COMUNICAZIONE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "MESSA A DISPOSIZIONE CAMERA",
     "committee": "",
     "signaturesCount": 56432,
+    "quorum": 50000,
+    "openingDate": "2025-09-23",
     "deadline": "2026-03-02",
-    "detailUrl": "https://verdisinistra.it/non-piu-di-20-per-classe/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/4900001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/4900001",
     "raw": {
       "dataApertura": "2025-09-23",
       "dataChiusura": "2026-03-02",
@@ -3582,17 +3814,21 @@
       "titolo": "Non più di 20 per classe - Facciamo spazio a un'istruzione di qualità",
       "titoloLeggeCostituzionale": "Non più di 20 per classe - Facciamo spazio a un'istruzione di qualità"
     },
-    "hash": "8627cac2b59585b414004aa73136b4e7c06eceefd13c2f37359d0ff275c1d408"
+    "hash": "cf0c5f3a4100ca93361c660cc3a9bb2db5d958616fdc010be0c2139915b3fbff"
   },
   {
     "id": "5000003",
     "title": "Disposizioni per il superamento dell'\"Atto Dovuto\" e per la tutela del personale delle Forze di Polizia e delle Forze Armate nell'esercizio delle proprie funzioni",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 32087,
+    "quorum": 50000,
+    "openingDate": "2025-09-28",
     "deadline": "2026-03-29",
-    "detailUrl": "https://www.carabinierinsc.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5000003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5000003",
     "raw": {
       "dataApertura": "2025-09-28",
       "dataChiusura": "2026-03-29",
@@ -3645,17 +3881,21 @@
       "titolo": "Disposizioni per il superamento dell'\"Atto Dovuto\" e per la tutela del personale delle Forze di Polizia e delle Forze Armate nell'esercizio delle proprie funzioni",
       "titoloLeggeCostituzionale": "Disposizioni per il superamento dell'\"Atto Dovuto\" e per la tutela del personale delle Forze di Polizia e delle Forze Armate nell'esercizio delle proprie funzioni"
     },
-    "hash": "a215ad29fa5b2f553fc3ed37eb3166e778509660945119524fc73e0e6b544045"
+    "hash": "ed2698684b14a28c261dcdde92ea667b2d32e1f2d3d03344cab68cdafeacae0a"
   },
   {
     "id": "500004",
     "title": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI E LISTE PLURINOMINALI",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 40684,
+    "quorum": 500000,
+    "openingDate": "2024-07-25",
     "deadline": "2024-09-29",
-    "detailUrl": "https://www.iovoglioscegliere.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500004",
     "raw": {
       "dataApertura": "2024-07-25",
       "dataChiusura": "2024-09-29",
@@ -3708,17 +3948,21 @@
       "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI E LISTE PLURINOMINALI ",
       "titoloLeggeCostituzionale": "DPR 30 marzo 1957, n. 361 , Decreto Legislativo 20 dicembre 1993,  n. 533"
     },
-    "hash": "34629713d607a93ccf6df0cf85f73842c647708acf74ab7f324a05c492f6991c"
+    "hash": "48ab31735705b3b241077a4a898d9bd50a7dc46446ba265e2ba5b8bed2faeb90"
   },
   {
     "id": "500005",
     "title": "NIENTE SOGLIE DI ACCESSO PER LISTE AUTONOME E COALIZIONI",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 10584,
+    "quorum": 500000,
+    "openingDate": "2024-07-25",
     "deadline": "2024-09-29",
-    "detailUrl": "https://www.iovoglioscegliere.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500005",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500005",
     "raw": {
       "dataApertura": "2024-07-25",
       "dataChiusura": "2024-09-29",
@@ -3771,17 +4015,21 @@
       "titolo": "NIENTE SOGLIE DI ACCESSO PER LISTE AUTONOME E COALIZIONI",
       "titoloLeggeCostituzionale": "30 marzo 1957, n. 361 e Decreto Legislativo 20 dicembre 1993, n. 533"
     },
-    "hash": "5f2d95737d198010cb262183b368e150589e40415263dfd2e3fcc7b8037a1272"
+    "hash": "af75f1783c841c8dd7ad8277b1a5c009f16bcbac08b69f7a0c369b2e70b52345"
   },
   {
     "id": "500006",
     "title": "TUTTI I PARTITI, ANCHE QUELLI IN PARLAMENTO, DEVONO RACCOGLIERE LE FIRME PER LE CANDIDATURE",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 13759,
+    "quorum": 500000,
+    "openingDate": "2024-07-25",
     "deadline": "2024-09-29",
-    "detailUrl": "https://www.iovoglioscegliere.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500006",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500006",
     "raw": {
       "dataApertura": "2024-07-25",
       "dataChiusura": "2024-09-29",
@@ -3834,17 +4082,21 @@
       "titolo": "TUTTI I PARTITI, ANCHE QUELLI IN PARLAMENTO, DEVONO RACCOGLIERE LE FIRME PER LE CANDIDATURE",
       "titoloLeggeCostituzionale": "\"Approvazione  del testo unico delle leggi recanti norme per la  elezione  della  Camera dei deputati.\", approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361"
     },
-    "hash": "a131a243e04d626200de5bb734ef87d5b0296068a8a555cc511ddf9bf34bcb45"
+    "hash": "29c0df84d1242b7610433d13b13b119a68665d9275fd274d2da3ac7bb3e68776"
   },
   {
     "id": "500008",
     "title": "ABOLIZIONE PLURICANDIDATURE: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE E/O PLURINOMINALE",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 22484,
+    "quorum": 500000,
+    "openingDate": "2024-07-25",
     "deadline": "2024-09-29",
-    "detailUrl": "https://www.iovoglioscegliere.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500008",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500008",
     "raw": {
       "dataApertura": "2024-07-25",
       "dataChiusura": "2024-09-29",
@@ -3897,17 +4149,21 @@
       "titolo": "ABOLIZIONE PLURICANDIDATURE: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE E/O PLURINOMINALE",
       "titoloLeggeCostituzionale": "Decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e il Decreto Legislativo 20 dicembre 1993,  n. 533"
     },
-    "hash": "169bd97d401e2d539f2858b7317e6962c385d4c69f2d8ec65e7129a43d00b67f"
+    "hash": "285c7da1c3ae29b44b1fc66723559d82b63d95cfcaa56caeaf6b141637329cd1"
   },
   {
     "id": "500013",
     "title": "«Modifiche al testo unico di  cui  al  D.P.R.  30  marzo  1957,\nn. 361, e al testo unico di cui al d.lgs. 20 dicembre  1993,  n. 533,\nin materia di elezione della camera dei deputati e del  senato  della\nrepubblica.».",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 7885,
+    "quorum": 50000,
+    "openingDate": "2024-07-26",
     "deadline": "2025-02-19",
-    "detailUrl": "https://www.iovoglioscegliere.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500013",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500013",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2025-02-19",
@@ -3960,17 +4216,21 @@
       "titolo": "«Modifiche al testo unico di  cui  al  D.P.R.  30  marzo  1957,\nn. 361, e al testo unico di cui al d.lgs. 20 dicembre  1993,  n. 533,\nin materia di elezione della camera dei deputati e del  senato  della\nrepubblica.». ",
       "titoloLeggeCostituzionale": "Legge d'iniziativa popolare per introdurre la preferenza nei collegi plurinominali di Camera e Senato. "
     },
-    "hash": "9fedd0bd293a8cdae671f4d34b086f1af9024d0f90d3e11112f570cd527f88ae"
+    "hash": "aeee6372de77f8476177bbf9e60276ee5868b70711d42541830285a1cb64b3a9"
   },
   {
     "id": "500020",
     "title": "Contro l’autonomia differenziata. Una firma per l’Italia unita, libera, giusta",
+    "category": "VITA POLITICA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 553915,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-09-24",
-    "detailUrl": "https://www.referendumautonomiadifferenziata.com",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500020",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500020",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-09-24",
@@ -4023,17 +4283,21 @@
       "titolo": "Contro l’autonomia differenziata. Una firma per l’Italia unita, libera, giusta",
       "titoloLeggeCostituzionale": "Disposizioni per l'attuazione dell'autonomia differenziata delle Regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione"
     },
-    "hash": "2a7891df1c48b8e792e0499cfd7665c459412a455652e2392b641683fb2a2939"
+    "hash": "3bd9e879f8e140904fcb38db22a3b79be6d723293e4fb0dffb3f0353995c6dc6"
   },
   {
     "id": "500022",
     "title": "La Tua Politica. Scelte per la Democrazia - Proposta di legge sulla Democrazia interna e la Trasparenza dei Partiti Politici",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 18001,
+    "quorum": 50000,
+    "openingDate": "2024-07-26",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.acli.it/la-tua-politica/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500022",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500022",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataFineRaccolta": "9999-12-31",
@@ -4085,17 +4349,21 @@
       "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge sulla Democrazia interna e la Trasparenza dei Partiti Politici",
       "titoloLeggeCostituzionale": "Norme per la democrazia, la trasparenza di bilancio ed il finanziamento pubblico dei partiti politici (art. 49 della Costituzione)pubblico diretto alla partecipazione politica"
     },
-    "hash": "ff942d875ca3cca8ceef796c18852522dea51446967b8cf5a9715c3109f395d1"
+    "hash": "38886d07c8055f5454bab4027fa1636cda7c1202754360eb78cebca1a4ca92b4"
   },
   {
     "id": "500023",
     "title": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 7501,
+    "quorum": 50000,
+    "openingDate": "2024-07-26",
     "deadline": "9999-12-31",
-    "detailUrl": "https://www.acli.it/la-tua-politica/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500023",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500023",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataFineRaccolta": "9999-12-31",
@@ -4147,17 +4415,21 @@
       "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
       "titoloLeggeCostituzionale": "Istituzione delle assemblee di cittadinanza per promozione della partecipazione democratica dei cittadini"
     },
-    "hash": "e7f1df00d10705e6bf7c081a042ffde29b409493983a480feae0da861a07b37c"
+    "hash": "bff0dd3f41d10b764827ede2da26f915f3a61a4fcad7c27b7ce445e3f3df21a7"
   },
   {
     "id": "500025",
     "title": "ALLEVAMENTI INTENSIVI",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 106876,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-10-26",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500025",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500025",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-10-28",
@@ -4210,17 +4482,21 @@
       "titolo": "ALLEVAMENTI INTENSIVI ",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "c9391f7d2d647f3abe2b960560f9284c6a660aa0634d45d55004b64ebcd86322"
+    "hash": "2510d59aa12fe6c06dbb05c4b848541085f541083505975adb152d6b7afeacab"
   },
   {
     "id": "500026",
     "title": "CACCIA",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 59591,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-10-26",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500026",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500026",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-10-28",
@@ -4273,17 +4549,21 @@
       "titolo": "CACCIA ",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "3864b957cbb13879aee1d959278719f78c932884ed926490c9b8573375786f26"
+    "hash": "16872fda6cf8ed68dd4db08a4b8284f53cea3cda7c4345755d890aef9d304076"
   },
   {
     "id": "500030",
     "title": "ART. 842 - FONDI PRIVATI",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 23549,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-10-26",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500030",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500030",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-10-28",
@@ -4328,17 +4608,21 @@
       "titolo": "ART. 842 - FONDI PRIVATI ",
       "titoloLeggeCostituzionale": "ABROGAZIONE DELL’ARART. 842 DEL CODICE CIVILE, APPROVATO CON R.D. DEL 16 MARZO 1942 N. 262, PRIMO E SECONDO COMMA"
     },
-    "hash": "5a77bb07ebda7d80a104e89ba70899d66e1f680c4e9ee80f828ee19291d1c10a"
+    "hash": "7f6951ec4a005a31a23927453fa3bb4ea07a8ca0e27424e1e445ea95de2df3ad"
   },
   {
     "id": "500032",
     "title": "MANIFESTAZIONI STORICHE CON UTILIZZO DI ANIMALI, CIRCHI CON USO DI ANIMALI E GIARDINI ZOOLOGICI",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 48504,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-10-26",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500032",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500032",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-10-28",
@@ -4391,17 +4675,21 @@
       "titolo": "MANIFESTAZIONI STORICHE CON UTILIZZO DI ANIMALI, CIRCHI CON USO DI ANIMALI E GIARDINI ZOOLOGICI",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "2bef8d72953a492a084f6896eab29b4041b17d5a949be62f3e8cc4bd9ad2ad71"
+    "hash": "55a6e1645d95fa5527546f911a1cec141d40be2c01ffae64521b287d541d1715"
   },
   {
     "id": "500033",
     "title": "SPERIMENTAZIONE ANIMALE",
+    "category": "AMBIENTE",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 39240,
+    "quorum": 500000,
+    "openingDate": "2024-07-26",
     "deadline": "2024-10-22",
-    "detailUrl": "https://www.rispettoanimali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500033",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500033",
     "raw": {
       "dataApertura": "2024-07-26",
       "dataChiusura": "2024-10-22",
@@ -4454,17 +4742,21 @@
       "titolo": "SPERIMENTAZIONE ANIMALE",
       "titoloLeggeCostituzionale": "ART. 19 TER DISPOSIZIONI DI COORDINAMENTO E TRANSITORIE CODICE PENALE (LEGGI SPECIALI IN MATERIA DI ANIMALI)"
     },
-    "hash": "5e34e1aa1237fece381eab7ad83697fbbbb06147bfd227bb42eaced3bbc26015"
+    "hash": "6ce6adb9ade0bf05fc79c442dff9ff083ee78d6fe23edef03332ef8d9e245393"
   },
   {
     "id": "500036",
     "title": "Contro l’autonomia differenziata. UNISCILITALIA La sfida per la Salute, l’Ambiente e il Clima è Una e Indivisibile.  Firma i quesiti della Riserva Mab Unesco dell'Umbria!",
+    "category": "DIRITTO",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 12662,
+    "quorum": 500000,
+    "openingDate": "2024-07-29",
     "deadline": "2024-10-18",
-    "detailUrl": "https://www.facebook.com/MontepegliaProgettoUnesco",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/500036",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/500036",
     "raw": {
       "dataApertura": "2024-07-29",
       "dataChiusura": "2024-10-18",
@@ -4517,17 +4809,21 @@
       "titolo": "Contro l’autonomia differenziata. UNISCILITALIA La sfida per la Salute, l’Ambiente e il Clima è Una e Indivisibile.  Firma i quesiti della Riserva Mab Unesco dell'Umbria!",
       "titoloLeggeCostituzionale": "Legge 26 giugno  2024,  n.  86, \"Disposizioni per  l'attuazione  dell'autonomia  differenziata  delle Regioni a statuto ordinario ai sensi dell'articolo 116, terzo  comma, della Costituzione\""
     },
-    "hash": "4ace8e5fda6b5c1d4835e98467f521ccd3068ba9c2b03a692a875b4b28671fe1"
+    "hash": "664cd60f946e6da25a7eadcd72625895d2ec0b2248094e6ac5eb87abf6307033"
   },
   {
     "id": "5200000",
     "title": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2078,
+    "signaturesCount": 2080,
+    "quorum": 50000,
+    "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
-    "detailUrl": "https://votolibeguale.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200000",
     "raw": {
       "dataApertura": "2025-11-15",
       "dataFineRaccolta": "2026-05-15",
@@ -4574,22 +4870,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 2078,
+      "sostenitori": 2080,
       "supportata": false,
       "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
       "titoloLeggeCostituzionale": "Abrogazione del voto congiunto  tra  candidati  uninominali e liste plurinominali legge elettorale per Camera e Senato"
     },
-    "hash": "90583ad6829eabb590805b680712da1c2b4b9ff342d133798736e98bb9cb4fdf"
+    "hash": "61fea1a12e18f49fb47c08c23ef9a440ac5439b98996ce3d22aad53c769bdf2b"
   },
   {
     "id": "5200001",
     "title": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2213,
+    "signaturesCount": 2215,
+    "quorum": 50000,
+    "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
-    "detailUrl": "https://votolibeguale.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200001",
     "raw": {
       "dataApertura": "2025-11-15",
       "dataFineRaccolta": "2026-05-15",
@@ -4636,22 +4936,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 2213,
+      "sostenitori": 2215,
       "supportata": false,
       "titolo": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
       "titoloLeggeCostituzionale": "Abolizione pluricandidature  legge  elettorale  per  Camera  e Senato:  ogni  candidato  in   un   solo   collegio   uninominale   o plurinominale"
     },
-    "hash": "f407b85d46247312984329495e24e22bb752c5a257d73b71b09c4284e59e9e3c"
+    "hash": "c4e33eb0f3af45bd8beb5c563fbbe9e1266133fa5d3817fe5c32d35c27950831"
   },
   {
     "id": "5200003",
     "title": "Voto di Preferenza Firme Presentazione e Selezione Candidati",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1416,
+    "signaturesCount": 1417,
+    "quorum": 50000,
+    "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
-    "detailUrl": "https://votolibeguale.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5200003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5200003",
     "raw": {
       "dataApertura": "2025-11-15",
       "dataFineRaccolta": "2026-05-15",
@@ -4698,22 +5002,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 1416,
+      "sostenitori": 1417,
       "supportata": false,
       "titolo": "Voto di Preferenza Firme Presentazione e Selezione Candidati\n",
       "titoloLeggeCostituzionale": "Reintroduzione voto preferenza in listini plurinominali legge elettorale Camera e Senato. \"Modifiche al t.u. dpr 30/3/1957, n.361, e al t.u. d.lgs. 20/12/1993, n. 533 elezione Camera  e Senato\""
     },
-    "hash": "06528b5e00730263213de341e43187e14ce000432afe768e0a5dd3c99aa84514"
+    "hash": "db0c8b526355e716eb1fcc89fca9b0194a6ac99f836b91270bd4609714c507c8"
   },
   {
     "id": "5400028",
     "title": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 1526,
+    "quorum": 50000,
+    "openingDate": "2025-12-19",
     "deadline": "2026-06-19",
-    "detailUrl": "comitatogiustiziaequitafamiliare.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5400028",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5400028",
     "raw": {
       "dataApertura": "2025-12-19",
       "dataFineRaccolta": "2026-06-19",
@@ -4765,17 +5073,21 @@
       "titolo": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA \n",
       "titoloLeggeCostituzionale": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA"
     },
-    "hash": "f3cce08ffe097b34118083ac59dde0ad1b4c3f1c3da16f2d1366aa4ddf414d4b"
+    "hash": "b86dfdf22b0eae99e43a75fd92fe3f6799f1021c9d278ea67e74c1964249a53f"
   },
   {
     "id": "5400032",
     "title": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 1335,
+    "quorum": 50000,
+    "openingDate": "2025-12-20",
     "deadline": "2026-06-20",
-    "detailUrl": "comitatogiustiziaequitafamiliare.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5400032",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5400032",
     "raw": {
       "dataApertura": "2025-12-20",
       "dataFineRaccolta": "2026-06-20",
@@ -4827,17 +5139,21 @@
       "titolo": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
       "titoloLeggeCostituzionale": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI "
     },
-    "hash": "a8b7682bffb145253619a8e1a6152d52af3f1fb93e517765637542833001c7f7"
+    "hash": "810f69cb1a61d9c70a6624192fdf2929fa990433927b8e39b16c26bbe4163c47"
   },
   {
     "id": "5400034",
     "title": "Raccolta di almeno 500.000 firme per il referendum confermativo del testo della legge costituzionale concernente \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\".",
+    "category": "DIRITTO",
     "type": "Referendum costituzionale (art. 138 Costituzione)",
     "status": "MESSA A DISPOSIZIONE",
     "committee": "",
     "signaturesCount": 546463,
+    "quorum": 500000,
+    "openingDate": "2025-12-22",
     "deadline": "2026-01-27",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5400034",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5400034",
     "raw": {
       "dataApertura": "2025-12-22",
       "dataApprovazioneCamera": "2025-09-18",
@@ -4883,17 +5199,21 @@
       "titolo": "Raccolta di almeno 500.000 firme per il referendum confermativo del testo della legge costituzionale concernente \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\".",
       "titoloLeggeCostituzionale": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare."
     },
-    "hash": "0de3b2056ed29aac6297e8bc09b5157f1ffb02322000b6b4fb90445d894bd06b"
+    "hash": "6fe5be494a3c3216b6fcae74be38f564cd47ff06d694097ae7bd729442fa0e47"
   },
   {
     "id": "5500012",
     "title": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4059,
+    "signaturesCount": 4060,
+    "quorum": 50000,
+    "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
-    "detailUrl": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5500012",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5500012",
     "raw": {
       "dataApertura": "2026-01-13",
       "dataFineRaccolta": "2026-07-13",
@@ -4940,22 +5260,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 4059,
+      "sostenitori": 4060,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "e62923e54ee03b5184a0d0c7edac2ae5d5724a643bbd207409b1d3ccb0dd60b0"
+    "hash": "ab78f17ba520cc97c4e6044d794fcbdb8a97a3fe8052d33859e6ba72080c0ba7"
   },
   {
     "id": "5600002",
     "title": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 51004,
+    "signaturesCount": 51016,
+    "quorum": 50000,
+    "openingDate": "2026-01-20",
     "deadline": "2026-07-20",
-    "detailUrl": "https://5eurocontroilfumo.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600002",
     "raw": {
       "dataApertura": "2026-01-20",
       "dataFineRaccolta": "2026-07-20",
@@ -5002,22 +5326,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://5eurocontroilfumo.it/",
-      "sostenitori": 51004,
+      "sostenitori": 51016,
       "supportata": false,
       "titolo": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
       "titoloLeggeCostituzionale": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale"
     },
-    "hash": "18379bbbc188ea8dfc9a89a42fcf44217b1dc798986377101cc36b9dffd4c325"
+    "hash": "b20ab032dce526527c8488230b697ab81a9a380c0e8f17441eb768e1a6014037"
   },
   {
     "id": "5600004",
     "title": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 538,
+    "quorum": 50000,
+    "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
-    "detailUrl": "https://partitopopolarenord.org/proposte-di-legge/autonomia-delle-province-montane/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600004",
     "raw": {
       "dataApertura": "2026-01-25",
       "dataFineRaccolta": "2026-07-25",
@@ -5069,17 +5397,21 @@
       "titolo": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane"
     },
-    "hash": "154bf03fcd2162bfc7624480acbb499a14a4c0ef6eb238e1fab92961e2623867"
+    "hash": "77e9486e69465aedd6488f2950770e81c49dd9439908d7c0f5daab502e746861"
   },
   {
     "id": "5600005",
     "title": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico",
+    "category": "ISTRUZIONE E COMUNICAZIONE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 447,
+    "quorum": 50000,
+    "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
-    "detailUrl": "https://partitopopolarenord.org/proposte-di-legge/scuola-identita-e-storia-regionale/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600005",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600005",
     "raw": {
       "dataApertura": "2026-01-25",
       "dataFineRaccolta": "2026-07-25",
@@ -5131,17 +5463,21 @@
       "titolo": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico\n",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico"
     },
-    "hash": "07fdc8cfb9bc01bab4a60097f20f0665c8b62f253529263d82a4523231ddf52b"
+    "hash": "870311612861f87056bf45b82d3601fbb1d1c92b364ffce1f61e48e25e4f89ef"
   },
   {
     "id": "5600006",
     "title": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 1420,
+    "quorum": 50000,
+    "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
-    "detailUrl": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600006",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600006",
     "raw": {
       "dataApertura": "2026-01-25",
       "dataFineRaccolta": "2026-07-25",
@@ -5193,17 +5529,21 @@
       "titolo": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
       "titoloLeggeCostituzionale": "Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi"
     },
-    "hash": "8d3b2fef25f5f27970ea8ceec1bde1b7f89822a6ed9cdb48adaa1b0eca68d165"
+    "hash": "2a63c50b8e4a9d0a9c0b3ac6a614458f5b517183fb1e5f8fe7557817a022ae96"
   },
   {
     "id": "5600007",
     "title": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 3356,
+    "quorum": 50000,
+    "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
-    "detailUrl": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600007",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600007",
     "raw": {
       "dataApertura": "2026-01-25",
       "dataFineRaccolta": "2026-07-25",
@@ -5255,17 +5595,21 @@
       "titolo": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
       "titoloLeggeCostituzionale": "Modifiche all’art. 52 del codice penale in materia di difesa legittima"
     },
-    "hash": "6412d875850a2a74ba490493ee94ea4eb03859bbc5a603470a31768548a9d8ba"
+    "hash": "2dd380a0b28fff8ab31fca6ae5370b5b176888c949b0ad95fc13521dd90cb457"
   },
   {
     "id": "5600011",
     "title": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 2394,
+    "quorum": 50000,
+    "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
-    "detailUrl": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600011",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600011",
     "raw": {
       "dataApertura": "2026-01-25",
       "dataFineRaccolta": "2026-07-25",
@@ -5317,17 +5661,21 @@
       "titolo": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio"
     },
-    "hash": "b8a62c01e3d8e61b209c90294edb992a706e89252387f62194f394fe4d4fb866"
+    "hash": "a121169d96ed506b4a6706cf4346eb7ace5f56f18ee87a4e7532d43815752b8b"
   },
   {
     "id": "5600018",
     "title": "Stop Tassa Etica",
+    "category": "ECONOMIA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 16305,
+    "signaturesCount": 16309,
+    "quorum": 50000,
+    "openingDate": "2026-01-22",
     "deadline": "2026-07-22",
-    "detailUrl": "https://radicali.it/campagne/stop-tassa-etica/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5600018",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5600018",
     "raw": {
       "dataApertura": "2026-01-22",
       "dataFineRaccolta": "2026-07-22",
@@ -5374,22 +5722,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://radicali.it/campagne/stop-tassa-etica/",
-      "sostenitori": 16305,
+      "sostenitori": 16309,
       "supportata": false,
       "titolo": "Stop Tassa Etica",
       "titoloLeggeCostituzionale": "Abrogazione dell’articolo 1, comma 466, della legge 23 dicembre 2005, n. 266 (c.d. “tassa etica”)."
     },
-    "hash": "8646dee7d35aaedfb59b863f405fe67f7b9da29a9ef656d1d8bf3dccb1bf06ba"
+    "hash": "72aa9c69722356cf2d4df2b7c71143454a67fa125642b6997e2cbdd70a9570b6"
   },
   {
     "id": "5700000",
     "title": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 125826,
+    "signaturesCount": 125834,
+    "quorum": 50000,
+    "openingDate": "2026-01-30",
     "deadline": "2026-07-30",
-    "detailUrl": "https://www.remigrazione.org",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5700000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5700000",
     "raw": {
       "dataApertura": "2026-01-30",
       "dataFineRaccolta": "2026-07-30",
@@ -5436,22 +5788,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.remigrazione.org",
-      "sostenitori": 125826,
+      "sostenitori": 125834,
       "supportata": false,
       "titolo": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
       "titoloLeggeCostituzionale": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana"
     },
-    "hash": "cf637e562b7c25579a160d0780c4318588386ec670f20fe56dcb9990663acb42"
+    "hash": "e322c7d572d0399376a1470af7f83f17f7d10f3a31508e4174cff2003ba6f1a0"
   },
   {
     "id": "5800000",
     "title": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 3465,
+    "quorum": 50000,
+    "openingDate": "2026-02-16",
     "deadline": "2026-08-16",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/5800000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/5800000",
     "raw": {
       "dataApertura": "2026-02-16",
       "dataFineRaccolta": "2026-08-16",
@@ -5502,17 +5858,21 @@
       "titolo": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
       "titoloLeggeCostituzionale": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo"
     },
-    "hash": "c3d85236a6e4e5240561928b7fe11ccd870c3592b9a00bbd5fcb3ceb1ab1de4d"
+    "hash": "2e0665d17e2326f26b008dffc689a291bb95eff60219f52b356b395810cd3268"
   },
   {
     "id": "6000002",
     "title": "\"NOEMI DURINI\"",
+    "category": "DIRITTO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 4458,
+    "quorum": 50000,
+    "openingDate": "2026-03-03",
     "deadline": "2026-09-03",
-    "detailUrl": "Proposta legislativa scritta dall'avv.Valentina Presicce",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6000002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6000002",
     "raw": {
       "dataApertura": "2026-03-03",
       "dataFineRaccolta": "2026-09-03",
@@ -5564,17 +5924,21 @@
       "titolo": "\"NOEMI DURINI\"",
       "titoloLeggeCostituzionale": "\"Noemi Durini\""
     },
-    "hash": "143c20929d88c7d8406552d645948f692ce246a8ed09b62163c830b3461bcd4c"
+    "hash": "cbbecce430ac22388549f648ceb40e982e6a725d9122f7b7687c867059742f75"
   },
   {
     "id": "600003",
     "title": "Salario minimo subito",
+    "category": "OCCUPAZIONE E LAVORO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 70336,
+    "quorum": 50000,
+    "openingDate": "2024-08-01",
     "deadline": "2024-12-17",
-    "detailUrl": "https://firme.salariominimosubito.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/600003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/600003",
     "raw": {
       "dataApertura": "2024-08-01",
       "dataChiusura": "2024-12-17",
@@ -5627,17 +5991,21 @@
       "titolo": "Salario minimo subito",
       "titoloLeggeCostituzionale": "Disposizioni per l'istituzione del salario minimo"
     },
-    "hash": "b9ae0536ed65372254c80d53c58132a833d595a81ad05141dead068b1d910a5b"
+    "hash": "cf28323f8a0880ff291e45dc9d58a86595fbc4409ae85cbec669563e923c0e8a"
   },
   {
     "id": "6100007",
     "title": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
+    "category": "AGRICOLTURA, SILVICOLTURA E PESCA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 35166,
+    "signaturesCount": 35275,
+    "quorum": 50000,
+    "openingDate": "2026-03-16",
     "deadline": "2026-09-16",
-    "detailUrl": "https://www.essereanimali.org/gabbie-vuote",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6100007",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6100007",
     "raw": {
       "dataApertura": "2026-03-16",
       "dataFineRaccolta": "2026-09-16",
@@ -5684,22 +6052,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.essereanimali.org/gabbie-vuote",
-      "sostenitori": 35166,
+      "sostenitori": 35275,
       "supportata": false,
       "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
       "titoloLeggeCostituzionale": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free"
     },
-    "hash": "3024b58586a42a58f3ba28205d620cb373088bf8fa5a3692cf0f6bb4919242c3"
+    "hash": "58178ea1118e4abea89de875ea65db28119c4f1c10efefe0aa7b7cabdda4d5f4"
   },
   {
     "id": "6100008",
     "title": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 7828,
+    "signaturesCount": 7836,
+    "quorum": 50000,
+    "openingDate": "2026-03-18",
     "deadline": "2026-09-18",
-    "detailUrl": "https://www.difesacivilenonviolenta.org",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6100008",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6100008",
     "raw": {
       "dataApertura": "2026-03-18",
       "dataFineRaccolta": "2026-09-18",
@@ -5746,22 +6118,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.difesacivilenonviolenta.org",
-      "sostenitori": 7828,
+      "sostenitori": 7836,
       "supportata": false,
       "titolo": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
       "titoloLeggeCostituzionale": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta"
     },
-    "hash": "22b9c4ed28e6ecb3ecde43c1c6bb33ff4092744bbfeda523bfd40199841b6f90"
+    "hash": "09525d0f8b951fd9d86503c03a2b73adf8c309e0d919a48b0b44c3bb5d33b72c"
   },
   {
     "id": "6200004",
     "title": "Basta soldi ai giornali",
+    "category": "IMPRESA E CONCORRENZA",
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 164297,
+    "signaturesCount": 164375,
+    "quorum": 500000,
+    "openingDate": "2026-04-27",
     "deadline": "2026-07-27",
-    "detailUrl": "https://www.bastasoldiaigiornali.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6200004",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6200004",
     "raw": {
       "dataApertura": "2026-04-27",
       "dataFineRaccolta": "2026-07-27",
@@ -5808,22 +6184,26 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.bastasoldiaigiornali.it",
-      "sostenitori": 164297,
+      "sostenitori": 164375,
       "supportata": false,
       "titolo": "Basta soldi ai giornali",
       "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
     },
-    "hash": "7756c9647c60ef4fa7084b928e214a72fb44c0ba14355aba45e8b8b3f5b1975d"
+    "hash": "a858dba91b784f8916f88e81a78c087e9bf496ce739401a58a69d2c868b80c06"
   },
   {
     "id": "6400001",
     "title": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1128,
+    "signaturesCount": 1129,
+    "quorum": 50000,
+    "openingDate": "2026-05-03",
     "deadline": "2026-11-03",
-    "detailUrl": "https://www.alberodellefamiglie.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6400001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6400001",
     "raw": {
       "dataApertura": "2026-05-03",
       "dataFineRaccolta": "2026-11-03",
@@ -5870,22 +6250,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.alberodellefamiglie.it",
-      "sostenitori": 1128,
+      "sostenitori": 1129,
       "supportata": false,
       "titolo": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
       "titoloLeggeCostituzionale": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO. MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA"
     },
-    "hash": "0f7c6d5734409903bc5003ea66553afa7dcc01e432b0da2a77bd3d3cdec07cb9"
+    "hash": "d91d0812b6c4da274e3428d915ee80f14012073e36a2aab2646b2a6c298cf348"
   },
   {
     "id": "6500000",
     "title": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
+    "category": "OCCUPAZIONE E LAVORO",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 14090,
+    "signaturesCount": 14100,
+    "quorum": 50000,
+    "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
-    "detailUrl": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500000",
     "raw": {
       "dataApertura": "2026-05-14",
       "dataFineRaccolta": "2026-11-14",
@@ -5932,22 +6316,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 14090,
+      "sostenitori": 14100,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "f772640259b63b0b9108f877a19e3b78e001420a50d82452295611d79f5aa4ad"
+    "hash": "b13d83e34550b81e83c0cc2e1934607e47a2b3f64ed88237acd2094989cd9803"
   },
   {
     "id": "6500011",
     "title": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
+    "category": "RELAZION INTERNAZIONALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 11724,
+    "signaturesCount": 11742,
+    "quorum": 50000,
+    "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
-    "detailUrl": "https://comitatoitalianeutrale.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500011",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500011",
     "raw": {
       "dataApertura": "2026-05-10",
       "dataFineRaccolta": "2026-11-10",
@@ -5994,22 +6382,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 11724,
+      "sostenitori": 11742,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "cee93d51c6dc2a81550d6952cd95913a9394718e52c9bfa9bdb4de95e77aec3d"
+    "hash": "39746b576f4b5d6bed5e119bbaad6f0a664cf538434bdd2267e02f16e28c9508"
   },
   {
     "id": "6500012",
     "title": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
+    "category": "AMBIENTE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 26743,
+    "signaturesCount": 26774,
+    "quorum": 50000,
+    "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
-    "detailUrl": "https://www.cieliblu.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500012",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500012",
     "raw": {
       "dataApertura": "2026-05-10",
       "dataFineRaccolta": "2026-11-10",
@@ -6056,22 +6448,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 26743,
+      "sostenitori": 26774,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "2329ee3c5e1361e9b9d9ab5d13eb4a5364ff5958401c3306293c2f06bc4294a9"
+    "hash": "9578cf354aa9a4ebfdc3228f2536d1b400d287e597bee813720e2a2ad3378ec1"
   },
   {
     "id": "6500013",
     "title": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 20640,
+    "signaturesCount": 20658,
+    "quorum": 50000,
+    "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
-    "detailUrl": "https://www.salutediritto.it/",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500013",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500013",
     "raw": {
       "dataApertura": "2026-05-14",
       "dataFineRaccolta": "2026-11-14",
@@ -6118,22 +6514,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 20640,
+      "sostenitori": 20658,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "205b72ba7c01cc048404a577eacfbaf2530b2b0a525a35927474f93a12ca081a"
+    "hash": "1ce582e0ed94434288b42dcd4a3671b4c8c55e9613cb3bf6c2f78b621e6f30bd"
   },
   {
     "id": "6500014",
     "title": "IMPOSTA GRANDI PATRIMONI",
+    "category": "ECONOMIA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 33032,
+    "signaturesCount": 33112,
+    "quorum": 50000,
+    "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
-    "detailUrl": "https://www.unpercentoequo.it",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500014",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500014",
     "raw": {
       "dataApertura": "2026-05-13",
       "dataFineRaccolta": "2026-11-13",
@@ -6180,22 +6580,26 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 33032,
+      "sostenitori": 33112,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "4917c0c7c6f016936ae05426dbb0ed3aee2df5ad4f30a4c482d5af57cabd1836"
+    "hash": "7503c6c561e2ee621753e5eba722ccbf198cc352ef1fcd33960203f9e91300bd"
   },
   {
     "id": "6700001",
     "title": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA\nModifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 14,
+    "quorum": 50000,
+    "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6700001",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6700001",
     "raw": {
       "dataApertura": "2026-05-25",
       "dataFineRaccolta": "2026-11-25",
@@ -6238,17 +6642,21 @@
       "titolo": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA\nModifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica\n",
       "titoloLeggeCostituzionale": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA Modifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica"
     },
-    "hash": "a8c8857086ba361ab60b923e42cfdeb5493753cdf9956a474be885c75b6abd9a"
+    "hash": "2ca919b53ec2e165fa0acf8ce128365cb1263226d2265c1aed56aaa440b24a54"
   },
   {
     "id": "6700009",
     "title": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
+    "category": "IMPRESA E CONCORRENZA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1142,
+    "signaturesCount": 1185,
+    "quorum": 50000,
+    "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6700009",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6700009",
     "raw": {
       "dataApertura": "2026-05-25",
       "dataFineRaccolta": "2026-11-25",
@@ -6286,22 +6694,26 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 1142,
+      "sostenitori": 1185,
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-    "hash": "1c189f3a59cba9379ca919ba4ad21b9af0233c52cd0d6b255c56eba26e2a1f85"
+    "hash": "2c0e46bc19640def07aed7be4f4434226b05d243178aef27f7d25a85ffa23fe2"
   },
   {
     "id": "700000",
     "title": "Abolizione dei ticket sanitari",
+    "category": "QUESTIONI SOCIALI",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
     "signaturesCount": 22400,
+    "quorum": 50000,
+    "openingDate": "2024-08-04",
     "deadline": "9999-12-31",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/700000",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/700000",
     "raw": {
       "dataApertura": "2024-08-04",
       "dataFineRaccolta": "9999-12-31",
@@ -6344,17 +6756,21 @@
       "titolo": "Abolizione dei ticket sanitari ",
       "titoloLeggeCostituzionale": "Abolizione dei ticket sanitari"
     },
-    "hash": "7afa394ce16728efd57e597c7e024a9da5ad9e99166abe64c980511e4203e9e0"
+    "hash": "92c53e98a9cc70ce5c411bcfa1bfb5d007fd53b5c12376f028d2f65d2ab99147"
   },
   {
     "id": "900002",
     "title": "Legge di Liberazione",
+    "category": "VITA POLITICA",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 2475,
+    "quorum": 50000,
+    "openingDate": "2024-08-20",
     "deadline": "2025-05-17",
-    "detailUrl": "https://stopemergenza.it/legge-di-liberazione",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/900002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/900002",
     "raw": {
       "dataApertura": "2024-08-20",
       "dataChiusura": "2025-05-17",
@@ -6407,17 +6823,21 @@
       "titolo": "Legge di Liberazione",
       "titoloLeggeCostituzionale": "Liberazione dagli Organi sovranazionali, Ripristino dei Diritti umani e civili del Popolo italiano"
     },
-    "hash": "55984a8548a964832c3babe7b1306db74434ff96ef5eca4fd9f399ec16e3b87b"
+    "hash": "32b4d78415b824c7981917d8858771d62c97e09224d98e517c5a89df8a2e3674"
   },
   {
     "id": "900003",
     "title": "Introduzione dell'insegnamento scolastico dell'educazione sentimentale in tutte le scuole di ogni ordine e grado, statali, private e paritarie",
+    "category": "ISTRUZIONE E COMUNICAZIONE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 54831,
+    "quorum": 50000,
+    "openingDate": "2024-08-21",
     "deadline": "2025-02-15",
-    "detailUrl": null,
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/900003",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/900003",
     "raw": {
       "dataApertura": "2024-08-21",
       "dataChiusura": "2025-02-15",
@@ -6461,6 +6881,6 @@
       "titolo": "Introduzione dell'insegnamento scolastico dell'educazione sentimentale in tutte le scuole di ogni ordine e grado, statali, private e paritarie",
       "titoloLeggeCostituzionale": "Introduzione dell’insegnamento scolastico dell’EDUCAZIONE SENTIMENTALE in tutte le scuole di ogni ordine grado, statali, private e paritarie"
     },
-    "hash": "58e4b2ddd6b8021431f386af935a40ea94b48c250c5316fa7f6c495fff4a093f"
+    "hash": "c69cc504cba94fcadc1febac3669c857c15de2a7fcf32b9c6ed7e013b214a3b3"
   }
 ]
