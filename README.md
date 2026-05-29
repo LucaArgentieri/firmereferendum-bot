@@ -8,7 +8,7 @@ Il progetto legge periodicamente i dati da:
 https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public
 ```
 
-Normalizza il payload, confronta lo snapshot precedente salvato nel repository, rileva nuove iniziative, aggiornamenti o rimozioni e invia le novita a un gruppo Telegram.
+Normalizza il payload, confronta lo snapshot precedente salvato nel repository e invia a Telegram le nuove iniziative rilevate. Lo snapshot viene aggiornato anche quando cambiano firme o altri dati, ma di default questi aggiornamenti non generano notifiche.
 
 Non usa database, VPS, Redis o servizi a pagamento.
 
@@ -80,12 +80,21 @@ Variabili supportate:
 SOURCE_URL=https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public
 TELEGRAM_BOT_TOKEN=...
 TELEGRAM_CHAT_ID=...
+TELEGRAM_EVENT_TYPES=created
 SEND_INITIAL_EVENTS=false
 BASELINE_ONLY=false
 FETCH_TIMEOUT_MS=20000
 ```
 
 `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID` sono opzionali in locale. Se mancano, il polling aggiorna lo snapshot ma salta l'invio Telegram.
+
+`TELEGRAM_EVENT_TYPES` controlla quali eventi inviare al gruppo. Il default consigliato e `created`, quindi vengono notificate solo le nuove iniziative. Valori possibili:
+
+```text
+created
+created,removed
+created,updated,removed
+```
 
 ## Bot Telegram
 

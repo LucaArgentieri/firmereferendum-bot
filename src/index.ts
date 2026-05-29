@@ -61,7 +61,7 @@ async function main(): Promise<void> {
   if (isFirstRun) {
     console.log(`First run detected. Saving initial snapshot with ${currentSnapshot.length} items.`);
     const initialEvents = config.sendInitialEvents
-      ? diffSnapshots([], currentSnapshot, existingEvents)
+      ? filterTelegramEvents(diffSnapshots([], currentSnapshot, existingEvents), config.telegramEventTypes)
       : [];
     const mergedEvents = mergeEvents(existingEvents, initialEvents);
 
@@ -80,7 +80,8 @@ async function main(): Promise<void> {
   }
 
   const newEvents = diffSnapshots(previousSnapshot, currentSnapshot, existingEvents);
-  const mergedEvents = mergeEvents(existingEvents, newEvents);
+  const telegramEvents = filterTelegramEvents(newEvents, config.telegramEventTypes);
+  const mergedEvents = mergeEvents(existingEvents, telegramEvents);
 
   await Promise.all([
     writeLatestSnapshot(currentSnapshot),
@@ -88,8 +89,12 @@ async function main(): Promise<void> {
     writeEvents(mergedEvents)
   ]);
 
-  console.log(`Snapshot changed. New events: ${newEvents.length}.`);
-  await sendTelegramEvents(newEvents, config);
+  console.log(`Snapshot changed. Detected events: ${newEvents.length}. Telegram events: ${telegramEvents.length}.`);
+  await sendTelegramEvents(telegramEvents, config);
+}
+
+function filterTelegramEvents<T extends { type: string }>(events: T[], allowedTypes: string[]): T[] {
+  return events.filter((event) => allowedTypes.includes(event.type));
 }
 
 main().catch((error: unknown) => {
