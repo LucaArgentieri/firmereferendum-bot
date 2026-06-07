@@ -988,7 +988,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 8399,
+    "signaturesCount": 8400,
     "quorum": 50000,
     "openingDate": "2025-02-08",
     "deadline": "9999-12-31",
@@ -1032,12 +1032,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.comitatogenitoriperifigli.it ",
-      "sostenitori": 8399,
+      "sostenitori": 8400,
       "supportata": false,
       "titolo": "Norme in materia di tutela del diritto dei minori alla bigenitorialità",
       "titoloLeggeCostituzionale": "Norme in materia di tutela del diritto dei minori alla bigenitorialità"
     },
-    "hash": "3da571c8b3ed04d47558620dff3222e6329877db36f1a221beaa8c323bd09a05"
+    "hash": "f4d08c580ae6d109cadf9efb8ab36b4c56313a5e6290109abf10218094a18ed3"
   },
   {
     "id": "2400001",
@@ -1046,7 +1046,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 10022,
+    "signaturesCount": 10023,
     "quorum": 50000,
     "openingDate": "2025-02-14",
     "deadline": "9999-12-31",
@@ -1089,12 +1089,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 10022,
+      "sostenitori": 10023,
       "supportata": false,
       "titolo": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
       "titoloLeggeCostituzionale": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni"
     },
-    "hash": "2995a62f2080ce335db0d7aa31cca35b5c4defd7edf7869095ce918b30ba9143"
+    "hash": "9cd54b274763aefe04f831bb711ecab1bbde83e3af5d3ea377491aa022db2882"
   },
   {
     "id": "2500001",
@@ -2107,7 +2107,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2377,
+    "signaturesCount": 2378,
     "quorum": 50000,
     "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
@@ -2159,12 +2159,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://italexitperlitalia.it/iniziative",
-      "sostenitori": 2377,
+      "sostenitori": 2378,
       "supportata": false,
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea.",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea."
     },
-    "hash": "32228a239ed84b5f52f17750749c47c005983dd190b13f14eb7a09a310d2bcf8"
+    "hash": "898d5e96d3849585d5261fa9bcc0f018caaf58c2389f008d320b7d96dee56861"
   },
   {
     "id": "3400003",
@@ -2173,7 +2173,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1144,
+    "signaturesCount": 1145,
     "quorum": 50000,
     "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
@@ -2225,12 +2225,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://italexitperlitalia.it/iniziative",
-      "sostenitori": 1144,
+      "sostenitori": 1145,
       "supportata": false,
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  ",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  "
     },
-    "hash": "cc3f126c46c5b50966682792e806e68e08dfa6949ac734e1233519bbeead7e81"
+    "hash": "30be9e3726cb2be31fa6fb209639ca308b5fe71f6e901bf9840b0583587818ba"
   },
   {
     "id": "3600000",
@@ -3490,7 +3490,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2690,
+    "signaturesCount": 2691,
     "quorum": 50000,
     "openingDate": "2025-08-31",
     "deadline": "9999-12-31",
@@ -3542,12 +3542,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/figlidellestelleodv",
-      "sostenitori": 2690,
+      "sostenitori": 2691,
       "supportata": false,
       "titolo": "SPAZZAPOLTRONE",
       "titoloLeggeCostituzionale": "SPAZZAPOLTRONE"
     },
-    "hash": "0827b6edb17d98f375aed8382a0461bd2c1cc9e6194d5ad0b0a9dd7de0d353a0"
+    "hash": "012864eb74d6e9bb0127c54a6895dc6a2d9e7f357adba1488e69553d7da95ba2"
   },
   {
     "id": "4600002",
@@ -5538,7 +5538,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 3821,
+    "signaturesCount": 3823,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5590,12 +5590,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
-      "sostenitori": 3821,
+      "sostenitori": 3823,
       "supportata": false,
       "titolo": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
       "titoloLeggeCostituzionale": "Modifiche all’art. 52 del codice penale in materia di difesa legittima"
     },
-    "hash": "ba2a1f5431decc713b8219208da72277c2f9fe06e77a7f4f6997c72330dda0ac"
+    "hash": "a6d127f6a3c2ff81f3c0364d81a0be06529cec48eadcfb10ebaabce8e84b6639"
   },
   {
     "id": "5600011",
@@ -5604,7 +5604,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2654,
+    "signaturesCount": 2655,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5656,12 +5656,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
-      "sostenitori": 2654,
+      "sostenitori": 2655,
       "supportata": false,
       "titolo": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio"
     },
-    "hash": "5d3912c97746cf6fd05a6426101cdca644094d3d51d290615c524fd32d3d08b4"
+    "hash": "17ac87a232fa9b6d192498e5f518ea0f99b5b2f9445fc1acf83cdcde7fe60091"
   },
   {
     "id": "5600018",
@@ -5670,7 +5670,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 18042,
+    "signaturesCount": 18043,
     "quorum": 50000,
     "openingDate": "2026-01-22",
     "deadline": "2026-07-22",
@@ -5722,12 +5722,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://radicali.it/campagne/stop-tassa-etica/",
-      "sostenitori": 18042,
+      "sostenitori": 18043,
       "supportata": false,
       "titolo": "Stop Tassa Etica",
       "titoloLeggeCostituzionale": "Abrogazione dell’articolo 1, comma 466, della legge 23 dicembre 2005, n. 266 (c.d. “tassa etica”)."
     },
-    "hash": "8a1ce64dbe2c2e14791c3822cad985e063394d75a43de3108737cdce7dd20cb4"
+    "hash": "93dbc157d1bab5cb6bdb76c7c408e49316cc9e1fcaed27598a012038d277043c"
   },
   {
     "id": "5700000",
@@ -5736,7 +5736,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 128613,
+    "signaturesCount": 128620,
     "quorum": 50000,
     "openingDate": "2026-01-30",
     "deadline": "2026-07-30",
@@ -5788,12 +5788,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.remigrazione.org",
-      "sostenitori": 128613,
+      "sostenitori": 128620,
       "supportata": false,
       "titolo": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
       "titoloLeggeCostituzionale": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana"
     },
-    "hash": "5a91e700f47a8d1237618fcdfae3c23cf9c8bbeb2938c0462de3fdc8362ff199"
+    "hash": "ddcc4b1a621280522e5a32e4db74cb7d3eceb9b0776ac232a1f8f32c41e4dfa5"
   },
   {
     "id": "5800000",
@@ -6000,7 +6000,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 42079,
+    "signaturesCount": 42085,
     "quorum": 50000,
     "openingDate": "2026-03-16",
     "deadline": "2026-09-16",
@@ -6052,12 +6052,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.essereanimali.org/gabbie-vuote",
-      "sostenitori": 42079,
+      "sostenitori": 42085,
       "supportata": false,
       "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
       "titoloLeggeCostituzionale": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free"
     },
-    "hash": "b5fb0acc7167be18e1508ffef46eba6cb9dc454b17485a2336d98ca56c3ebaa1"
+    "hash": "9a8b11d2cc2fc23bb56563b2bf122852a89eb5756898f60ebe596c1a2426dd94"
   },
   {
     "id": "6100008",
@@ -6132,7 +6132,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 177645,
+    "signaturesCount": 177663,
     "quorum": 500000,
     "openingDate": "2026-04-27",
     "deadline": "2026-07-27",
@@ -6184,12 +6184,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.bastasoldiaigiornali.it",
-      "sostenitori": 177645,
+      "sostenitori": 177663,
       "supportata": false,
       "titolo": "Basta soldi ai giornali",
       "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
     },
-    "hash": "ea2a7141055f6e4acf8c58d368f8a0eb41526c512221b9a9d28a6c35ee950e01"
+    "hash": "fde11193ac1c90a91c1f76fe2424f710ed6887e9415986c74ab938caf8c3da68"
   },
   {
     "id": "6400001",
@@ -6264,7 +6264,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15535,
+    "signaturesCount": 15537,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -6316,12 +6316,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 15535,
+      "sostenitori": 15537,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "e477bf03b9e74acbb7a4ae33f24b071fc730c98987c6f6d15b06b74acd7e5e58"
+    "hash": "a2219aff7aa4c94283ec1e571bb757f2342856974b2ce76b18e9221cb4774aae"
   },
   {
     "id": "6500011",
@@ -6330,7 +6330,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15122,
+    "signaturesCount": 15128,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -6382,12 +6382,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 15122,
+      "sostenitori": 15128,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "2421aa20a6fceddeea551d0bb9b5fb82717ab635da22334fc734546b426bf6cb"
+    "hash": "7464afe7a0fc9f9b3268f6b3c63a7180657f60914a3e231666e72f6126b18a07"
   },
   {
     "id": "6500012",
@@ -6396,7 +6396,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 33575,
+    "signaturesCount": 33587,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -6448,12 +6448,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 33575,
+      "sostenitori": 33587,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "2a7598c6b088df4d37efe28a6cde6d55b2770e578439df235496a333941f1bd6"
+    "hash": "a4b458959d404149ab3c47cff7eb3e1576d425447132ea84fed988e5154f470b"
   },
   {
     "id": "6500013",
@@ -6462,7 +6462,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 23235,
+    "signaturesCount": 23237,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -6514,12 +6514,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 23235,
+      "sostenitori": 23237,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "60723360051f263d0572a0e289d383dbc4cf21fac2a913a67a6111a9503e65cb"
+    "hash": "801f5ce31881d8273685c38df5d912ec566dd21739b1e735db7200520f058b7e"
   },
   {
     "id": "6500014",
@@ -6528,7 +6528,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 53899,
+    "signaturesCount": 53924,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -6580,12 +6580,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 53899,
+      "sostenitori": 53924,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "214020c5b28939bfedbd1b99e0d3f599af42375d01e7124b2d16284013117e7d"
+    "hash": "86312a53a1ac7b344635bed26ba7457da2103b819e477b429c2307cfe6e0eeb7"
   },
   {
     "id": "6700001",
@@ -6651,7 +6651,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2885,
+    "signaturesCount": 2886,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -6694,12 +6694,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 2885,
+      "sostenitori": 2886,
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-    "hash": "084dd498237d74fdce091c291a580a3478db44903e9222ae1c2428188ea2d05a"
+    "hash": "60093d6f46ea62868c36c16ac8f0b966f186173dd02313508912796fb1e09325"
   },
   {
     "id": "700000",
