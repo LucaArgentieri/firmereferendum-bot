@@ -140,7 +140,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2548,
+    "signaturesCount": 2560,
     "quorum": 50000,
     "openingDate": "2024-09-25",
     "deadline": "9999-12-31",
@@ -183,12 +183,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 2548,
+      "sostenitori": 2560,
       "supportata": false,
       "titolo": "Modifiche alla Legge 29 Luglio 1949 n. 717 Norme per l’arte negli edifici pubblici",
       "titoloLeggeCostituzionale": "Modifiche alla Legge 29 Luglio 1949 n. 717 Norme per l’arte negli edifici pubblici"
     },
-    "hash": "785b9bfa4628813580be977571899afd24280ff0093b1dcaad4f566d190b87ed"
+    "hash": "669aa62599339aa0775118ee38e4315bea15b9b6d6db4b508b475b82af2a77bf"
   },
   {
     "id": "1500002",
@@ -397,7 +397,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 8000,
+    "signaturesCount": 8020,
     "quorum": 50000,
     "openingDate": "2024-10-30",
     "deadline": "9999-12-31",
@@ -449,12 +449,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.lucianolorini.it/laureaallamemoria/",
-      "sostenitori": 8000,
+      "sostenitori": 8020,
       "supportata": false,
       "titolo": "«Legge Lorini-Papa: Concessione della Laurea alla Memoria come Atto di Umanità e Riconoscimento»",
       "titoloLeggeCostituzionale": "«Legge Lorini-Papa: Concessione della Laurea alla Memoria come Atto di Umanità e Riconoscimento»"
     },
-    "hash": "9415183f320b2ac147af55918a4c92080aa2b68e7a7ad9b19be108dc1226cc9c"
+    "hash": "7ff891e2a6b8322afe87b3988cee5dcd976365ee47e86a546dc59c49d555eff9"
   },
   {
     "id": "1800000",
@@ -597,7 +597,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2388,
+    "signaturesCount": 2416,
     "quorum": 50000,
     "openingDate": "2025-01-01",
     "deadline": "9999-12-31",
@@ -649,12 +649,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://assembleacostituentecittadini.it/",
-      "sostenitori": 2388,
+      "sostenitori": 2416,
       "supportata": false,
       "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE DI INIZIATIVA POPOLARE\n«Modifiche agli articoli 32, 75 e 135 della Costituzione e alla legge costituzionale 25 maggio 1970, n. 352» (G.U., serie generale, n.111 del 13/05/2023)",
       "titoloLeggeCostituzionale": "«Modifiche agli articoli 32, 75 e 135 della Costituzione e alla legge costituzionale 25 maggio 1970, n. 352» "
     },
-    "hash": "5a808effc8dd7badf1647daa464547e8425e89f562b65927fcef560024688242"
+    "hash": "1faa743b3033a7bc9983c07c043ea063338144ea2ba46095a036239e0f4d1b34"
   },
   {
     "id": "2000000",
@@ -796,7 +796,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4196,
+    "signaturesCount": 4231,
     "quorum": 50000,
     "openingDate": "2025-01-23",
     "deadline": "9999-12-31",
@@ -840,12 +840,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pensieropopolareitaliano.org/",
-      "sostenitori": 4196,
+      "sostenitori": 4231,
       "supportata": false,
       "titolo": "Fondazione per la Famiglia ",
       "titoloLeggeCostituzionale": "Istituzione della Fondazione per la Famiglia e disposizioni per il sostegno economico e fiscale alle famiglie con figli"
     },
-    "hash": "dbff56cbc039555893fc0ab1b6aeebebcf047096038f855a26fe8fb9f8229be4"
+    "hash": "98e35b8c71c61f4a49a6d55bed11ea4c239610d3e02e27c3c1b95768bfdc0d11"
   },
   {
     "id": "2200000",
@@ -988,7 +988,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 8367,
+    "signaturesCount": 8409,
     "quorum": 50000,
     "openingDate": "2025-02-08",
     "deadline": "9999-12-31",
@@ -1032,12 +1032,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.comitatogenitoriperifigli.it ",
-      "sostenitori": 8367,
+      "sostenitori": 8409,
       "supportata": false,
       "titolo": "Norme in materia di tutela del diritto dei minori alla bigenitorialità",
       "titoloLeggeCostituzionale": "Norme in materia di tutela del diritto dei minori alla bigenitorialità"
     },
-    "hash": "241583e1fe94b81c91c17a7df19d6338b62c0b96a7985cccd525d918c7a526f8"
+    "hash": "62b570cea936472cabe85e5d80b57d1d9198327f06ef7a8739600d7c82c8e932"
   },
   {
     "id": "2400001",
@@ -1046,7 +1046,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 9997,
+    "signaturesCount": 10031,
     "quorum": 50000,
     "openingDate": "2025-02-14",
     "deadline": "9999-12-31",
@@ -1089,12 +1089,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 9997,
+      "sostenitori": 10031,
       "supportata": false,
       "titolo": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni",
       "titoloLeggeCostituzionale": "Legge “Guglielmo Minervini” - Quote Generazionali in Parlamento, nelle Regioni e nei Comuni"
     },
-    "hash": "510f2f07476582c96492e6c08b837509aa9580af7a8633b1d4eb566063463b16"
+    "hash": "43ce0029d6901499e2e77d8bc2b21e105216e66e53691210a81af141e7af6332"
   },
   {
     "id": "2500001",
@@ -1170,7 +1170,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4099,
+    "signaturesCount": 4108,
     "quorum": 50000,
     "openingDate": "2025-03-01",
     "deadline": "9999-12-31",
@@ -1222,12 +1222,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.dubitoergocogito.it",
-      "sostenitori": 4099,
+      "sostenitori": 4108,
       "supportata": false,
       "titolo": "“Disposizioni per il riconoscimento della specificità militare”",
       "titoloLeggeCostituzionale": "“Disposizioni per il riconoscimento della specificità militare”"
     },
-    "hash": "55eb9f58fb7cacb1b01987576663d7967e2e95c9b689c89c1f7a8a2b8eded699"
+    "hash": "3b742180f200a61f3e6f19c3fe0c9b14c44bc027dfd15a606a3370f895c8b75d"
   },
   {
     "id": "2600008",
@@ -2107,7 +2107,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2300,
+    "signaturesCount": 2400,
     "quorum": 50000,
     "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
@@ -2159,12 +2159,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://italexitperlitalia.it/iniziative",
-      "sostenitori": 2300,
+      "sostenitori": 2400,
       "supportata": false,
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea.",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla indizione di un referendum di indirizzo per la richiesta ai cittadini italiani di manifestare la volontà di uscire dall’Unione Europea."
     },
-    "hash": "4b60045aa7ba6ece9eb8a16a60ac8a4641ec3dca396451487fb72ed2c3be9271"
+    "hash": "efce858515e3662d6113f636e3b4fa2448f5415ace27b306c55f1aea282584d3"
   },
   {
     "id": "3400003",
@@ -2173,7 +2173,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1117,
+    "signaturesCount": 1150,
     "quorum": 50000,
     "openingDate": "2025-05-13",
     "deadline": "9999-12-31",
@@ -2225,12 +2225,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://italexitperlitalia.it/iniziative",
-      "sostenitori": 1117,
+      "sostenitori": 1150,
       "supportata": false,
       "titolo": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  ",
       "titoloLeggeCostituzionale": "Legge di Iniziativa Popolare Costituzionale: Disposizioni sulla modifica degli articoli 11, 75, 117 e 138 della Costituzione in tema di neutralità, di referendum e di sovranità dello Stato.  "
     },
-    "hash": "eda9d0b808b9e72d07b4e4f5dd8d33ade40ae1023f4e1c2c41446a90aff19791"
+    "hash": "8ce9ee2620146110c0aa55c084941b9f0b27d6225cc6cea9832faec731212c85"
   },
   {
     "id": "3600000",
@@ -2306,7 +2306,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 13988,
+    "signaturesCount": 14159,
     "quorum": 50000,
     "openingDate": "2025-05-28",
     "deadline": "9999-12-31",
@@ -2358,12 +2358,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.radicisane.it",
-      "sostenitori": 13988,
+      "sostenitori": 14159,
       "supportata": false,
       "titolo": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
       "titoloLeggeCostituzionale": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso”"
     },
-    "hash": "b84a6b185e8c5458a510078b0a2fe29f01777a34e9506917292e168344e488ac"
+    "hash": "22ec12fbb85f72ecb2e21c38ad6313d6daf004977f7ea1671c0496f6b53abe40"
   },
   {
     "id": "3800001",
@@ -2506,7 +2506,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 834,
+    "signaturesCount": 850,
     "quorum": 50000,
     "openingDate": "2025-05-28",
     "deadline": "9999-12-31",
@@ -2549,12 +2549,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 834,
+      "sostenitori": 850,
       "supportata": false,
       "titolo": "Modifiche delle norme del processo tributario (Decreto Legislativo 31 dicembre 1992, n. 546, e successive modifiche ed integrazioni), in materia di controversie relative ai contributi di bonifica, al fine di consentire un’efficace difesa dei cittadini consorziati (art. 24 della Costituzione).",
       "titoloLeggeCostituzionale": "Modifiche al processo tributario per le controversie sui contributi di bonifica, per garantire una difesa efficace dei consorziati ai sensi dell’art. 24 della Costituzione."
     },
-    "hash": "5d2d289149d68d979db78791dc95a0678065248fca02b60b338bc97a9615ca42"
+    "hash": "88eb0d0d3f728acefb139b9937f12c3bd1614cc05c70b03d59590d8343c430c6"
   },
   {
     "id": "3900018",
@@ -2630,7 +2630,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 3181,
+    "signaturesCount": 3307,
     "quorum": 50000,
     "openingDate": "2025-06-09",
     "deadline": "9999-12-31",
@@ -2682,12 +2682,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 3181,
+      "sostenitori": 3307,
       "supportata": false,
       "titolo": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
       "titoloLeggeCostituzionale": "RIDISTRIBUIAMO GLI ORSI SULL'ARCO ALPINO"
     },
-    "hash": "6086390567b11f4691339f85aa6b6f7cbdc03e3ef24a2631698d19a6f8bb666d"
+    "hash": "86d11f508e64d3d8e416b749f4b0488dfcfdcfe3b4b003ea14876d6d5d3533f4"
   },
   {
     "id": "3900020",
@@ -3366,7 +3366,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 3431,
+    "signaturesCount": 3453,
     "quorum": 50000,
     "openingDate": "2025-07-23",
     "deadline": "9999-12-31",
@@ -3418,12 +3418,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.fondazioneluigieinaudi.it/immuni-dal-populismo-ripristiniamo-art-68-della-costituzione/",
-      "sostenitori": 3431,
+      "sostenitori": 3453,
       "supportata": false,
       "titolo": "Immuni dal populismo - Riforma dell'Art. 68 Cost.",
       "titoloLeggeCostituzionale": "Immuni dal populismo - Riforma dell'Art. 68 Cost."
     },
-    "hash": "7b8b7285c72fd32a7f9b69e98126c4647e59b4c2daedd1bdb5db9b6eca568635"
+    "hash": "4d961ff5ec90a9d97ecccd736a351c725a3fecc5bb09dd6ba9c52711b752bb22"
   },
   {
     "id": "4500001",
@@ -3432,7 +3432,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 531,
+    "signaturesCount": 555,
     "quorum": 50000,
     "openingDate": "2025-07-29",
     "deadline": "9999-12-31",
@@ -3476,12 +3476,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.jesuslenygomes.com",
-      "sostenitori": 531,
+      "sostenitori": 555,
       "supportata": false,
       "titolo": "MODIFICA AL DECRETO LEGGE, CONVERTITO CON\nMODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE\n“DISPOSIZIONI URGENTI IN MATERIA DI SICUREZZA\nDELLE CITTÀ”\n",
       "titoloLeggeCostituzionale": "«MODIFICA AL DECRETO LEGGE, CONVERTITO CON MODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE \"DI- S P O S I Z I O N I U R G E N T I I N M AT E R I A D I S I C U R E Z Z A D E L L E CITTÀ\"»"
     },
-    "hash": "44c6901f2c41ca1b54e087aaf8b6a931557b534dbcb2ac50342e9366d02068b7"
+    "hash": "9d101d33cf23cf44d6a3925e9ea301a31ba5e7435c0927f4dc0e22b3757219f8"
   },
   {
     "id": "4600001",
@@ -3490,7 +3490,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2538,
+    "signaturesCount": 2745,
     "quorum": 50000,
     "openingDate": "2025-08-31",
     "deadline": "9999-12-31",
@@ -3542,12 +3542,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/figlidellestelleodv",
-      "sostenitori": 2538,
+      "sostenitori": 2745,
       "supportata": false,
       "titolo": "SPAZZAPOLTRONE",
       "titoloLeggeCostituzionale": "SPAZZAPOLTRONE"
     },
-    "hash": "5f0d029c10bfdee39be014d8b82349e1db318e90de1e8932199ce81c4f6b68d4"
+    "hash": "26fc23897b23e36710aba9b4448d7687a6d70d63598813a277516ac6708c76c5"
   },
   {
     "id": "4600002",
@@ -3556,7 +3556,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1044,
+    "signaturesCount": 1105,
     "quorum": 50000,
     "openingDate": "2025-08-31",
     "deadline": "9999-12-31",
@@ -3608,12 +3608,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/figlidellestelleodv",
-      "sostenitori": 1044,
+      "sostenitori": 1105,
       "supportata": false,
       "titolo": "STUDIO SENZA BARRIERE",
       "titoloLeggeCostituzionale": "Disposizioni per l’abolizione dell’obbligo di frequenza nella didattica frontale dei corsi universitari"
     },
-    "hash": "1a0d841f3e2f62a55709ea37d16c5e32215442ee37da2b56cadb5c1bd9796391"
+    "hash": "08268c97d266f89cc7631531274a762def0b34f6dd516aaa1c174535a1be8971"
   },
   {
     "id": "4800000",
@@ -4292,7 +4292,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 18002,
+    "signaturesCount": 18046,
     "quorum": 50000,
     "openingDate": "2024-07-26",
     "deadline": "9999-12-31",
@@ -4344,12 +4344,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.acli.it/la-tua-politica/",
-      "sostenitori": 18002,
+      "sostenitori": 18046,
       "supportata": false,
       "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge sulla Democrazia interna e la Trasparenza dei Partiti Politici",
       "titoloLeggeCostituzionale": "Norme per la democrazia, la trasparenza di bilancio ed il finanziamento pubblico dei partiti politici (art. 49 della Costituzione)pubblico diretto alla partecipazione politica"
     },
-    "hash": "940d890f440198e4a429c99397fc65f4b15da5943aae45891bf3f89af40c8086"
+    "hash": "b3add2ff2dc90680a3271c5a1e89583ef9c860620694f80cc292520e38902a1b"
   },
   {
     "id": "500023",
@@ -4358,7 +4358,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 7502,
+    "signaturesCount": 7524,
     "quorum": 50000,
     "openingDate": "2024-07-26",
     "deadline": "9999-12-31",
@@ -4410,12 +4410,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.acli.it/la-tua-politica/",
-      "sostenitori": 7502,
+      "sostenitori": 7524,
       "supportata": false,
       "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge per la Partecipazione Democratica e le Assemblee Partecipative",
       "titoloLeggeCostituzionale": "Istituzione delle assemblee di cittadinanza per promozione della partecipazione democratica dei cittadini"
     },
-    "hash": "e2dbada3f45294445c1b267eaabfc9c157a9944c5f3dc8a90ae5c635ea7d7862"
+    "hash": "8914260e4d5a631b14e7fb88270c8c89a7c29ea22f531f61120c4b39f32504eb"
   },
   {
     "id": "500025",
@@ -4818,7 +4818,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2093,
+    "signaturesCount": 2445,
     "quorum": 50000,
     "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
@@ -4870,12 +4870,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 2093,
+      "sostenitori": 2445,
       "supportata": false,
       "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
       "titoloLeggeCostituzionale": "Abrogazione del voto congiunto  tra  candidati  uninominali e liste plurinominali legge elettorale per Camera e Senato"
     },
-    "hash": "406d356b725022a4d9ecd933fbc3b8412d05d0cfd5a76bfdcc95d4ec62eeb458"
+    "hash": "5ed4fa8d9e26c2272dd6a1c4db391f4fdf941d40ef8db89037926df6e7edc6bc"
   },
   {
     "id": "5200001",
@@ -4884,7 +4884,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2224,
+    "signaturesCount": 2652,
     "quorum": 50000,
     "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
@@ -4936,12 +4936,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 2224,
+      "sostenitori": 2652,
       "supportata": false,
       "titolo": "ABOLIZIONE PLURICANDIDATURE LEGGE ELETTORALE PER CAMERA E SENATO: OGNI CANDIDATO IN UN SOLO COLLEGIO UNINOMINALE O PLURINOMINALE. ABOLIZIONE SOGLIE DI SBARRAMENTO",
       "titoloLeggeCostituzionale": "Abolizione pluricandidature  legge  elettorale  per  Camera  e Senato:  ogni  candidato  in   un   solo   collegio   uninominale   o plurinominale"
     },
-    "hash": "699ff01b7294a3f8b4399ebcd3a3a2c22caef2c09888b1646eefa422f3395228"
+    "hash": "21db33c2f47edee31082f749366c284e511600d621636add9fb0f8c6fc6d3b0d"
   },
   {
     "id": "5200003",
@@ -4950,7 +4950,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1422,
+    "signaturesCount": 1672,
     "quorum": 50000,
     "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
@@ -5002,12 +5002,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 1422,
+      "sostenitori": 1672,
       "supportata": false,
       "titolo": "Voto di Preferenza Firme Presentazione e Selezione Candidati\n",
       "titoloLeggeCostituzionale": "Reintroduzione voto preferenza in listini plurinominali legge elettorale Camera e Senato. \"Modifiche al t.u. dpr 30/3/1957, n.361, e al t.u. d.lgs. 20/12/1993, n. 533 elezione Camera  e Senato\""
     },
-    "hash": "5330eb2f612941f3c6969dc333bbe14971d7afa34286779d5b9d0336307b8063"
+    "hash": "e02c6eb3b8d7987284c2e55fd6e9706d60891fd129b5dbf79f9d0de44a7af302"
   },
   {
     "id": "5400028",
@@ -5016,7 +5016,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1531,
+    "signaturesCount": 1669,
     "quorum": 50000,
     "openingDate": "2025-12-19",
     "deadline": "2026-06-19",
@@ -5068,12 +5068,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "comitatogiustiziaequitafamiliare.it",
-      "sostenitori": 1531,
+      "sostenitori": 1669,
       "supportata": false,
       "titolo": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA \n",
       "titoloLeggeCostituzionale": "MODIFICA AL CODICE CIVILE E AL CODICE DI PROCEDURA CIVILE PER LA RIFORMA DEL DIRITTO DI FAMIGLIA"
     },
-    "hash": "2d11389a2ff9309cc1a56ba70ee18c98991848ddbe42d61bf97c5dc6cb894c51"
+    "hash": "c1aabad3317e8acf2a6ee66b491078969a04982260b3faa474812b9f09590623"
   },
   {
     "id": "5400032",
@@ -5082,7 +5082,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1342,
+    "signaturesCount": 1488,
     "quorum": 50000,
     "openingDate": "2025-12-20",
     "deadline": "2026-06-20",
@@ -5134,12 +5134,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "comitatogiustiziaequitafamiliare.it",
-      "sostenitori": 1342,
+      "sostenitori": 1488,
       "supportata": false,
       "titolo": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI ALL’USO STRUMENTALE DEL SISTEMA GIUDIZIARIO E OTTIMIZZAZIONE DELLE RISORSE PUBBLICHE PER LA TUTELA DELLE VITTIME DI VIOLENZA E DEI MINORI",
       "titoloLeggeCostituzionale": "MODIFICHE AI CODICI PENALE, CIVILE, DI PROCEDURA PENALE E DI PROCEDURA CIVILE FINALIZZATE A GARANTIRE L’UGUAGLIANZA DEI CITTADINI DAVANTI ALLA LEGGE E AL GIUSTO PROCESSO, MISURE DETERRENTI "
     },
-    "hash": "41c4d8d023b051352d3ec4c3a19a892d774c6250a65e658933f0f4efef57a249"
+    "hash": "80cab46d3aa80bc7146d9046703c606ba5762608ca3e15a1070a12618f959a7a"
   },
   {
     "id": "5400034",
@@ -5208,7 +5208,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4082,
+    "signaturesCount": 4791,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -5260,12 +5260,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 4082,
+      "sostenitori": 4791,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "4bbe934cf3d35ae2c953114ef06e9706cff1d0ae376337ed536a632116e2729f"
+    "hash": "98a8bd5b971695ab64e1a1a1fab288ca28914e445bfddd68f14345e9d90bf45f"
   },
   {
     "id": "5600002",
@@ -5274,7 +5274,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 51123,
+    "signaturesCount": 52689,
     "quorum": 50000,
     "openingDate": "2026-01-20",
     "deadline": "2026-07-20",
@@ -5326,12 +5326,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://5eurocontroilfumo.it/",
-      "sostenitori": 51123,
+      "sostenitori": 52689,
       "supportata": false,
       "titolo": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale",
       "titoloLeggeCostituzionale": "Accisa generale sui prodotti da fumo e nicotina per la tutela della salute pubblica e il rafforzamento del Servizio Sanitario Nazionale"
     },
-    "hash": "b0e88ca87e67215fbb8fe6bef03657de147303fc6b3acb9f4e1e66dab5176013"
+    "hash": "d120f415b8a5af1b04803cc47cdd2abccf9372cfd8f3ae519e542e56c21e654e"
   },
   {
     "id": "5600004",
@@ -5340,7 +5340,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 542,
+    "signaturesCount": 603,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5392,12 +5392,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/autonomia-delle-province-montane/",
-      "sostenitori": 542,
+      "sostenitori": 603,
       "supportata": false,
       "titolo": "AUTONOMIA PER LE PROVINCE MONTANE - Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 114, 117 e 119 della Costituzione in materia di Province montane"
     },
-    "hash": "12106ab5456d9482165be32b54842c0046066f448e31a2e0b91b1c43039e1982"
+    "hash": "06a2a43ba867719558aa98f911aa1ba0bd31d09cac4be462b252a00058807aaf"
   },
   {
     "id": "5600005",
@@ -5406,7 +5406,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 448,
+    "signaturesCount": 509,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5458,12 +5458,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/scuola-identita-e-storia-regionale/",
-      "sostenitori": 448,
+      "sostenitori": 509,
       "supportata": false,
       "titolo": "STORIA REGIONALE IN COSTITUZIONE: IDENTITA' E SENTIMENTO DI APPARTENENZA - Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico\n",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 9 della Costituzione in materia della tutela della conoscenza storica regionale attraverso il sistema scolastico"
     },
-    "hash": "01bf2721c16565243970ddaef68b304b5349b451e06fadffb680566f8edcf107"
+    "hash": "dd49d2368b1eb944cf1718cd6c11cc64e845eaeddb6b9d1ddbce7b34c0712bd5"
   },
   {
     "id": "5600006",
@@ -5472,7 +5472,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1421,
+    "signaturesCount": 1650,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5524,12 +5524,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
-      "sostenitori": 1421,
+      "sostenitori": 1650,
       "supportata": false,
       "titolo": "USO LEGITTIMO DELLE ARMI: LA TUTELA NECESSARIA DELLE FORZE DELL'ORDINE - Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi",
       "titoloLeggeCostituzionale": "Modifiche all’art. 53 del codice penale in materia di uso legittimo delle armi"
     },
-    "hash": "62e306fbde16a2c5f66e46f4e44021416a3cdb194c352e9271bba43e369c4c1f"
+    "hash": "c76c7d753f41080fc44574214a8aea6fe1daec6e0962271b86e9265a237037f5"
   },
   {
     "id": "5600007",
@@ -5538,7 +5538,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 3373,
+    "signaturesCount": 4008,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5590,12 +5590,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
-      "sostenitori": 3373,
+      "sostenitori": 4008,
       "supportata": false,
       "titolo": "LA DIFESA E' SEMPRE LEGITTIMA PER CHI SI DIFENDE NEL PROPRIO DOMICILIO - Modifiche all’art. 52 del codice penale in materia di difesa legittima",
       "titoloLeggeCostituzionale": "Modifiche all’art. 52 del codice penale in materia di difesa legittima"
     },
-    "hash": "c5ec1d6f37d6c860d81a5ae05bdb222fdb7d3725f31b66f10d059a7fe6d4dd6d"
+    "hash": "ea7638de9da6efa52403770c45eca87e4da5f91b076c81d12ab5c3dc2431c0ab"
   },
   {
     "id": "5600011",
@@ -5604,7 +5604,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2405,
+    "signaturesCount": 2757,
     "quorum": 50000,
     "openingDate": "2026-01-25",
     "deadline": "2026-07-25",
@@ -5656,12 +5656,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://partitopopolarenord.org/proposte-di-legge/legittima-difesa-e-inviolabilita-del-domicilio/",
-      "sostenitori": 2405,
+      "sostenitori": 2757,
       "supportata": false,
       "titolo": "LEGITTIMA DIFESA E INVIOLABILITA' DEL DOMICILIO IN COSTITUZIONE - Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio",
       "titoloLeggeCostituzionale": "Modifiche dell’art. 14 della Costituzione in materia di inviolabilità del domicilio"
     },
-    "hash": "c20b460c2b81fcc1bb102b0eba4aa7c52a5fa9217131aaebaeb5b3757a6a2650"
+    "hash": "651379b91676a36fdf796c8bcf2ec482053889882de143a5c7ae7610d2c2afea"
   },
   {
     "id": "5600018",
@@ -5670,7 +5670,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 16344,
+    "signaturesCount": 18528,
     "quorum": 50000,
     "openingDate": "2026-01-22",
     "deadline": "2026-07-22",
@@ -5722,12 +5722,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://radicali.it/campagne/stop-tassa-etica/",
-      "sostenitori": 16344,
+      "sostenitori": 18528,
       "supportata": false,
       "titolo": "Stop Tassa Etica",
       "titoloLeggeCostituzionale": "Abrogazione dell’articolo 1, comma 466, della legge 23 dicembre 2005, n. 266 (c.d. “tassa etica”)."
     },
-    "hash": "616648790d27c76e1ea2a327526f041c41855d84b91ef1c062949e0d0fe7a45e"
+    "hash": "3a14c2b08bd9a7643920c319d4f0fc1ae064928d83d1c426c94e44ca8832bf5e"
   },
   {
     "id": "5700000",
@@ -5736,7 +5736,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 125890,
+    "signaturesCount": 129547,
     "quorum": 50000,
     "openingDate": "2026-01-30",
     "deadline": "2026-07-30",
@@ -5788,12 +5788,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.remigrazione.org",
-      "sostenitori": 125890,
+      "sostenitori": 129547,
       "supportata": false,
       "titolo": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
       "titoloLeggeCostituzionale": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana"
     },
-    "hash": "dbe0768ee096b36eb0bd77f1f4c1db861114cf89cfec6456d0f5496858879433"
+    "hash": "4cd92ec548b9a33de268980af0b25110bd44a6137f236217e367917f696aa1a1"
   },
   {
     "id": "5800000",
@@ -5802,7 +5802,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 3475,
+    "signaturesCount": 3774,
     "quorum": 50000,
     "openingDate": "2026-02-16",
     "deadline": "2026-08-16",
@@ -5853,12 +5853,12 @@
       "logo": "",
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 3475,
+      "sostenitori": 3774,
       "supportata": false,
       "titolo": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
       "titoloLeggeCostituzionale": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo"
     },
-    "hash": "3a7a490982b3f0c93a1d28f3f50469587f5dda8ef7fb2ea5060d84098cdc63ca"
+    "hash": "269901e2965ab79d2202da308e09d42744ba48e977028b6acff7ac7cbb24847b"
   },
   {
     "id": "6000002",
@@ -5867,7 +5867,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4463,
+    "signaturesCount": 4618,
     "quorum": 50000,
     "openingDate": "2026-03-03",
     "deadline": "2026-09-03",
@@ -5919,12 +5919,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "Proposta legislativa scritta dall'avv.Valentina Presicce ",
-      "sostenitori": 4463,
+      "sostenitori": 4618,
       "supportata": false,
       "titolo": "\"NOEMI DURINI\"",
       "titoloLeggeCostituzionale": "\"Noemi Durini\""
     },
-    "hash": "fda33f7148a0d807832069af0e40b28409623519ae01f96af35116edcdcbf501"
+    "hash": "84a9e00fbc301ad1f7ef2348925a73dbde1cd46f50b9a607ded2474e03c3513e"
   },
   {
     "id": "600003",
@@ -6000,7 +6000,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 35829,
+    "signaturesCount": 44066,
     "quorum": 50000,
     "openingDate": "2026-03-16",
     "deadline": "2026-09-16",
@@ -6052,12 +6052,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.essereanimali.org/gabbie-vuote",
-      "sostenitori": 35829,
+      "sostenitori": 44066,
       "supportata": false,
       "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
       "titoloLeggeCostituzionale": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free"
     },
-    "hash": "e537b619bde19001c974e30361f40c4eedd3524c7c1e74fb31a396c8b070abb3"
+    "hash": "ae2fb2652aad873f2afa150e3feb45fea73e6fbe0fcadc66b66ad5cdb2580175"
   },
   {
     "id": "6100008",
@@ -6066,7 +6066,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 7868,
+    "signaturesCount": 9186,
     "quorum": 50000,
     "openingDate": "2026-03-18",
     "deadline": "2026-09-18",
@@ -6118,12 +6118,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.difesacivilenonviolenta.org",
-      "sostenitori": 7868,
+      "sostenitori": 9186,
       "supportata": false,
       "titolo": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta",
       "titoloLeggeCostituzionale": "Istituzione e  modalità di finanziamento del Dipartimento della difesa civile, non armata e nonviolenta"
     },
-    "hash": "a294c41a4fc95b6b1ca4049ef56fda54fae6c3d19441c91ab6e79d4f0e6c9878"
+    "hash": "b740cecef9f489e5a55f52b7f866370e965dcac97e3bebe70cc33602f2032769"
   },
   {
     "id": "6200004",
@@ -6132,7 +6132,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 165090,
+    "signaturesCount": 184092,
     "quorum": 500000,
     "openingDate": "2026-04-27",
     "deadline": "2026-07-27",
@@ -6184,12 +6184,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.bastasoldiaigiornali.it",
-      "sostenitori": 165090,
+      "sostenitori": 184092,
       "supportata": false,
       "titolo": "Basta soldi ai giornali",
       "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
     },
-    "hash": "5ed7239160c8a3ca09be1368fbe109ab0116915b0da806ede8eb12fbc456080c"
+    "hash": "4daf2135331b4d312c559243ab1f094f3c79e651044b076f468efb480ed3cd32"
   },
   {
     "id": "6400001",
@@ -6198,7 +6198,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1138,
+    "signaturesCount": 1458,
     "quorum": 50000,
     "openingDate": "2026-05-03",
     "deadline": "2026-11-03",
@@ -6250,12 +6250,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.alberodellefamiglie.it",
-      "sostenitori": 1138,
+      "sostenitori": 1458,
       "supportata": false,
       "titolo": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE  PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO.  MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA",
       "titoloLeggeCostituzionale": "INTERVENTI PER GARANTIRE L’ EQUITA’ E IL DIRITTO DI ACCESSO ALLE CURE PER TUTTI I BAMBINI E GLI ADOLESCENTI NEL TERRITORIO ITALIANO. MISURE PER IL SOSTEGNO DELL’ATTIVITA’ NEONATOLOGICA E PEDIATRICA"
     },
-    "hash": "976d12838ba0e9b5e6de7fabc54759d204897773dd67bf0de3d483645f80d5c7"
+    "hash": "1ab608c5c0604d273a7ce0696aacd9a5303ffaed4a9129538fdd571f36f0f34f"
   },
   {
     "id": "6500000",
@@ -6264,7 +6264,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 14229,
+    "signaturesCount": 16303,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -6316,12 +6316,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 14229,
+      "sostenitori": 16303,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "03b38f6baf4ed55f634eccc6652802ef4e354fb9e264ccbaea5f19247d5f5c6c"
+    "hash": "5b2a1bf554d66e901469e02101921122d8eb2642d77b5d3cf26c67aebcc56166"
   },
   {
     "id": "6500011",
@@ -6330,7 +6330,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 11898,
+    "signaturesCount": 16075,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -6382,12 +6382,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 11898,
+      "sostenitori": 16075,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "8fd4cf1e0695f65b42cd1d765d5820eacfc87f82888c7336f43efb13b7c78818"
+    "hash": "d3aea7c14e94832a6579369a4e17afd185a1810d0d886974f08baa7638ddce10"
   },
   {
     "id": "6500012",
@@ -6396,7 +6396,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 27031,
+    "signaturesCount": 36660,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -6448,12 +6448,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 27031,
+      "sostenitori": 36660,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "34c6027f843ce4478daa7e45672eb687d59d01b1a6036822b1b3a755a810eb12"
+    "hash": "f60301d1be618b4937976fcfe8629662c6ade0145a7c7f55d4516dd05333502b"
   },
   {
     "id": "6500013",
@@ -6462,7 +6462,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 20861,
+    "signaturesCount": 24602,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -6514,12 +6514,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 20861,
+      "sostenitori": 24602,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "fe8a53240b927aaf8b9b91d92ab9d3b32f232f52c0d0553d0f518b3510af8d99"
+    "hash": "761a9b5f1608b49a462edfb2359c282924ce8c75aeda234962386ed5994a2a80"
   },
   {
     "id": "6500014",
@@ -6528,7 +6528,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 33706,
+    "signaturesCount": 56766,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -6580,12 +6580,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 33706,
+      "sostenitori": 56766,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "77fd0fbf5bedf4e4fde45db8ebb0660f1f572b17d8e7a4c7a2ff260b2d0b05cc"
+    "hash": "13ed4199a708b3126cbad1b6636ef489d5bfffe7fdcb072a513f6c3662105ee7"
   },
   {
     "id": "6700001",
@@ -6594,7 +6594,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15,
+    "signaturesCount": 82,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -6637,12 +6637,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 15,
+      "sostenitori": 82,
       "supportata": false,
       "titolo": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA\nModifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica\n",
       "titoloLeggeCostituzionale": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA Modifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica"
     },
-    "hash": "9bcef1d38e95edf6b862880d689d4c402d8599d7000c87d22201aa619bd20936"
+    "hash": "e88c738fa479e62697d5ca010938f23639ab73a9d7ef2a8d46d0bb2155ddd3ca"
   },
   {
     "id": "6700009",
@@ -6651,7 +6651,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1551,
+    "signaturesCount": 3716,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -6694,12 +6694,144 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 1551,
+      "sostenitori": 3716,
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-    "hash": "7121053a804c2afbe493e4a19ad32c14ba179d4757cdce8f18504f47b328ba70"
+    "hash": "7fdfc0afd8eb350234556e7afcab5188449b07f4b9d1da993c3457921278fa82"
+  },
+  {
+    "id": "6800002",
+    "title": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
+    "category": "DIRITTO",
+    "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+    "status": "IN RACCOLTA FIRME",
+    "committee": "",
+    "signaturesCount": 10417,
+    "quorum": 50000,
+    "openingDate": "2026-06-08",
+    "deadline": "2026-12-08",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6800002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6800002",
+    "raw": {
+      "dataApertura": "2026-06-08",
+      "dataFineRaccolta": "2026-12-08",
+      "dataFineValidita": "9999-12-31",
+      "dataGazzetta": "2026-05-29",
+      "dataInizioRaccolta": "2026-06-08",
+      "dataInizioValidita": "2026-06-04",
+      "dataIns": "2026-06-04T15:03:39",
+      "dataUltimoAgg": "2026-06-08",
+      "descrizione": "La proposta di legge “PMA per tutte” vuole modificare la legge n. 40 del 2004 sulla procreazione medicalmente assistita (PMA), che oggi consente l’accesso alle tecniche solo alle coppie eterosessuali.\n\nL’obiettivo principale è eliminare le discriminazioni e permettere l’accesso anche a:\n- donne single\n- coppie di donne\n- tutte le persone che, su indicazione medica, ne abbiano necessità \n\nLa legge estende l’accesso alla PMA a tutte le donne maggiorenni, sia single che in coppia anche dello stesso sesso; riconosce che la difficoltà ad avere figli può avere cause diverse, non solo mediche, e aggiorna le norme e le sanzioni per renderle coerenti con questa apertura.\n\nL’idea di fondo è che diventare genitori è una scelta personale, e che il sistema sanitario pubblico debba garantire a tutti un accesso equo e sicuro, senza costringere le persone ad andare all’estero.",
+      "descrizioneBreve": "La proposta di legge “PMA per tutte” mira a riformare la legge 40/2004, oggi riservata alle coppie eterosessuali, per garantire un accesso più equo alla procreazione medicalmente assistita. La riforma estende la PMA a donne single, coppie di donne e a tutte le persone che ne abbiano necessità, riconoscendo che il desiderio di genitorialità può incontrare ostacoli non solo medici. Il testo aggiorna inoltre norme e sanzioni, affermando il principio che diventare genitori è una scelta personale che il sistema sanitario pubblico deve sostenere senza discriminazioni.",
+      "estremi": "5000001",
+      "id": 6800002,
+      "idComitato": [],
+      "idDecCatIniziativa": {
+        "dataFineValidita": "1999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "DIRITTO",
+        "id": 4,
+        "nome": "DIRITTO"
+      },
+      "idDecStatoIniziativa": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "IN RACCOLTA FIRME",
+        "id": 2,
+        "nome": "IN RACCOLTA FIRME"
+      },
+      "idDecStatoLogo": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-09-22",
+        "descrizione": "VERIFICATO",
+        "id": 1,
+        "nome": "VERIFICATO"
+      },
+      "idDecTipoIniziativa": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+        "id": 4,
+        "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+      },
+      "logo": "",
+      "quesito": "",
+      "quorum": 50000,
+      "sito": "https://pmapertutte.it/",
+      "sostenitori": 10417,
+      "supportata": false,
+      "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
+      "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
+    },
+    "hash": "0835cd3d4f3bd371734a5463a52a5de04e772afb7d083a1a64937ecd48318531"
+  },
+  {
+    "id": "6900002",
+    "title": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
+    "category": "QUESTIONI SOCIALI",
+    "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+    "status": "IN RACCOLTA FIRME",
+    "committee": "",
+    "signaturesCount": 11,
+    "quorum": 50000,
+    "openingDate": "2026-06-12",
+    "deadline": "2026-12-12",
+    "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6900002",
+    "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6900002",
+    "raw": {
+      "dataApertura": "2026-06-12",
+      "dataFineRaccolta": "2026-12-12",
+      "dataFineValidita": "9999-12-31",
+      "dataGazzetta": "2026-06-04",
+      "dataInizioRaccolta": "2026-06-12",
+      "dataInizioValidita": "2026-06-12",
+      "dataIns": "2026-06-12T13:28:45",
+      "dataUltimoAgg": "2026-06-12",
+      "descrizione": "La proposta di legge si inserisce in un contesto segnato da un persistente squilibrio nella distribuzione delle responsabilità di cura dei figli, che continua ad essere attribuita in misura prevalente alla figura materna, con effetti rilevanti sulla loro partecipazione al mercato del lavoro. I dati più recenti confermano la dimensione del fenomeno: dopo la nascita di un figlio risulta occupato solo il 53,9 per cento delle donne tra i 25 e i 49 anni, a fronte del 73,9 per cento delle donne senza figli; per una donna su cinque, inoltre, la maternità rappresenta la causa principale di exit dal mondo del lavoro. Nell’accesso ai congedi parentali, peraltro, permane un significativo divario, poiché le richieste presentate dalle madri sono di quasi tre volte superiori a quelle dei padri.\nL’intervento, in tale quadro, assume rilievo strategico in quanto è diretto a rimuovere una disparità non solo normativa, ma anche culturale e sociale in modo da promuovere una più equilibrata assunzione delle responsabilità genitoriali e un maggiore sostegno all’occupazione femminile. L’iniziativa si colloca, dunque, in una più ampia prospettiva di contrasto alla crisi demografica e di rafforzamento della coesione sociale, verso un progressivo e naturale allineamento dell’ordinamento italiano alle esperienze europee più avanzate, quali quelle di Spagna, Svezia e Norvegia, nelle quali la condivisione della cura costituisce da tempo un elemento qualificante delle politiche familiari e del lavoro.",
+      "descrizioneBreve": "La presente proposta di legge istituisce il congedo di paternità paritario: un periodo di 5 mesi, obbligatorio, non trasferibile e con indennità pari al 100% della retribuzione.\nLa misura mira a incentivare e sostenere l’occupazione femminile, contrastare la crisi demografica e promuovere una effettiva condivisione delle responsabilità genitoriali.\nLa piena tutela economica e la parità dei genitori viene garantita con l’estensione della retribuzione al 100 % anche per il congedo di maternità, allineando l’Italia alle migliori pratiche europee e investendo in un futuro di effettiva uguaglianza.",
+      "estremi": "5100000",
+      "id": 6900002,
+      "idComitato": [],
+      "idDecCatIniziativa": {
+        "dataFineValidita": "1999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "QUESTIONI SOCIALI",
+        "id": 8,
+        "nome": "QUESTIONI SOCIALI"
+      },
+      "idDecStatoIniziativa": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "IN RACCOLTA FIRME",
+        "id": 2,
+        "nome": "IN RACCOLTA FIRME"
+      },
+      "idDecStatoLogo": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-09-22",
+        "descrizione": "VERIFICATO",
+        "id": 1,
+        "nome": "VERIFICATO"
+      },
+      "idDecTipoIniziativa": {
+        "dataFineValidita": "9999-12-31",
+        "dataInizioValidita": "2021-08-01",
+        "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+        "id": 4,
+        "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+      },
+      "logo": "",
+      "quesito": "",
+      "quorum": 50000,
+      "sito": "www.pariallapari.it",
+      "sostenitori": 11,
+      "supportata": false,
+      "titolo": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
+      "titoloLeggeCostituzionale": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre"
+    },
+    "hash": "187c908fd1a99d9633bd331c1c0907d97535c46331ee6428af2d4259161a385e"
   },
   {
     "id": "700000",
@@ -6708,7 +6840,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 22402,
+    "signaturesCount": 22563,
     "quorum": 50000,
     "openingDate": "2024-08-04",
     "deadline": "9999-12-31",
@@ -6751,12 +6883,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 22402,
+      "sostenitori": 22563,
       "supportata": false,
       "titolo": "Abolizione dei ticket sanitari ",
       "titoloLeggeCostituzionale": "Abolizione dei ticket sanitari"
     },
-    "hash": "c7e31d4fd8e8c9590d33c629b3e18b0d30ae1e61b71cf4b87682c74f065ea9a2"
+    "hash": "7000630e2e3919b2ce132d418869855de73aa10ceec250a637538cf69b7dd486"
   },
   {
     "id": "900002",
