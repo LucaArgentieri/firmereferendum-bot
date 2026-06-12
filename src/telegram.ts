@@ -33,37 +33,36 @@ export function buildPreviewEvent(item: NormalizedItem): FeedEvent {
   };
 }
 
-export function formatEventMessage(event: FeedEvent): string {
+export function formatEventMessage(event: FeedEvent, maxLength = MAX_MESSAGE_LENGTH): string {
   if (event.type === "created") {
-    return truncateHtml(`${titleLine(event.item.title)}
-
-${descriptionLine(event.item)}
-
-${badgesLine(event.item)}
-
-📅 <b>Apertura:</b> ${escapeHtml(formatDate(event.item.openingDate))}
-👥 <b>Sostenitori:</b> ${escapeHtml(formatNumber(event.item.signaturesCount))}
-${quorumLine(event.item)}${progressLine(event.item)}
-📌 <b>Scadenza:</b> ${escapeHtml(formatDate(event.item.deadline))}
-
-${linkLine(event.item.detailUrl)}`);
+    const link = `\n\n${linkLine(event.item.detailUrl)}`;
+    const title = titleLine(event.item.title);
+    const badges = badgesLine(event.item);
+    const stats =
+      `📅 <b>Apertura:</b> ${escapeHtml(formatDate(event.item.openingDate))}\n` +
+      `👥 <b>Sostenitori:</b> ${escapeHtml(formatNumber(event.item.signaturesCount))}\n` +
+      `${quorumLine(event.item)}${progressLine(event.item)}` +
+      `📌 <b>Scadenza:</b> ${escapeHtml(formatDate(event.item.deadline))}`;
+    const fixedContent = `${title}\n\n\n\n${badges}\n\n${stats}${link}`;
+    const availableForDesc = Math.max(50, maxLength - fixedContent.length);
+    const desc = descriptionLine(event.item, availableForDesc);
+    return `${title}\n\n${desc}\n\n${badges}\n\n${stats}${link}`;
   }
 
   if (event.type === "updated") {
+    const link = `\n\n${linkLine(event.item.detailUrl)}`;
     return truncateHtml(`<b>Iniziativa aggiornata</b>
 
 ${titleLine(event.item.title)}
 
 <b>Modifiche:</b>
-${formatChanges(event.changes)}
-
-${linkLine(event.item.detailUrl)}`);
+${formatChanges(event.changes)}`, maxLength, link);
   }
 
   return truncateHtml(`<b>Iniziativa non più presente nel feed</b>
 
 ${titleLine(event.item.title)}
-<b>Ultimo stato noto:</b> ${escapeHtml(fallback(event.item.status))}`);
+<b>Ultimo stato noto:</b> ${escapeHtml(fallback(event.item.status))}`, maxLength);
 }
 
 function formatChanges(changes: Change[]): string {
@@ -100,7 +99,7 @@ async function sendTelegramEvent(event: FeedEvent, config: Config): Promise<void
   }
 
   try {
-    await sendTelegramPhoto(event.item.logoUrl, truncateHtml(text, MAX_PHOTO_CAPTION_LENGTH), config);
+    await sendTelegramPhoto(event.item.logoUrl, formatEventMessage(event, MAX_PHOTO_CAPTION_LENGTH), config);
   } catch (error) {
     console.warn(`Telegram photo failed for event ${event.id}, falling back to text: ${errorMessage(error)}`);
     await sendTelegramMessage(text, config);
@@ -177,12 +176,12 @@ function titleLine(title: string): string {
   return `<b>${escapeHtml(title.toUpperCase())}</b>`;
 }
 
-function descriptionLine(item: NormalizedItem): string {
+function descriptionLine(item: NormalizedItem, maxLength = 520): string {
   const raw = item.raw;
   const description = isRecord(raw)
     ? formatValue((raw.descrizioneBreve ?? raw.descrizione ?? "") as JsonValue)
     : "";
-  return escapeHtml(shorten(description, 520));
+  return escapeHtml(shorten(description, maxLength));
 }
 
 function badgesLine(item: NormalizedItem): string {
@@ -206,11 +205,6 @@ function progressLine(item: NormalizedItem): string {
 function linkLine(url: string | null): string {
   if (!url) return "<b>Link:</b> n/d";
   return `<a href="${escapeHtml(url)}">Apri iniziativa</a>`;
-}
-
-function formatSignatures(value: number | null): string {
-  if (value === null) return "n/d";
-  return `${formatNumber(value)} sostenitori`;
 }
 
 function formatNumber(value: number | null): string {
@@ -237,9 +231,11 @@ function formatValue(value: JsonValue): string {
   return JSON.stringify(value);
 }
 
-function truncateHtml(value: string, maxLength = MAX_MESSAGE_LENGTH): string {
-  if (value.length <= maxLength) return value;
-  return `${value.slice(0, maxLength - 20)}\n...[testo abbreviato]`;
+function truncateHtml(value: string, maxLength = MAX_MESSAGE_LENGTH, pinnedSuffix = ''): string {
+  const total = value + pinnedSuffix;
+  if (total.length <= maxLength) return total;
+  const available = maxLength - pinnedSuffix.length - 20;
+  return `${value.slice(0, available)}\n...[testo abbreviato]${pinnedSuffix}`;
 }
 
 function shorten(value: string, maxLength: number): string {

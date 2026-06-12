@@ -35,11 +35,17 @@ export async function writeEvents(events: FeedEvent[]): Promise<void> {
 }
 
 async function readJsonFile<T>(path: string, fallback: T): Promise<T> {
+  let content: string;
   try {
-    const content = await readFile(path, "utf8");
-    if (!content.trim()) return fallback;
-    return JSON.parse(content) as T;
+    content = await readFile(path, "utf8");
   } catch {
+    return fallback;
+  }
+  if (!content.trim()) return fallback;
+  try {
+    return JSON.parse(content) as T;
+  } catch (error) {
+    console.error(`Failed to parse ${path}, returning empty fallback: ${error instanceof Error ? error.message : String(error)}`);
     return fallback;
   }
 }
