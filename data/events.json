@@ -1,5 +1,79 @@
 [
   {
+    "id": "4a35ffe0c1a38c3d8005d7be16102742f1ac3ac50160dfe6c63e124fcbc199ab",
+    "type": "created",
+    "itemId": "6900002",
+    "title": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
+    "changes": [],
+    "createdAt": "2026-06-12T14:16:15.380Z",
+    "item": {
+      "id": "6900002",
+      "title": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 11,
+      "quorum": 50000,
+      "openingDate": "2026-06-12",
+      "deadline": "2026-12-12",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6900002",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6900002",
+      "raw": {
+        "dataApertura": "2026-06-12",
+        "dataFineRaccolta": "2026-12-12",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-06-04",
+        "dataInizioRaccolta": "2026-06-12",
+        "dataInizioValidita": "2026-06-12",
+        "dataIns": "2026-06-12T13:28:45",
+        "dataUltimoAgg": "2026-06-12",
+        "descrizione": "La proposta di legge si inserisce in un contesto segnato da un persistente squilibrio nella distribuzione delle responsabilità di cura dei figli, che continua ad essere attribuita in misura prevalente alla figura materna, con effetti rilevanti sulla loro partecipazione al mercato del lavoro. I dati più recenti confermano la dimensione del fenomeno: dopo la nascita di un figlio risulta occupato solo il 53,9 per cento delle donne tra i 25 e i 49 anni, a fronte del 73,9 per cento delle donne senza figli; per una donna su cinque, inoltre, la maternità rappresenta la causa principale di exit dal mondo del lavoro. Nell’accesso ai congedi parentali, peraltro, permane un significativo divario, poiché le richieste presentate dalle madri sono di quasi tre volte superiori a quelle dei padri.\nL’intervento, in tale quadro, assume rilievo strategico in quanto è diretto a rimuovere una disparità non solo normativa, ma anche culturale e sociale in modo da promuovere una più equilibrata assunzione delle responsabilità genitoriali e un maggiore sostegno all’occupazione femminile. L’iniziativa si colloca, dunque, in una più ampia prospettiva di contrasto alla crisi demografica e di rafforzamento della coesione sociale, verso un progressivo e naturale allineamento dell’ordinamento italiano alle esperienze europee più avanzate, quali quelle di Spagna, Svezia e Norvegia, nelle quali la condivisione della cura costituisce da tempo un elemento qualificante delle politiche familiari e del lavoro.",
+        "descrizioneBreve": "La presente proposta di legge istituisce il congedo di paternità paritario: un periodo di 5 mesi, obbligatorio, non trasferibile e con indennità pari al 100% della retribuzione.\nLa misura mira a incentivare e sostenere l’occupazione femminile, contrastare la crisi demografica e promuovere una effettiva condivisione delle responsabilità genitoriali.\nLa piena tutela economica e la parità dei genitori viene garantita con l’estensione della retribuzione al 100 % anche per il congedo di maternità, allineando l’Italia alle migliori pratiche europee e investendo in un futuro di effettiva uguaglianza.",
+        "estremi": "5100000",
+        "id": 6900002,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.pariallapari.it",
+        "sostenitori": 11,
+        "supportata": false,
+        "titolo": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
+        "titoloLeggeCostituzionale": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre"
+      },
+      "hash": "187c908fd1a99d9633bd331c1c0907d97535c46331ee6428af2d4259161a385e"
+    }
+  },
+  {
     "id": "3696b48736e966852f997e6b77aa844ce0e682c9b5bb59224ccdf057137aa023",
     "type": "created",
     "itemId": "6800002",
