@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 5066,
+    "signaturesCount": 5067,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 5066,
+      "sostenitori": 5067,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "11688087417d4543bcca1096f0a892583469421e963255470b20139a55580755"
+    "hash": "df66a486fa069baf5d591a92d2154c320436266dba32d6c17f4c27f56a57edad"
   },
   {
     "id": "5600002",
@@ -3340,7 +3340,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 131712,
+    "signaturesCount": 131713,
     "quorum": 50000,
     "openingDate": "2026-01-30",
     "deadline": "2026-07-30",
@@ -3392,12 +3392,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.remigrazione.org",
-      "sostenitori": 131712,
+      "sostenitori": 131713,
       "supportata": false,
       "titolo": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana",
       "titoloLeggeCostituzionale": "Remigrazione e Riconquista: Disposizioni in materia di governo dei flussi migratori, istituzione del programma nazionale di Remigrazione e di un fondo per la Natalità italiana"
     },
-    "hash": "7db81763c6103a57379c9b6a3624975c2c6d5fa6cda8527d7deafa56e0430d66"
+    "hash": "96e8fe989b4b13397590125cf658ff3f1598b8052d7245c668be49baf7c1476b"
   },
   {
     "id": "5800000",
@@ -3604,7 +3604,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 47332,
+    "signaturesCount": 47349,
     "quorum": 50000,
     "openingDate": "2026-03-16",
     "deadline": "2026-09-16",
@@ -3656,12 +3656,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.essereanimali.org/gabbie-vuote",
-      "sostenitori": 47332,
+      "sostenitori": 47349,
       "supportata": false,
       "titolo": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free",
       "titoloLeggeCostituzionale": "Disposizioni per il divieto progressivo delle gabbie negli allevamenti e la transizione a sistemi cage free"
     },
-    "hash": "258b6b84b953c25eab8fc2d943eaaedcb249156d5a2b4d98f85f0214f31f4c25"
+    "hash": "0c801817ba470eef70bb17d8cf59b24324e77621a849ed60602098978d331071"
   },
   {
     "id": "6100008",
@@ -3736,7 +3736,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 191652,
+    "signaturesCount": 191663,
     "quorum": 500000,
     "openingDate": "2026-04-27",
     "deadline": "2026-07-27",
@@ -3788,12 +3788,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.bastasoldiaigiornali.it",
-      "sostenitori": 191652,
+      "sostenitori": 191663,
       "supportata": false,
       "titolo": "Basta soldi ai giornali",
       "titoloLeggeCostituzionale": "Art. 16, comma  4-bis,  del  D.L.  30 dicembre 2023, n. 215 («Disposizioni urgenti in  materia  di  termini normativi»), convertito, con modifiche, dalla legge 23 febbraio 2024, n. 18"
     },
-    "hash": "4564ad78e260c8d197c5235b701518ecf9e29e06dbf4030f626319aa8bcf0f1f"
+    "hash": "6e6b476ae39b470be41b653a1459f820326e60a4586fc104abddc9e8e178a56f"
   },
   {
     "id": "6400001",
@@ -3934,7 +3934,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 16979,
+    "signaturesCount": 16980,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -3986,12 +3986,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 16979,
+      "sostenitori": 16980,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "75c953cea2f68dd7c0f66680db0536736a8c71eae2d5056b1f9f13b5083b8c14"
+    "hash": "d1157156d18e39393aa67f7aae3a7071c7b4c9f7fccccbe819c0e0ed042f4bd3"
   },
   {
     "id": "6500012",
@@ -4000,7 +4000,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 40339,
+    "signaturesCount": 40342,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -4052,12 +4052,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 40339,
+      "sostenitori": 40342,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "f53d12ae2be6e241e54359d4112f7dcd8cc084769ac7f98a91d67fbdbfe54c90"
+    "hash": "a82e6cff8c70df28827d47cb30c138d3597d0bd67e8931edc8ca5a7506dcd2cb"
   },
   {
     "id": "6500013",
@@ -4066,7 +4066,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 28172,
+    "signaturesCount": 28174,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -4118,12 +4118,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 28172,
+      "sostenitori": 28174,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "f72390c8f8431e6d845b98f98d885bd38fc34f8bb26dabbfa3ab51ddc7735bc3"
+    "hash": "133d3f298f2fb594a95c1620b9c273447ebcb8e5df1eb8b598c682108960db02"
   },
   {
     "id": "6500014",
@@ -4132,7 +4132,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 58441,
+    "signaturesCount": 58444,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4184,12 +4184,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 58441,
+      "sostenitori": 58444,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "6c188b74b374df12d91dd5091893d7d4c92de7bfa77b56337a09673796e481d5"
+    "hash": "b4eb3caf19e2b4118973eb2865ba47d0ed15cbd57dbeb6be5499b3c72f4cdb8c"
   },
   {
     "id": "6700001",
@@ -4198,7 +4198,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 175,
+    "signaturesCount": 176,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -4241,12 +4241,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 175,
+      "sostenitori": 176,
       "supportata": false,
       "titolo": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA\nModifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica\n",
       "titoloLeggeCostituzionale": "DISPOSIZIONI IN MATERIA DI INTEGRAZIONE DELL'ARTE NELLE OPERE DI EDILIZIA PUBBLICA Modifiche alla legge 29 luglio 1949 n. 717 e nuova disciplina organica"
     },
-    "hash": "05675f779597081f7a256bac73d4981f0254333612e14f1817d82df7ca2b7dd2"
+    "hash": "2a1730bb682034832b3cef5fbc5bb124acb4a36c30c95406d57a26bf11bd0443"
   },
   {
     "id": "6700009",
@@ -4312,7 +4312,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 28039,
+    "signaturesCount": 28041,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4364,12 +4364,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 28039,
+      "sostenitori": 28041,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "db606224f9a2b6a74ceac2a00e6c6f81077343f6e51f16ad8de1e68f00866349"
+    "hash": "08eb683d57f3d9e3b789c11bde2c48b4e9ba9cfabf6e83630f1903c27203203d"
   },
   {
     "id": "6900002",
@@ -4378,7 +4378,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 5830,
+    "signaturesCount": 5842,
     "quorum": 50000,
     "openingDate": "2026-06-12",
     "deadline": "2026-12-12",
@@ -4430,12 +4430,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.pariallapari.it",
-      "sostenitori": 5830,
+      "sostenitori": 5842,
       "supportata": false,
       "titolo": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
       "titoloLeggeCostituzionale": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre"
     },
-    "hash": "435737ba1eb6deb87865c53d3b7a1ec896f3f59d31e17b1297cf6f380afe4754"
+    "hash": "73fcb5fe16ada4f4b000e500099877c25434df797dba3a5bc5297af0f47ff090"
   },
   {
     "id": "700000",
