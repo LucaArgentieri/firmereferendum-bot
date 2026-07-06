@@ -1,5 +1,79 @@
 [
   {
+    "id": "717cff33ed261fc056cf1a34bc435392b7231b225dda280c4c167d49df3827d8",
+    "type": "created",
+    "itemId": "7100000",
+    "title": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
+    "changes": [],
+    "createdAt": "2026-07-06T08:25:48.842Z",
+    "item": {
+      "id": "7100000",
+      "title": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
+      "category": "AMBIENTE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2,
+      "quorum": 50000,
+      "openingDate": "2026-07-06",
+      "deadline": "2027-01-06",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7100000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7100000",
+      "raw": {
+        "dataApertura": "2026-07-06",
+        "dataFineRaccolta": "2027-01-06",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-03",
+        "dataInizioRaccolta": "2026-07-06",
+        "dataInizioValidita": "2026-07-06",
+        "dataIns": "2026-07-06T09:46:13",
+        "dataUltimoAgg": "2026-07-06",
+        "descrizione": "In Italia il riconoscimento giuridico degli animali d'affezione si fonda sulla legge 281/1991 e sulla Convenzione europea per la protezione degli animali da compagnia, ratificata con legge 201/2010. Tali normative sanciscono il rispetto per gli animali e la prevenzione di abbandono e maltrattamento. \n\nQuesto status, tuttavia, riguarda quasi esclusivamente cani, gatti e pochi altri animali, escludendo specie comunque capaci di instaurare legami affettivi con l'uomo. Estendere il riconoscimento ad altre specie risponderebbe all'evoluzione culturale e scientifica in corso, promuovendo un approccio più inclusivo e antispecista.\n\nGli equidi (cavalli, asini, muli, bardotti) godono di uno status normativo particolare, considerati sia animali da reddito sia compagni dell'uomo. Non essendo pienamente qualificati come \"animali d'affezione\", vengono tuttora macellati per la produzione alimentare, nonostante il legame affettivo che spesso si instaura con l'uomo, specie nel contesto di attività ricreative o terapeutiche. Attraverso ripetuti raggiri delle norme, non di rado anche equidi a fine carriera finiscono al macello.\n\nVa infine sottolineato che le carni di equidi macellati a fine carriera, oltre a contenere sostanze potenzialmente nocive per la salute umana, sono il prodotto di un'attività illecita, poiché il loro utilizzo a fini alimentari è espressamente vietato dalla normativa vigente.",
+        "descrizioneBreve": "Proposta di legge che riconosce cavalli, asini, muli e bardotti come animali d'affezione, vietando allevamento, macellazione, importazione ed esportazione a scopo alimentare. Denuncia rischi per la salute pubblica (cavalli positivi a doping, cocaina e dermorfina finiti nel circuito alimentare) e criticità di benessere durante il trasporto ai macelli. Articolato in 7 punti: anagrafe obbligatoria, tutele per equidi \"dismessi\", riconversione degli allevamenti, sanzioni penali/amministrative e copertura finanziaria di 3 milioni di euro annui dal 2026.",
+        "estremi": "5300000",
+        "id": 7100000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AMBIENTE",
+          "id": 14,
+          "nome": "AMBIENTE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
+        "sostenitori": 2,
+        "supportata": false,
+        "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
+        "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
+      },
+      "hash": "79181b7505751c3079f634f4efd45abdfb37380317a45497dbee3d08d7a387c4"
+    }
+  },
+  {
     "id": "4a35ffe0c1a38c3d8005d7be16102742f1ac3ac50160dfe6c63e124fcbc199ab",
     "type": "created",
     "itemId": "6900002",
