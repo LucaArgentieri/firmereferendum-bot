@@ -1,5 +1,135 @@
 [
   {
+    "id": "c3a16cab42b0958c6a833311a20bedd5f7f4edecdf7799f4b34bc7b969a23624",
+    "type": "created",
+    "itemId": "7200004",
+    "title": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore.",
+    "changes": [],
+    "createdAt": "2026-07-11T12:30:01.831Z",
+    "item": {
+      "id": "7200004",
+      "title": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore.",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1,
+      "quorum": 50000,
+      "openingDate": "2026-07-11",
+      "deadline": "2027-01-11",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7200004",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7200004",
+      "raw": {
+        "dataApertura": "2026-07-11",
+        "dataFineRaccolta": "2027-01-11",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-07",
+        "dataInizioRaccolta": "2026-07-11",
+        "dataInizioValidita": "2026-07-11",
+        "dataIns": "2026-07-11T13:52:10",
+        "dataUltimoAgg": "2026-07-11",
+        "descrizione": "MAI PIU' ESECUZIONI, MAI PIU' FALLIMENTI DI AZIENDE E MAI PIU' SUICIDI PER DEBITI CANCELLATI E DETRATTI FISCALMENTE DALLE BANCHE QUINDI RINUNCIATI. La presente proposta di legge ha la finalità di tutelare l’interesse pubblico ed il ripristino della legalità per quanto attiene la riscossione coattiva dei crediti in sofferenza ed oggetto di cancellazione dal bilancio della banca creditrice che ha riportato a costo la quota ritenuta inesigibile decidendo la sua strategia aziendale rinunciandovi irrevocabilmente per beneficiare delle agevolazioni fiscali. Quindi, non poteva e non può essere richiesta al debitore. ",
+        "descrizioneBreve": "obbligo della banca e delle società cessionarie, qualora oggetto di cessione pro soluto, a chiedere al debitore il valore nominale contabile del credito risultante al momento della cancellazione dal bilancio, o porzione di esso, e se ceduto equivalente al prezzo di cessione. ",
+        "estremi": "5300003",
+        "id": 7200004,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 1,
+        "supportata": false,
+        "titolo": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore.",
+        "titoloLeggeCostituzionale": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore."
+      },
+      "hash": "16832b186936dd59f2b3737c6600a613b5c95642096379d2e8e6dd863dc1fb0b"
+    }
+  },
+  {
+    "id": "de2acf183d9438547e80061c27fbc80ac97a327a093c98f43f648a0a0c9d8c88",
+    "type": "created",
+    "itemId": "7200005",
+    "title": "Annullamento Atti illegittimi AdER incluse Ipoteche e procedure esecutive",
+    "changes": [],
+    "createdAt": "2026-07-11T12:30:01.831Z",
+    "item": {
+      "id": "7200005",
+      "title": "Annullamento Atti illegittimi AdER incluse Ipoteche e procedure esecutive",
+      "category": "FINANZE",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1,
+      "quorum": 50000,
+      "openingDate": "2026-07-11",
+      "deadline": "2027-01-11",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7200005",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7200005",
+      "raw": {
+        "dataApertura": "2026-07-11",
+        "dataFineRaccolta": "2027-01-11",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-07",
+        "dataInizioRaccolta": "2026-07-11",
+        "dataInizioValidita": "2026-07-11",
+        "dataIns": "2026-07-11T13:58:44",
+        "dataUltimoAgg": "2026-07-11",
+        "descrizione": "Milioni di Iscrizioni ipotecarie effettuate sino al 2015 circa su tutto il territorio nazionale in violazione dell'art. 2839 del Codice Civile. Infatti negli uffici della ex Conservatoria dei registri immobiliari, attuale Ufficio del territorio, non hanno depositato i titoli esecutivi, la nota di iscrizione e la procura ad agire. Per scoprire le gravissime circostanze commesse dai vertici dirigenziali della Equitalia, Agenzia delle Entrate e relativi Dipartimenti è necessario controllare il fascicolo cartaceo della ipoteca. La questione non muta per le procedure esecutive. Attenzione anche alle ristampe della attuale Agenzia entrate riscossione che ha aggiornato i software stampando i documenti interni nell'attuale versione ma difforme da quelle elaborate, inviate e depositate all'epoca dei fatti,. ",
+        "descrizioneBreve": "Misura in materia tributaria: istituzione obbligatoria dell’istituto dall’autotutela (ad integrazione dell’art. 10 quater) per annullamento atti AdER e, a modifica del DPR 602\\73, obbligatorietà di ordinanza del Giudice, competente per materia, per azionare le misure ipotecarie ed esecutive. La presente proposta di legge ha la finalità di tutelare l’interesse pubblico ed il ripristino della legalità per quanto attiene l’operato svolto dal gruppo Equitalia spa e dalla successiva Agenzia delle Entrate e Riscossione in merito all’annullamento diretto dei loro atti palesemente illegittimi.",
+        "estremi": "5300001",
+        "id": 7200005,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "FINANZE",
+          "id": 7,
+          "nome": "FINANZE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 1,
+        "supportata": false,
+        "titolo": "Annullamento Atti illegittimi AdER incluse Ipoteche e procedure esecutive",
+        "titoloLeggeCostituzionale": "Annullamento Atti illegittimi AdER incluse Ipoteche e procedure esecutive"
+      },
+      "hash": "e2ab9d773370d31bfe70798292a2ed03f3eff25c64d3bb4d67045249f35d6f41"
+    }
+  },
+  {
     "id": "717cff33ed261fc056cf1a34bc435392b7231b225dda280c4c167d49df3827d8",
     "type": "created",
     "itemId": "7100000",
