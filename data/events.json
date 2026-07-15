@@ -1,5 +1,153 @@
 [
   {
+    "id": "55b169278525edb1b8df45cfb0db12ad6ea16f43111c48c41fa955ee6e265956",
+    "type": "created",
+    "itemId": "7300000",
+    "title": "VIETIAMO LA CACCIA - ART. 842 -",
+    "changes": [],
+    "createdAt": "2026-07-15T18:46:36.696Z",
+    "item": {
+      "id": "7300000",
+      "title": "VIETIAMO LA CACCIA - ART. 842 -",
+      "category": "AMBIENTE",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 9,
+      "quorum": 500000,
+      "openingDate": "2026-07-15",
+      "deadline": "2026-10-15",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300000",
+      "raw": {
+        "dataApertura": "2026-07-15",
+        "dataFineRaccolta": "2026-10-15",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-14",
+        "dataInizioRaccolta": "2026-07-15",
+        "dataInizioValidita": "2026-07-15",
+        "dataIns": "2026-07-15T18:56:04",
+        "dataUltimoAgg": "2026-07-15",
+        "descrizione": "Vietare la caccia nei fondi privati andando ad abrogare  l'Art.842 del Codice Civile, primo e secondo comma, dove attualmente prevede l'ingresso dei cacciatori nei fondi privati anche senza l'autorizzazione del legittimo proprietario del fondo. \n\nPer informazioni contattare Giancarlo De Salvo al 3801531588 tramite messaggio whatsapp. ",
+        "descrizioneBreve": "Vietare la caccia nei fondi privati andando ad abrogare l'Art. 842, primo e secondo comma,  dove attualmente prevede l'ingresso dei cacciatori nei fondi privati anche senza l'autorizzazione del legittimo proprietario del fondo.",
+        "estremi": "5400001",
+        "id": 7300000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AMBIENTE",
+          "id": 14,
+          "nome": "AMBIENTE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sito": "www.rispettopertuttiglianimali.it",
+        "sostenitori": 9,
+        "supportata": false,
+        "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
+        "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
+      },
+      "hash": "5c2f8ff03594bc5f01f445e7e4f8a42e7401850bad98ce1778c5dc1680284dc6"
+    }
+  },
+  {
+    "id": "a0bc549c1de6dc2fc0086d40d73ef579660c6766e07f4484020b24880019fb1a",
+    "type": "created",
+    "itemId": "7300001",
+    "title": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER -",
+    "changes": [],
+    "createdAt": "2026-07-15T18:46:36.696Z",
+    "item": {
+      "id": "7300001",
+      "title": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER -",
+      "category": "AMBIENTE",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 7,
+      "quorum": 500000,
+      "openingDate": "2026-07-15",
+      "deadline": "2026-10-15",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300001",
+      "raw": {
+        "dataApertura": "2026-07-15",
+        "dataFineRaccolta": "2026-10-15",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-14",
+        "dataInizioRaccolta": "2026-07-15",
+        "dataInizioValidita": "2026-07-15",
+        "dataIns": "2026-07-15T19:25:13",
+        "dataUltimoAgg": "2026-07-15",
+        "descrizione": "Firmando l'Art. 19 Ter si andrebbe a rendere illegale la caccia in Italia, salvando così milioni di animali vittime innocenti che chiedono solo di vivere la loro vita serenamente senza paura. Si ritornerebbe a passeggiare nei boschi, andare a funghi o raccogliere le castagne, senza la paura di essere impallinati da cacciatori che sparano a tutto quello che si muove.\n\nPer informazioni contattare Giancarlo De Salvo al 3801531588 tramite un messaggio whatsapp. ",
+        "descrizioneBreve": "Firmando l'Art. 19 Ter si andrebbe a rendere illegale la caccia in Italia, salvando così milioni di animali vittime innocenti.",
+        "estremi": "5400000",
+        "id": 7300001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "AMBIENTE",
+          "id": 14,
+          "nome": "AMBIENTE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sito": "www.rispettopertuttiglianimali.it",
+        "sostenitori": 7,
+        "supportata": false,
+        "titolo": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER - ",
+        "titoloLeggeCostituzionale": "ART. 19 TER - LEGGI SPECIALI IN MATERIA DI ANIMALI - "
+      },
+      "hash": "4013a193071cdc8280f9c10f9db98999101c0ca51ffbc8b080c8f01e81217187"
+    }
+  },
+  {
     "id": "c3a16cab42b0958c6a833311a20bedd5f7f4edecdf7799f4b34bc7b969a23624",
     "type": "created",
     "itemId": "7200004",
