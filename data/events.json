@@ -1,5 +1,79 @@
 [
   {
+    "id": "167531168bd5de014a10d8f094fe9e93d4f55cb37ef34e5af95da676d1abf875",
+    "type": "created",
+    "itemId": "7300005",
+    "title": "Norme cotro le false accuse strumentali - Inserimento Art. 368-bis C.P. ed art 337-decies C.C.",
+    "changes": [],
+    "createdAt": "2026-07-17T14:16:32.598Z",
+    "item": {
+      "id": "7300005",
+      "title": "Norme cotro le false accuse strumentali - Inserimento Art. 368-bis C.P. ed art 337-decies C.C.",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2,
+      "quorum": 50000,
+      "openingDate": "2026-07-17",
+      "deadline": "2027-01-17",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300005",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300005",
+      "raw": {
+        "dataApertura": "2026-07-17",
+        "dataFineRaccolta": "2027-01-17",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-16",
+        "dataInizioRaccolta": "2026-07-17",
+        "dataInizioValidita": "2026-07-17",
+        "dataIns": "2026-07-17T13:27:36",
+        "dataUltimoAgg": "2026-07-17",
+        "descrizione": "L'attuale disciplina della calunnia, prevista dall'articolo 368 del Codice Penale, rappresenta un presidio fondamentale dell'ordinamento.\nL'esperienza applicativa maturata negli ultimi anni, tuttavia, evidenzia l'opportunità di introdurre una disciplina più puntuale per le ipotesi nelle quali l'accusa penalmente falsa venga utilizzata quale strumento intenzionale per conseguire vantaggi personali o processuali, in particolare nei procedimenti caratterizzati da elevata conflittualità familiare.\nIn tali contesti possono essere coinvolti, oltre alle parti del procedimento, anche figli minori e altri componenti della famiglia, con conseguenze che incidono profondamente sulla stabilità delle relazioni familiari e sul benessere dei minori.\nLa presente proposta non introduce alcuna presunzione circa la diffusione del fenomeno né individua categorie di persone maggiormente responsabili.\nEssa si limita a disciplinare le conseguenze giuridiche dei casi nei quali l'autorità giudiziaria accerti definitivamente che un'accusa sia stata formulata con dolo nei confronti di persona innocente.\n",
+        "descrizioneBreve": "Premessa\nLa presente proposta di legge nasce dall'esigenza di rafforzare la tutela della verità processuale, della corretta amministrazione della giustizia e dei diritti fondamentali delle persone coinvolte nei procedimenti penali e civili.\nL'ordinamento italiano riconosce giustamente una tutela particolarmente rigorosa nei confronti delle vittime di reato e garantisce strumenti efficaci di protezione nei casi di effettiva violenza, maltrattamenti, atti persecutori e abusi.\n",
+        "estremi": "5400004",
+        "id": 7300005,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.comitatobigenitorialitaepariopportunita.it/",
+        "sostenitori": 2,
+        "supportata": false,
+        "titolo": "Norme cotro le false accuse strumentali - Inserimento Art. 368-bis C.P. ed art 337-decies C.C.",
+        "titoloLeggeCostituzionale": "Norme cotro le false accuse strumentali - Inserimento Art. 368-bis C.P. ed art 337-decies C.C.7-decies C.C."
+      },
+      "hash": "4f656d228e924a125df83b2be77b3636527041db2ca6c5954233a74204bd7d40"
+    }
+  },
+  {
     "id": "55b169278525edb1b8df45cfb0db12ad6ea16f43111c48c41fa955ee6e265956",
     "type": "created",
     "itemId": "7300000",
