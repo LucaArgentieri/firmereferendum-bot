@@ -1,5 +1,79 @@
 [
   {
+    "id": "a953bc5ec436f6795bc6fc41c4722ef8288a87d013865d68857b0e8f90c39dd5",
+    "type": "created",
+    "itemId": "7300006",
+    "title": "Norme per la tutela universale delle vittime di violenza e per il riconoscimento degli uomini vittime di violenza",
+    "changes": [],
+    "createdAt": "2026-07-18T11:54:39.398Z",
+    "item": {
+      "id": "7300006",
+      "title": "Norme per la tutela universale delle vittime di violenza e per il riconoscimento degli uomini vittime di violenza",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 0,
+      "quorum": 50000,
+      "openingDate": "2026-07-18",
+      "deadline": "2027-01-18",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300006",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300006",
+      "raw": {
+        "dataApertura": "2026-07-18",
+        "dataFineRaccolta": "2027-01-18",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-16",
+        "dataInizioRaccolta": "2026-07-18",
+        "dataInizioValidita": "2026-07-18",
+        "dataIns": "2026-07-18T13:17:07",
+        "dataUltimoAgg": "2026-07-18",
+        "descrizione": "La gravità della violenza non dipende dal sesso, dal genere, dall'orientamento sessuale o da qualsiasi altra caratteristica della persona che la subisce.\nUna società democratica deve essere in grado di riconoscere e proteggere ogni vittima. L'esistenza di uomini vittime di violenza non riduce la sofferenza delle donne vittime.\nAllo stesso modo, il riconoscimento delle donne vittime non deve impedire il riconoscimento degli uomini vittime.\nLa tutela dei diritti non è un gioco a somma zero.\nPiù diritti per alcuni non devono significare meno diritti per altri.",
+        "descrizioneBreve": "Il Comitato Bigenitorialità e Pari Opportunità Oltre il Genere riconosce e condanna senza alcuna ambiguità ogni forma di violenza contro donne, uomini, minori, anziani, persone con disabilità e persone LGBTQ+, nonché contro ogni persona vulnerabile.\nLa presente proposta non nasce dalla volontà di ridurre le tutele oggi riconosciute alle donne vittime di violenza.\nNasce, al contrario, dalla convinzione che tali tutele debbano essere estese a tutte le vittime, indipendentemente dal sesso.\nL'articolo 3 della Costituzione stabilisce che tutti i cittadini hanno pari dignità sociale e sono eguali",
+        "estremi": "5400005",
+        "id": 7300006,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.comitatobigenitorialitaepariopportunita.it/",
+        "sostenitori": 0,
+        "supportata": false,
+        "titolo": "Norme per la tutela universale delle vittime di violenza e per il riconoscimento degli uomini vittime di violenza",
+        "titoloLeggeCostituzionale": "Norme per la tutela universale delle vittime di violenza e per il riconoscimento degli uomini vittime di violenza"
+      },
+      "hash": "71490f1aa094ad30abca3b3c483118b49a8dc98e182f474f2318249788277fc8"
+    }
+  },
+  {
     "id": "167531168bd5de014a10d8f094fe9e93d4f55cb37ef34e5af95da676d1abf875",
     "type": "created",
     "itemId": "7300005",
