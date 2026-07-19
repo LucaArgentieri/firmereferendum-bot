@@ -1,5 +1,153 @@
 [
   {
+    "id": "ec60c1e29f7f07cc19950ab588449ecdc6c8f4538cb8e3b177ecb25b69bc03d4",
+    "type": "created",
+    "itemId": "7300010",
+    "title": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
+    "changes": [],
+    "createdAt": "2026-07-19T08:53:47.574Z",
+    "item": {
+      "id": "7300010",
+      "title": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2,
+      "quorum": 50000,
+      "openingDate": "2026-07-19",
+      "deadline": "2027-01-19",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300010",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300010",
+      "raw": {
+        "dataApertura": "2026-07-19",
+        "dataFineRaccolta": "2027-01-19",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-16",
+        "dataInizioRaccolta": "2026-07-19",
+        "dataInizioValidita": "2026-07-19",
+        "dataIns": "2026-07-19T09:38:20",
+        "dataUltimoAgg": "2026-07-19",
+        "descrizione": "L'articolo 3 della Costituzione italiana stabilisce che tutti i cittadini hanno pari dignità sociale e sono uguali davanti alla legge senza distinzione di sesso.\nLa legge n. 181 del 2025 introduce invece una specifica fattispecie penale costruita attorno al sesso della vittima.\nTale scelta normativa rischia di determinare una differenziazione della tutela penale fondata non sulla condotta dell'autore del reato, bensì sull'appartenenza sessuale della persona offesa.\nSi pone pertanto una questione di compatibilità con il principio costituzionale di uguaglianza. L'omicidio rappresenta il massimo attacco possibile alla persona umana.\nLa sua gravità non può essere misurata in funzione del sesso della vittima.\nLa morte di una donna non può avere un valore giuridico superiore alla morte di un uomo, così come la morte di un uomo non può avere un valore giuridico superiore alla morte di una donna. Lo Stato deve garantire identica tutela ad ogni vita umana.",
+        "descrizioneBreve": "Il Comitato Bigenitorialità e Pari Opportunità Oltre il Genere condanna senza alcuna ambiguità ogni forma di violenza, abuso, maltrattamento e omicidio.\nLa presente proposta non nasce dalla volontà di ridurre la tutela delle donne, ma dalla convinzione che ogni essere umano debba godere della medesima protezione giuridica indipendentemente dal sesso, dal genere, dall'età, dalla nazionalità, dall'orientamento sessuale, dalla religione o da qualsiasi altra caratteristica personale.\nLa vita umana possiede identico valore giuridico e morale in ogni individuo.\n",
+        "estremi": "5400003",
+        "id": 7300010,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.comitatobigenitorialitaepariopportunita.it/",
+        "sostenitori": 2,
+        "supportata": false,
+        "titolo": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
+        "titoloLeggeCostituzionale": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne "
+      },
+      "hash": "2803b61debf3527121d2e149fa5f6c31a48d3e193eef8fb3260bc572675c5a6d"
+    }
+  },
+  {
+    "id": "0a8a5ecd34026c4d445e22ffc06f24392d0bee8f466d405f5e02cae5adb0f47e",
+    "type": "created",
+    "itemId": "7300012",
+    "title": "REFERENDUM ABROGATIVO\ndella LEGGE 2 dicembre 2025  n 181\nIntroduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime",
+    "changes": [],
+    "createdAt": "2026-07-19T08:53:47.574Z",
+    "item": {
+      "id": "7300012",
+      "title": "REFERENDUM ABROGATIVO\ndella LEGGE 2 dicembre 2025  n 181\nIntroduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1,
+      "quorum": 500000,
+      "openingDate": "2026-07-19",
+      "deadline": "2026-10-19",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300012",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300012",
+      "raw": {
+        "dataApertura": "2026-07-19",
+        "dataFineRaccolta": "2026-10-19",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-16",
+        "dataInizioRaccolta": "2026-07-19",
+        "dataInizioValidita": "2026-07-19",
+        "dataIns": "2026-07-19T09:58:12",
+        "dataUltimoAgg": "2026-07-19",
+        "descrizione": "L'articolo 3 della Costituzione italiana stabilisce che tutti i cittadini hanno pari dignità sociale e sono uguali davanti alla legge senza distinzione di sesso.\nLa legge n. 181 del 2025 introduce invece una specifica fattispecie penale costruita attorno al sesso della vittima.\nTale scelta normativa rischia di determinare una differenziazione della tutela penale fondata non sulla condotta dell'autore del reato, bensì sull'appartenenza sessuale della persona offesa.\nSi pone pertanto una questione di compatibilità con il principio costituzionale di uguaglianza. L'omicidio rappresenta il massimo attacco possibile alla persona umana.\nLa sua gravità non può essere misurata in funzione del sesso della vittima.\nLa morte di una donna non può avere un valore giuridico superiore alla morte di un uomo, così come la morte di un uomo non può avere un valore giuridico superiore alla morte di una donna.\nLo Stato deve garantire identica tutela ad ogni vita umana",
+        "descrizioneBreve": "Il Comitato Bigenitorialità e Pari Opportunità Oltre il Genere condanna senza alcuna ambiguità ogni forma di violenza, abuso, maltrattamento e omicidio.\nLa presente proposta di referendum abrogativo non nasce dalla volontà di ridurre la tutela delle donne, ma dalla convinzione che ogni essere umano debba godere della medesima protezione giuridica indipendentemente dal sesso, dal genere, dall'età, dalla nazionalità, dall'orientamento sessuale, dalla religione o da qualsiasi altra caratteristica personale.\n",
+        "estremi": "5400002",
+        "id": 7300012,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sito": "https://www.comitatobigenitorialitaepariopportunita.it/",
+        "sostenitori": 1,
+        "supportata": false,
+        "titolo": "REFERENDUM ABROGATIVO\ndella LEGGE 2 dicembre 2025  n 181\nIntroduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime",
+        "titoloLeggeCostituzionale": "REFERENDUM ABROGATIVO della LEGGE 2 dicembre 2025  n 181 Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza "
+      },
+      "hash": "25a91717a27cd241499361321ed20acbb383a6426593511ab41febf596a3ac18"
+    }
+  },
+  {
     "id": "a953bc5ec436f6795bc6fc41c4722ef8288a87d013865d68857b0e8f90c39dd5",
     "type": "created",
     "itemId": "7300006",
