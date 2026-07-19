@@ -1,5 +1,79 @@
 [
   {
+    "id": "75da1b807e27f03ec27d3a987eb4ae0656e355c3b5c16653b66a73ac3fd385b4",
+    "type": "created",
+    "itemId": "7300020",
+    "title": "IL CONTANTE È LIBERTÀ. SUBITO IN COSTITUZIONE. Ogni limitazione di sovranità deve rispettare la Costituzione. L’euro digitale è innovazione ma dà potere di controllo. Il contante è libertà, non si spegne con un clic.  Servono limiti e garanzie. La sovranità monetaria deve restare agli Italiani. Obiettivo: una moneta al servizio dei cittadini e delle imprese italiane.",
+    "changes": [],
+    "createdAt": "2026-07-19T12:38:18.188Z",
+    "item": {
+      "id": "7300020",
+      "title": "IL CONTANTE È LIBERTÀ. SUBITO IN COSTITUZIONE. Ogni limitazione di sovranità deve rispettare la Costituzione. L’euro digitale è innovazione ma dà potere di controllo. Il contante è libertà, non si spegne con un clic.  Servono limiti e garanzie. La sovranità monetaria deve restare agli Italiani. Obiettivo: una moneta al servizio dei cittadini e delle imprese italiane.",
+      "category": "UNIONE EUROPEA",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 32,
+      "quorum": 50000,
+      "openingDate": "2026-07-19",
+      "deadline": "2027-01-19",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300020",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300020",
+      "raw": {
+        "dataApertura": "2026-07-19",
+        "dataFineRaccolta": "2027-01-19",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-06-17",
+        "dataInizioRaccolta": "2026-07-19",
+        "dataInizioValidita": "2026-07-19",
+        "dataIns": "2026-07-19T12:30:40",
+        "dataUltimoAgg": "2026-07-19",
+        "descrizione": "L'iniziativa mira ad inserire nell’articolo 47 della Costituzione la tutela del denaro contante, riconoscendolo non solo come mezzo di pagamento, ma come presidio essenziale di libertà, garanzia per le fasce deboli e indipendenza economica.  \nLa digitalizzazione è innovazione, ma non deve marginalizzare il contante, unica moneta pubblica disponibile senza intermediazioni di privati o reti telematiche. La sua tutela risponde a quattro necessità:\n- Libertà economica: garantisce pagamenti senza dipendere da piattaforme terze;\n- Garanzia per le fasce deboli: tutela i soggetti vulnerabili (anziani, residenti in aree svantaggiate) dal rischio di esclusione finanziaria;\n- Riservatezza: fermo restando il necessario contrasto all'evasione, assicura la privacy nelle transazioni lecite, evitando un tracciamento integrale e permanente;\n- Affidabilità: garantisce la continuità economica in caso di crisi tecnologiche, cyberattacchi o blackout.\n\nSenza oneri per la finanza pubblica, la proposta interviene sull'articolo della 47 Costituzione  per:\n1) garantire l'uso e la disponibilità di banconote e monete sul territorio nazionale;\n2) limitare il legislatore ordinario: eventuali restrizioni all'uso devono rispettare rigorosi criteri di proporzionalità e non discriminazione;\n3) introdurre un'importante salvaguardia: l'eliminazione del contante potrà avvenire esclusivamente tramite legge costituzionale.\n\nIn breve: la digitalizzazione non può sacrificare i diritti fondamentali dei cittadini.",
+        "descrizioneBreve": "La proposta di legge mira a tutelare il contante come presidio di libertà, costituzionalizzandone la garanzia. Contro la progressiva introduzione di strumenti totalizzanti di controllo come può diventare l'euro digitale, a prescindere dalle promesse che oggi vengono fatte. La vera sfida è arrivare ad una moneta davvero al servizio dei cittadini e delle imprese italiane, e non il contrario.",
+        "estremi": "5200000",
+        "id": 7300020,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "UNIONE EUROPEA",
+          "id": 3,
+          "nome": "UNIONE EUROPEA"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://contanteliberta.it",
+        "sostenitori": 32,
+        "supportata": false,
+        "titolo": "IL CONTANTE È LIBERTÀ. SUBITO IN COSTITUZIONE. Ogni limitazione di sovranità deve rispettare la Costituzione. L’euro digitale è innovazione ma dà potere di controllo. Il contante è libertà, non si spegne con un clic.  Servono limiti e garanzie. La sovranità monetaria deve restare agli Italiani. Obiettivo: una moneta al servizio dei cittadini e delle imprese italiane. ",
+        "titoloLeggeCostituzionale": "Modifiche all'articolo 47 della Costituzione in materia di garanzia dell'uso del denaro contante avente corso legale"
+      },
+      "hash": "ba06a8aeb25e1bf2f85a5e8fbf0bdd3496ac65f73a5debebd7130f905cf814a3"
+    }
+  },
+  {
     "id": "ec60c1e29f7f07cc19950ab588449ecdc6c8f4538cb8e3b177ecb25b69bc03d4",
     "type": "created",
     "itemId": "7300010",
