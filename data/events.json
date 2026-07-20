@@ -1,5 +1,71 @@
 [
   {
+    "id": "ab70267b7771e12089d97e586d37890f5c989296f9ed7d26ea159d5ce76a229a",
+    "type": "created",
+    "itemId": "7300027",
+    "title": "Norme in materia di tutela della bigenitorialità e diritto di famiglia",
+    "changes": [],
+    "createdAt": "2026-07-20T14:57:38.123Z",
+    "item": {
+      "id": "7300027",
+      "title": "Norme in materia di tutela della bigenitorialità e diritto di famiglia",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 4,
+      "quorum": 50000,
+      "openingDate": "2026-07-20",
+      "deadline": "2027-01-20",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300027",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300027",
+      "raw": {
+        "dataApertura": "2026-07-20",
+        "dataFineRaccolta": "2027-01-20",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-16",
+        "dataInizioRaccolta": "2026-07-20",
+        "dataInizioValidita": "2026-07-20",
+        "dataIns": "2026-07-20T14:58:08",
+        "dataUltimoAgg": "2026-07-20",
+        "descrizione": "Infatti, le risoluzioni dei tribunali hanno relegato la maggior parte dei minori, inconsapevoli vittime della separazione genitoriale, nello stato di orfani con genitore in vita: secondo statistica, più del 95% delle coppie separate in Italia (che sono quasi pari alle famiglie unite) non ha un affido condiviso “equo”, con questo ponendo l’Italia al più basso posto del diritto alla bigenitorialità tra tutti i paesi industrializzati al mondo. Il privilegio per il “collocamento” dei figli, invenzione giuridica che esula dal dato normativo, è ampiamente sbilanciato verso la parte materna, pur a parità di condizioni (lavoro, orari, disponibilità, volontà di accudimento e cura) con irragionevoli aberrazioni: le asimmetrie imposte dalla prassi giudiziaria pregiudicano proprio quei minori che la legge dovrebbe tutelare, coinvolgendoli in annosi contenziosi con gravi ricadute sul loro stato di salute psico-fisica.",
+        "descrizioneBreve": "La Legge 54 del 2006 ha introdotto finalmente in Italia, ultima tra gli Stati dotati di un sistema giudiziario avanzato, la bigenitorialità, cioè l'equilibrio e la pari dignità tra le figure genitoriali in caso di separazione, affermando con forza il principio di parità di diritti e doveri tra genitori nell'accudimento, cura ed educazione della prole. Gli strumenti normativi a supporto di questo cambiamento epocale, l’affido condiviso dei figli e il loro mantenimento equo e diretto da parte di entrambi i genitori, sono però rimasti solo parole sulla carta.",
+        "estremi": "5400007",
+        "id": 7300027,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.comitatobigenitorialitaepariopportunita.it ",
+        "sostenitori": 4,
+        "supportata": false,
+        "titolo": "Norme in materia di tutela della bigenitorialità e diritto di famiglia",
+        "titoloLeggeCostituzionale": "Norme in materia di tutela della bigenitorialità e diritto di famiglia"
+      },
+      "hash": "db75d258515eeea508cdedc2039538d98b259ebb7f599dd7addc4e61db46982d"
+    }
+  },
+  {
     "id": "75da1b807e27f03ec27d3a987eb4ae0656e355c3b5c16653b66a73ac3fd385b4",
     "type": "created",
     "itemId": "7300020",
