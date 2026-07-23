@@ -1,5 +1,79 @@
 [
   {
+    "id": "13578f00042a4678d667582ee4eedb038e5aa016dc502217752d3516ffa3a8d2",
+    "type": "created",
+    "itemId": "7300030",
+    "title": "“Legge Abbassa Spese Veterinarie”: Introduzione dell'obbligo di contrattare il prezzo dei farmaci veterinari tra  le aziende farmaceutiche ed il Ministero della Salute",
+    "changes": [],
+    "createdAt": "2026-07-23T11:58:52.975Z",
+    "item": {
+      "id": "7300030",
+      "title": "“Legge Abbassa Spese Veterinarie”: Introduzione dell'obbligo di contrattare il prezzo dei farmaci veterinari tra  le aziende farmaceutiche ed il Ministero della Salute",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 4,
+      "quorum": 50000,
+      "openingDate": "2026-07-23",
+      "deadline": "2027-01-23",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300030",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300030",
+      "raw": {
+        "dataApertura": "2026-07-23",
+        "dataFineRaccolta": "2027-01-23",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-17",
+        "dataInizioRaccolta": "2026-07-23",
+        "dataInizioValidita": "2026-07-23",
+        "dataIns": "2026-07-23T11:39:10",
+        "dataUltimoAgg": "2026-07-23",
+        "descrizione": "La cosiddetta “Legge Abbassa Spese Veterinarie” mira ad ottenere, come per i farmaci umani,\nl'obbligo di contrattazione dei prezzi tra le aziende farmaceutiche ed il Ministero della Salute. \nQuesto significherebbe un notevole abbattimento dei prezzi per i farmaci ad uso veterinario che, oggi, per\nlo stesso principio attivo possono arrivare a costare anche 5/10 volte in più rispetto a quelli umani che hanno lo stesso principio attivo in farmaci equivalenti.\nQuesto perchè mentre i farmaci \"ad uso umano\" sono soggetti a contrattazione tra Ministero della Salute e aziende, il costo dei farmaci veterinari è, in sostanza, lasciato al mercato per la fissazione dei prezzi.\nLa proposta di legge mira a riformare il Decreto Ministeriale del 2 agosto 2019, il Decreto-legge 21 ottobre 1996, n. 536, convertito dalla legge 23 dicembre 1996, n. 648 e il D.Lgs. 219/2006, introducendo appunto l'obbligo di contrattazione con il Ministero non solo per i farmaci umani, ma anche per quelli veterinari.",
+        "descrizioneBreve": "La proposta di legge mira all'Introduzione dell'Obbligo di contrattazione del prezzo dei farmaci veterinari tra le aziende farmaceutiche ed il Ministero della Salute (anche tramite l'A.I.F.A.).\nCome noto, i farmaci veterinari costano in media da 5 a 10 volte di più rispetto agli equivalenti per uso umano. A parità di principio attivo, la differenza di prezzo può essere notevole (es. un diuretico per animali può costare €12,70 rispetto a €1,72 per l'uomo). Questo accade perché i prezzi sono fissati dal libero mercato e non sono calmierati dallo Stato.",
+        "estremi": "5400009",
+        "id": 7300030,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.leggianimaliste.it",
+        "sostenitori": 4,
+        "supportata": false,
+        "titolo": "“Legge Abbassa Spese Veterinarie”: Introduzione dell'obbligo di contrattare il prezzo dei farmaci veterinari tra  le aziende farmaceutiche ed il Ministero della Salute ",
+        "titoloLeggeCostituzionale": "Obbligo di negoziazione tra il Ministero della Salute e le aziende farmaceutiche in relazione ai prodotti farmaceutici ad uso veterinario"
+      },
+      "hash": "2b40a61afece89001c8f169253c78d3792ffcffbf5b741f666e712768a77c1e8"
+    }
+  },
+  {
     "id": "96dafe0e12e907156931aa2946997d45148d2c38446412991753b1f0db6f920a",
     "type": "created",
     "itemId": "7300029",
