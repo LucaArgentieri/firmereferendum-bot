@@ -1,5 +1,79 @@
 [
   {
+    "id": "96dafe0e12e907156931aa2946997d45148d2c38446412991753b1f0db6f920a",
+    "type": "created",
+    "itemId": "7300029",
+    "title": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
+    "changes": [],
+    "createdAt": "2026-07-23T09:59:57.528Z",
+    "item": {
+      "id": "7300029",
+      "title": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2,
+      "quorum": 50000,
+      "openingDate": "2026-07-23",
+      "deadline": "2027-01-23",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7300029",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7300029",
+      "raw": {
+        "dataApertura": "2026-07-23",
+        "dataFineRaccolta": "2027-01-23",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-17",
+        "dataInizioRaccolta": "2026-07-23",
+        "dataInizioValidita": "2026-07-23",
+        "dataIns": "2026-07-23T11:05:29",
+        "dataUltimoAgg": "2026-07-23",
+        "descrizione": "La proposta di legge mira appunto ad innalzare in maniera importante le pene per chi uccide, maltratta o\nabbandona animali (riformando gli articoli 544 bis, 544 ter, 544 quater, 544 quinquies e 727 del codice penale).\nE cioè: da 5 a 10 anni di reclusione per chi uccide un animale; da 3 a 6 anni per chi lo maltratta; sino a 4 anni di reclusione per chi li abbandona. Così che chiunque commetta reati sugli animali abbia pene adeguate, rischi il carcere, subisca l'applicazione immediata di misura cautelari. \nTutte pene che le attuali normative non ci consentono, essendo  chi commette reati sugli animali punito in modo troppo lieve.\nAncora: la proposta di legge introduce, anche, importanti sanzioni accessorie definite la cosiddetta “morte\ncivica” per chi delinque sugli animali. Oltre a gravi sanzioni amministrative, chi commette reati\nsugli animali rischierà la revoca di patente, del passaporto, del porto d'armi, di licenze amministrative,\nagevolazioni, finanziamenti, contributi o sussidi concessi dalla Pubblica Amministrazione, oltre ad\nessere iscritto in un apposito registro (altra novità introdotta da questa proposta di legge) che gli vieterà\nin futuro di possedere e detenere animali.\nAncora vengono modificate le norme su aggravanti e recidive, l'uccisione di un animale sarà anche\nuna grave recidiva (introdotta con apposito articolo denominato “recidiva qualificata per\nprecedenti reati contro animali”) per chi in futuro dovesse commettere reati di genere e sulle\npersone.",
+        "descrizioneBreve": "E' la cosiddetta “Legge Leone”, e cioè “Carcere vero per chi commette reati sugli animali”. In memoria del gattino di Angri (SA), appunto di nome Leone, scuoiato e morto dopo atroci sofferenze nel 2023 e che\nindignò l'Italia.\nLa proposta di legge mira ad innalzare in maniera importante le pene per chi uccide, maltratta o\nabbandona animali (articoli 544 bis, 544 ter, 544 quater, 544 quinquies e 727 del codice penale).\nDa 5 a 10 anni per chi uccide un animale, da 3 a 6 per chi lo maltratta, sino a 4 anni per chi li\nabbandona, così che chiunque commetta reati sugli animali abbia pene adeguate.",
+        "estremi": "5400008",
+        "id": 7300029,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "www.leggianimaliste.it",
+        "sostenitori": 2,
+        "supportata": false,
+        "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
+        "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
+      },
+      "hash": "a57a1be012b62cea9ef439bdb9c123a4527fc7e5fb1dc0b2e97773a6895fb159"
+    }
+  },
+  {
     "id": "ab70267b7771e12089d97e586d37890f5c989296f9ed7d26ea159d5ce76a229a",
     "type": "created",
     "itemId": "7300027",
