@@ -1,5 +1,79 @@
 [
   {
+    "id": "e9183340ee778909d456e4307263e47f69dfa696a38b3d5d5f33ae6d1c9c388f",
+    "type": "created",
+    "itemId": "7500000",
+    "title": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
+    "changes": [],
+    "createdAt": "2026-08-06T13:21:34.266Z",
+    "item": {
+      "id": "7500000",
+      "title": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
+      "category": "ISTRUZIONE E COMUNICAZIONE",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 6,
+      "quorum": 500000,
+      "openingDate": "2026-08-06",
+      "deadline": "2026-11-06",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7500000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7500000",
+      "raw": {
+        "dataApertura": "2026-08-06",
+        "dataFineRaccolta": "2026-11-06",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-07-29",
+        "dataInizioRaccolta": "2026-08-06",
+        "dataInizioValidita": "2026-08-04",
+        "dataIns": "2026-08-04T20:01:24",
+        "dataUltimoAgg": "2026-08-06",
+        "descrizione": "L'obiettivo di questo Referendum è ripristinare l'educazione affettiva e sessuale nelle scuole italiane, superando le attuali restrizioni normative.\n\nPerché chiediamo l'abrogazione della legge vigente? \nL'attuale legislazione ostacola significativamente la didattica in questo ambito. \nIn particolare:\n- Vieta trattare temi legati alla sessualità nelle scuole dell'infanzia e primarie.\n- Impone agli istituti di richiedere autorizzazioni scritte alle famiglie con sette giorni di preavviso per ogni attività.\n- Obbliga i docenti ad allontanare dall'aula gli studenti sprovvisti di tale permesso.\n\nQuali saranno gli effetti concreti dell'abrogazione? \nEliminando queste norme, l'educazione sessuale e affettiva tornerà a essere un'attività scolastica inclusiva, equiparata alle altre scelte extracurriculari approvate da genitori, docenti e studenti tramite i Piani triennali dell'Offerta Formativa (PTOF). \nNello specifico:\n- Didattica adeguata all'età: Sarà possibile promuovere la consapevolezza del corpo e dell'affettività usando linguaggi e metodi appropriati per ogni fascia d'età, inclusa quella infantile.\n- Inclusione scolastica: Si eliminerà la pratica dell'esclusione dall'aula, garantendo che tutti gli studenti possano partecipare alle attività del gruppo classe senza discriminazioni.\n- Maggiore autonomia: Scuole, docenti e famiglie potranno integrare stabilmente questi temi nei percorsi formativi, liberandosi da vincoli burocratici eccessivi e garantendo una continuità pedagogica.\n",
+        "descrizioneBreve": "L'obiettivo di questo Referendum è cancellare la Legge 9 giugno 2026, n. 104 che limita l'educazione sessuale e affettiva nelle scuole, equiparando nuovamente questi argomenti a tutte le altre scelte educative. Vogliamo eliminare questo trattamento speciale, rimuovendo l'obbligo di richiedere permessi scritti preventivi ai genitori ed evitando che gli studenti senza firma siano esclusi dalla classe. Oggi, infatti, tutte le materie extracurriculari sono approvate dai delegati di genitori, studenti e docenti, unica esclusione per l’educazione sessuale ed affettiva.",
+        "estremi": "5500000",
+        "id": 7500000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "ISTRUZIONE E COMUNICAZIONE",
+          "id": 9,
+          "nome": "ISTRUZIONE E COMUNICAZIONE"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sito": "https://referendumeducazioneaffettiva.it/",
+        "sostenitori": 6,
+        "supportata": false,
+        "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
+        "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
+      },
+      "hash": "99050679e65f7b5aa3f9cfee9119683876c93e8340197471b06156b06620c014"
+    }
+  },
+  {
     "id": "13578f00042a4678d667582ee4eedb038e5aa016dc502217752d3516ffa3a8d2",
     "type": "created",
     "itemId": "7300030",
