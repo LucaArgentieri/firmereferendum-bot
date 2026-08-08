@@ -4003,7 +4003,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 47372,
+    "signaturesCount": 47373,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -4055,12 +4055,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 47372,
+      "sostenitori": 47373,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "bd8327a66e2fddd9a47f99c61346bede3864f0a8b920831655172f79b22d55f5"
+    "hash": "64a2420a4c1d33163d369beb98ec03bd971e41ea0b811722ceb0fe377fb2aaac"
   },
   {
     "id": "6500013",
@@ -4135,7 +4135,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 63723,
+    "signaturesCount": 63724,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4187,12 +4187,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 63723,
+      "sostenitori": 63724,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "4b46df57d29dcfe31f9f0d2d8344ed51ab6bd6b6ca602a2ed3755247fada6a40"
+    "hash": "e0bc797d58ad3ca31b00859b81d1949910df623d3e1bb91cd4f19fd8ab1021e7"
   },
   {
     "id": "6700001",
@@ -4684,7 +4684,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 41386,
+    "signaturesCount": 41387,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4736,12 +4736,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 41386,
+      "sostenitori": 41387,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "7e86fa26a247c72a721cc49b8ea82c09fab8184475b8bd5745dd6ec5abe29cd4"
+    "hash": "d04c08e43fb7fe40f019007cb0bc2728ff816132a12996b94fbab01c84f355bc"
   },
   {
     "id": "7300001",
@@ -4750,7 +4750,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 39375,
+    "signaturesCount": 39376,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4802,12 +4802,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 39375,
+      "sostenitori": 39376,
       "supportata": false,
       "titolo": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER - ",
       "titoloLeggeCostituzionale": "ART. 19 TER - LEGGI SPECIALI IN MATERIA DI ANIMALI - "
     },
-    "hash": "085182151b5532ec826103756e1903706faeeb4debc78504d5228f41a79752a2"
+    "hash": "f34e7d0da10178f297ee65440b4a4979448daea79dbc71a0f43f9bdb4162a812"
   },
   {
     "id": "7300005",
@@ -5336,7 +5336,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1218,
+    "signaturesCount": 1244,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5388,12 +5388,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 1218,
+      "sostenitori": 1244,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "55731f6f396efd59e8023ac178b9fa67927d4d9585815efdc6b641e00394ba82"
+    "hash": "4d0d821633f357bf67b7e045bf78d44b694f7ecacfe765d2691520a733b45e0c"
   },
   {
     "id": "900002",
