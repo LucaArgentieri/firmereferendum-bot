@@ -4003,7 +4003,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 48200,
+    "signaturesCount": 48201,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -4055,12 +4055,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 48200,
+      "sostenitori": 48201,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "7db57090f0581b0f7e6018345480d95406e186807c31709a587d7ba8c22d2095"
+    "hash": "f9150378abb9972f846e2b2341db3f633ef32145cde61d32e7d01180fdb85dcb"
   },
   {
     "id": "6500013",
@@ -4381,7 +4381,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 55222,
+    "signaturesCount": 55223,
     "quorum": 50000,
     "openingDate": "2026-06-12",
     "deadline": "2026-12-12",
@@ -4433,12 +4433,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.pariallapari.it",
-      "sostenitori": 55222,
+      "sostenitori": 55223,
       "supportata": false,
       "titolo": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
       "titoloLeggeCostituzionale": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre"
     },
-    "hash": "9704d13ee0b44423e6a4d4eadf227117090c801f5b279d0bf0c0a4716cf749ed"
+    "hash": "d84e93c839479025ea501440712072c6491a65ea5db24c7b933a3f62bde6b294"
   },
   {
     "id": "700000",
@@ -5336,7 +5336,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 172150,
+    "signaturesCount": 172161,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5388,12 +5388,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 172150,
+      "sostenitori": 172161,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "4334267a999ce23d554d514a755e8478e66bb3fb000c4e360162576f7bf70669"
+    "hash": "5d04565a30567e368c41a4fdc991ee0b82fcbd0f4a2acae3ba86b30640dc56ff"
   },
   {
     "id": "900002",
