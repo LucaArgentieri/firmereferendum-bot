@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 8541,
+    "signaturesCount": 8542,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 8541,
+      "sostenitori": 8542,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "fed5d60bc1cd4589a7a569cb5d309ea667a9acdc4527966221c4b73a5834da90"
+    "hash": "3fb22e680ad72076b3f17f8dce00c478fbfba9e2685c1c41f16334eb3d68020f"
   },
   {
     "id": "5600002",
@@ -4504,7 +4504,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15788,
+    "signaturesCount": 15790,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4556,12 +4556,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 15788,
+      "sostenitori": 15790,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "9c3c359bba3804281ed041c181c3c30fab6009cf9e06b334be15a42a90f13191"
+    "hash": "f974d271471dedcaa160236b4cef41a31384a1adcb353bf68cc18e442dd6c698"
   },
   {
     "id": "7200004",
@@ -4684,7 +4684,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50475,
+    "signaturesCount": 50476,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4736,12 +4736,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 50475,
+      "sostenitori": 50476,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "a922951b7084bb43abfeb603151b773b1bd3c51247455f7c2cf0b24c00e7339f"
+    "hash": "5a42205022bec8dcb5923b5516f7a642b20cebdd4b0ddda58a8241fdcc158fd5"
   },
   {
     "id": "7300001",
@@ -5204,7 +5204,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 8513,
+    "signaturesCount": 8516,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5256,12 +5256,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 8513,
+      "sostenitori": 8516,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "f68fd45a2028d51ed8e39e1de2d4c6042c7d76715a6a5a92c6ecede59940fe7d"
+    "hash": "ed6dd48f5addbe38cd7a1be9dbed2e232cb82639517491090de3ac421ef0e2b1"
   },
   {
     "id": "7300030",
@@ -5336,7 +5336,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 190397,
+    "signaturesCount": 190415,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5388,12 +5388,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 190397,
+      "sostenitori": 190415,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "362b11cc82c622e7d39a021edb2e07e53ab4e36a150e791a578d4abb0a9f87a7"
+    "hash": "e182fe7dfb39ca6ec18b6b40fcdcf0d314854f55529801ac257f5b2a40e5ed2e"
   },
   {
     "id": "900002",
