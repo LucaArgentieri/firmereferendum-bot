@@ -4003,7 +4003,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 48912,
+    "signaturesCount": 48913,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -4055,12 +4055,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 48912,
+      "sostenitori": 48913,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "d41c2986d8b7cf70c7b1f78a906d09afa01208d1c6b5432c1ccd4cff6d6053ca"
+    "hash": "f4b6f57c54971fc845c66a412b684fd49b8c7b6a38e84ac74c633a01dfb7941d"
   },
   {
     "id": "6500013",
@@ -4684,7 +4684,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 53560,
+    "signaturesCount": 53561,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4736,12 +4736,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 53560,
+      "sostenitori": 53561,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "9c29fb935c16c1f95ada4935997b7d89b5ef8b9d344f6a43a8fd34cf15fa6187"
+    "hash": "8bb2e05473f90927d9ecd8edd05fc6ae2624f153bc12738432ae3cedcd3d57d0"
   },
   {
     "id": "7300001",
@@ -5336,7 +5336,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 242580,
+    "signaturesCount": 242607,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5388,12 +5388,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 242580,
+      "sostenitori": 242607,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "3f2648cd113fd9f3c9a514b4e97734b970a85ccd4fc3eb542e188e7c8cb8472b"
+    "hash": "9e3f39a0fef1556826ab27aefe88218c9ceeef84197b11eeeb1ecbc36289a139"
   },
   {
     "id": "900002",
