@@ -4135,7 +4135,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 65635,
+    "signaturesCount": 65636,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4187,12 +4187,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 65635,
+      "sostenitori": 65636,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "0aa78ae8959d85eca9a06b323a2d4cc59e07eb3f92774b72c71a39b0ceba6c14"
+    "hash": "90842e49a0ee871e14e922675c1d10db4f1e6b95c715c9757ea779e93b9fabe0"
   },
   {
     "id": "6700001",
@@ -4504,7 +4504,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 16693,
+    "signaturesCount": 16694,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4556,12 +4556,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 16693,
+      "sostenitori": 16694,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "aeed47f99da57a13042f625da4503b4339f7c945a8f5f22aad0e00cd56f467bb"
+    "hash": "1f497fe1d0e94366ba2012caf815304d9d5e1f5d89a3461acfe1558972217f8e"
   },
   {
     "id": "7200004",
@@ -5204,7 +5204,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 9612,
+    "signaturesCount": 9614,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5256,12 +5256,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 9612,
+      "sostenitori": 9614,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "620ed22538e7579cde9af4f438785443e7beda3c372c0a416dc7ed45b6fb12e7"
+    "hash": "41cb9f9bc00c5e9728fd9912d9bfc500e8ddc63c1c582d58e1a00ce3e2354d33"
   },
   {
     "id": "7300030",
@@ -5336,7 +5336,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 254534,
+    "signaturesCount": 254557,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5388,12 +5388,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 254534,
+      "sostenitori": 254557,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "0ff41a5a1e53fe6aa7ef2f52ab401d6b3a8f82de2113a34c9a8ac9baa7783e28"
+    "hash": "73aac70bd50f4e56bd728b382939ec79dace3e935dca3d77e1fb400133a6d80e"
   },
   {
     "id": "900002",
