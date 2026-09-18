@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 10799,
+    "signaturesCount": 10800,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 10799,
+      "sostenitori": 10800,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "010cff1a93820f74dbe2142de24b15f0b22293086a0ce1305118f6902325616f"
+    "hash": "faa45f97c47718426bd1591baeaa8ec3ce8f4366d14944881792d8df1305964b"
   },
   {
     "id": "5600002",
@@ -4316,7 +4316,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 40436,
+    "signaturesCount": 40438,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4368,12 +4368,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 40436,
+      "sostenitori": 40438,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "18b41a9358644ec9c1d71af66676e33ad6c4b32bb118558f21ca78afee57785b"
+    "hash": "400101d8a6c5645e08962dac55ffd88762f06a32ef4a36222e597042e231e25e"
   },
   {
     "id": "6900002",
@@ -4505,7 +4505,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 22394,
+    "signaturesCount": 22398,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4557,12 +4557,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 22394,
+      "sostenitori": 22398,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "6ec762e73d5d1f9a07f3b0fc1dfcec020673b3a67b0c0633507ab29fa9cb42a0"
+    "hash": "7f2182d899fc5e1e4dbea5d24f08c9c92e8c589d426831ffc717e7d93064383b"
   },
   {
     "id": "7200004",
@@ -4685,7 +4685,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 74134,
+    "signaturesCount": 74143,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4737,12 +4737,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 74134,
+      "sostenitori": 74143,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "7e995d386df8e10f769d2069259a192e19bdd95bb9af9982ab7344ceb7eebd97"
+    "hash": "ae586f9db3e0e4bac4986fd51c654bfffef323f000d32641cb52a6e536841c02"
   },
   {
     "id": "7300001",
@@ -4751,7 +4751,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 69277,
+    "signaturesCount": 69289,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4803,12 +4803,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 69277,
+      "sostenitori": 69289,
       "supportata": false,
       "titolo": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER - ",
       "titoloLeggeCostituzionale": "ART. 19 TER - LEGGI SPECIALI IN MATERIA DI ANIMALI - "
     },
-    "hash": "29fe5809d4b2034bde1efbe911e6bd7e9e35a970bfb848980d09bb60c55d3e4f"
+    "hash": "6a308514e242119596e727b436a5ea5f920dc202879d26a2f85e721db3556768"
   },
   {
     "id": "7300005",
@@ -5205,7 +5205,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 17815,
+    "signaturesCount": 17895,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5257,12 +5257,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 17815,
+      "sostenitori": 17895,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "2e029eca3916ba065e27a52b2ff0211cf3737ea688725979b450140ed2f572cf"
+    "hash": "79816c2831de1e8e00679edfcb6abe3409a073068d72057d6824a1991cc7fa8d"
   },
   {
     "id": "7300030",
@@ -5337,7 +5337,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 566963,
+    "signaturesCount": 566968,
     "quorum": 500000,
     "openingDate": "2026-08-06",
     "deadline": "2026-11-06",
@@ -5389,12 +5389,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "https://referendumeducazioneaffettiva.it/",
-      "sostenitori": 566963,
+      "sostenitori": 566968,
       "supportata": false,
       "titolo": "REFERENDUM SÌ EDUCAZIONE AFFETTIVA E SESSUALE NELLE SCUOLE",
       "titoloLeggeCostituzionale": "Disposizioni in materia di consenso informato in ambito scolastico"
     },
-    "hash": "b29e96b3886b07ce0ea21deb01e1026d643fce16cde8051fcb5dcf26b8bb64a8"
+    "hash": "03a2082bb68e8d8e8979d6b0da6f8a1aa0ad8c20dcd8fbbda70e5cfc76fe1cb6"
   },
   {
     "id": "900002",
