@@ -1,5 +1,78 @@
 [
   {
+    "id": "5a891340e493043f48ebef0e391bdbfec3d2f4a98af6d5a48b29aab4f320ff05",
+    "type": "created",
+    "itemId": "7600001",
+    "title": "Votiamo SÌ per ripristinare la cittadinanza degli italiani nati all’estero!",
+    "changes": [],
+    "createdAt": "2026-09-18T19:02:21.132Z",
+    "item": {
+      "id": "7600001",
+      "title": "Votiamo SÌ per ripristinare la cittadinanza degli italiani nati all’estero!",
+      "category": "DIRITTO",
+      "type": "Referendum  abrogativo (art. 75 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 66,
+      "quorum": 500000,
+      "openingDate": "2026-09-18",
+      "deadline": "2026-12-18",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7600001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7600001",
+      "raw": {
+        "dataApertura": "2026-09-18",
+        "dataFineRaccolta": "2026-12-18",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-09-17",
+        "dataInizioRaccolta": "2026-09-18",
+        "dataInizioValidita": "2026-09-18",
+        "dataIns": "2026-09-18T19:02:09",
+        "dataUltimoAgg": "2026-09-18",
+        "descrizione": "Il Referendum interviene sulle limitazioni introdotte nel 2025 alla cittadinanza per discendenza.\n\nIl DL 36/2025, convertito dalla Legge 74/2025, ha introdotto l’art. 3-bis, che prevede, per determinate persone nate all’estero e titolari di altra cittadinanza, che siano considerate come non aver mai acquistato la cittadinanza italiana.\n\nIl Referendum propone di abrogare elementi della disciplina:\n\n- le parole «anche prima della data di entrata in vigore del presente articolo», eliminando il riferimento ai soggetti nati all’estero prima dell’entrata in vigore dell’art. 3-bis;\n\n- la parola «esclusivamente» dalla lettera c) del comma 1, relativa alla cittadinanza dell’ascendente italiano.\n\nEffetti: tutelare il riconoscimento della cittadinanza italiana iure sanguinis delle persone nate all’estero prima della riforma del 2025, e degli italiani trasferitisi all’estero che, senza queste modifiche, nel giro di pochi anni non potranno più trasmettere la cittadinanza italiana iure sanguinis!\n\nVotiamo SÌ per ripristinare la cittadinanza degli italiani nati all’estero!",
+        "descrizioneBreve": "Italiani da generazioni, cittadini italiani da sempre per sempre. Valorizziamo gli italiani nel mondo! Firma per il referendum sulla cittadinanza!",
+        "estremi": "5600000",
+        "id": 7600001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Referendum  abrogativo (art. 75 Costituzione) ",
+          "id": 1,
+          "nome": "Referendum  abrogativo (art. 75 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 500000,
+        "sostenitori": 66,
+        "supportata": false,
+        "titolo": "Votiamo SÌ per ripristinare la cittadinanza degli italiani nati all’estero!",
+        "titoloLeggeCostituzionale": "Legge 23 maggio 2025, n. 74"
+      },
+      "hash": "800c98c9222b1a0648b7ae1c74edc8f2d8ec2ded4acb1083ffe96463e85e090a"
+    }
+  },
+  {
     "id": "e9183340ee778909d456e4307263e47f69dfa696a38b3d5d5f33ae6d1c9c388f",
     "type": "created",
     "itemId": "7500000",
