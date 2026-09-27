@@ -1167,7 +1167,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 16034,
+    "signaturesCount": 16035,
     "quorum": 50000,
     "openingDate": "2025-05-28",
     "deadline": "9999-12-31",
@@ -1219,12 +1219,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.radicisane.it",
-      "sostenitori": 16034,
+      "sostenitori": 16035,
       "supportata": false,
       "titolo": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso\"",
       "titoloLeggeCostituzionale": "“Introduzione dell’insegnamento dell’Educazione alimentare, ambientale e agli stili di vita sani nelle scuole, enti di istruzione e formazione di Forze Armate, Forze di Polizia e di pubblico soccorso”"
     },
-    "hash": "cabfd1dfaed4b6390bb7a9e238ed57d1fc563e51f16cc5abdb228be618457c73"
+    "hash": "eb82560d99f0c6d06a4463c59441c0ea6c3a0e1b6a9cbf542402060a5ef3fc7c"
   },
   {
     "id": "3800002",
@@ -1424,7 +1424,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 5342,
+    "signaturesCount": 5343,
     "quorum": 50000,
     "openingDate": "2025-06-09",
     "deadline": "9999-12-31",
@@ -1476,12 +1476,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 5342,
+      "sostenitori": 5343,
       "supportata": false,
       "titolo": "SALVIAMO GLI ORSI DISTRIBUENDOLI IN TUTTE LE REGIONI ALPINE ITALIANE",
       "titoloLeggeCostituzionale": "RIDISTRIBUIAMO GLI ORSI SULL'ARCO ALPINO"
     },
-    "hash": "6755aee4ec95dc973d1ed3658879203e2d306d36032c6ec5afe0b6c438db4629"
+    "hash": "3cdb167cdd5f931fcf2b4b376cf520585b811f69c2d63b48141ae37d399867aa"
   },
   {
     "id": "3900020",
@@ -2481,7 +2481,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 4947,
+    "signaturesCount": 4948,
     "quorum": 50000,
     "openingDate": "2025-11-15",
     "deadline": "2026-05-15",
@@ -2533,12 +2533,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://votolibeguale.it",
-      "sostenitori": 4947,
+      "sostenitori": 4948,
       "supportata": false,
       "titolo": "ABROGAZIONE DEL VOTO CONGIUNTO TRA CANDIDATI  UNINOMINALI E LISTE PLURINOMINALI LEGGE ELETTORALE PER CAMERA E SENATO",
       "titoloLeggeCostituzionale": "Abrogazione del voto congiunto  tra  candidati  uninominali e liste plurinominali legge elettorale per Camera e Senato"
     },
-    "hash": "6c1219fef21be00631e5718a0f71349858746c8091b99002fb79d69c265e7f7a"
+    "hash": "00973fbfd7010326058bd63a88b15826747c5759886b65a991393123587e0eed"
   },
   {
     "id": "5200001",
@@ -3408,7 +3408,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 6935,
+    "signaturesCount": 6936,
     "quorum": 50000,
     "openingDate": "2026-02-16",
     "deadline": "2026-08-16",
@@ -3459,12 +3459,12 @@
       "logo": "",
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 6935,
+      "sostenitori": 6936,
       "supportata": false,
       "titolo": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
       "titoloLeggeCostituzionale": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo"
     },
-    "hash": "8d83411e513b45d0249b813326c5c813485f824e77e850773ac1b8c3c3d5f678"
+    "hash": "55ffea642e25de3a2d4d5913d73e59fc012da6e4ae11a15a238b7eed2168463c"
   },
   {
     "id": "6000002",
@@ -4071,7 +4071,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 57325,
+    "signaturesCount": 57326,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -4123,12 +4123,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 57325,
+      "sostenitori": 57326,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "0cf3b3384aa23dba8fe4f4706cadf49f3f91a130f503e41a4fcaa04ff09b5ef8"
+    "hash": "3b958682edf95f4c5245f86704f1e41e523aa67c8aeeab21144e44eec4cae9e8"
   },
   {
     "id": "6500014",
@@ -4137,7 +4137,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 68376,
+    "signaturesCount": 68378,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4189,12 +4189,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 68376,
+      "sostenitori": 68378,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "c026749a73dfeb192b0e575d2f7e30d1b4891df02c8c4a796f2d5264dfff5595"
+    "hash": "c923f3153c08f8d2b75bf2f7851ea50fa96907974250f8a3bd8c6baa8851a6df"
   },
   {
     "id": "6700001",
@@ -4317,7 +4317,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 42886,
+    "signaturesCount": 42887,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4369,12 +4369,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 42886,
+      "sostenitori": 42887,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "000445c77adbc0e576d5a296dc961ee9d33e2ab70952873bce756a25b723040d"
+    "hash": "f93ac9d2d42ebefd669fae18bbf070028f3b5746edcbb77136077ce8a97d4522"
   },
   {
     "id": "6900002",
@@ -4506,7 +4506,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 25972,
+    "signaturesCount": 25975,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4558,12 +4558,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 25972,
+      "sostenitori": 25975,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "ad8e956afa8f3b13edb399f711c4716fe95c4acf8d85f6601d1da189913c08a6"
+    "hash": "f7ab30e14e6891aaf7220ce3067b0da571abf4c6f50019cffb3497f70d6d7efb"
   },
   {
     "id": "7200004",
@@ -4686,7 +4686,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 96877,
+    "signaturesCount": 96890,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4738,12 +4738,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 96877,
+      "sostenitori": 96890,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "cbebd3badbd4827bf12ad1ac4b6c5694e0f4f8f2566b63a09afded66e4d9cc4f"
+    "hash": "fee3eacc0691cececedd7818dea69e607b504dddb0afa18cbce8df5d2d028bd4"
   },
   {
     "id": "7300001",
@@ -4752,7 +4752,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 94327,
+    "signaturesCount": 94336,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4804,12 +4804,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 94327,
+      "sostenitori": 94336,
       "supportata": false,
       "titolo": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER - ",
       "titoloLeggeCostituzionale": "ART. 19 TER - LEGGI SPECIALI IN MATERIA DI ANIMALI - "
     },
-    "hash": "ea728a51224d115e355f6883d21cb91ef88edc8e5ecf72a17e35b131c1f9d50a"
+    "hash": "18eca8dd0f84d5a3242fd4789a842c0f1c06424ac355b40e48b519ffe3caf197"
   },
   {
     "id": "7300005",
@@ -5206,7 +5206,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 24934,
+    "signaturesCount": 24936,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5258,12 +5258,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 24934,
+      "sostenitori": 24936,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "8d79994becff59add796b06ff894dcaddf0e8820fa50541d71ec67f946391926"
+    "hash": "472b89160bda023e45967ee5905b7b43806d77d1324c75038a552eaf79c24a1a"
   },
   {
     "id": "7300030",
@@ -5405,7 +5405,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 1438,
+    "signaturesCount": 1441,
     "quorum": 500000,
     "openingDate": "2026-09-18",
     "deadline": "2026-12-18",
@@ -5456,12 +5456,12 @@
       "logo": "",
       "quesito": "",
       "quorum": 500000,
-      "sostenitori": 1438,
+      "sostenitori": 1441,
       "supportata": false,
       "titolo": "Votiamo SÌ per ripristinare la cittadinanza degli italiani nati all’estero!",
       "titoloLeggeCostituzionale": "Legge 23 maggio 2025, n. 74"
     },
-    "hash": "55796e1cd85c1ebcd1254e06c293c372b31c0f91cd9a627483f151a352365f3f"
+    "hash": "0553c57da9a4b7577826356d627dcf7703e51c9f850e5d3fe9bda47f64dae45e"
   },
   {
     "id": "900002",
