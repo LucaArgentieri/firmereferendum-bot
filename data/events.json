@@ -1,5 +1,79 @@
 [
   {
+    "id": "368c7de19c528e8af7c0d5df95854bd1dce4e33806cf9593d7cead71d1b64f97",
+    "type": "created",
+    "itemId": "7700001",
+    "title": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
+    "changes": [],
+    "createdAt": "2026-09-30T11:17:51.689Z",
+    "item": {
+      "id": "7700001",
+      "title": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 15,
+      "quorum": 50000,
+      "openingDate": "2026-09-30",
+      "deadline": "2027-03-30",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7700001",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7700001",
+      "raw": {
+        "dataApertura": "2026-09-30",
+        "dataFineRaccolta": "2027-03-30",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-09-25",
+        "dataInizioRaccolta": "2026-09-30",
+        "dataInizioValidita": "2026-09-28",
+        "dataIns": "2026-09-28T11:52:52",
+        "dataUltimoAgg": "2026-09-30",
+        "descrizione": "Le guerre si moltiplicano come mai nella storia contemporanea. Riarmo, minacce e provocazioni di carattere militare sono all’ordine del giorno, aumentando la paura e i rischi di un conflitto dagli esiti imponderabili. La diplomazia e il diritto umanitario vengono ignorati e calpestati. Le società civili vengono sempre più colpite e coinvolte in questa spirale di violenza. “Io obietto la guerra” è una proposta di legge di iniziativa popolare per istituire il diritto all'obiezione di coscienza alla guerra e il ripristino dell’obiezione di coscienza al servizio militare, affinché le cittadine e i cittadini possano legittimamente dichiararsi indisponibili a prestare il proprio corpo, il proprio lavoro, il proprio consenso alla guerra, alla violenza e all’uso delle armi per la risoluzione dei conflitti. L’obiettivo della proposta di legge “io obietto la guerra” è garantire il diritto di scegliere di rifiutarsi di partecipare all’ingranaggio della guerra con il proprio lavoro - ad esempio sottraendosi al coinvolgimento nella progettazione, produzione, mobilitazione di armi - e dare ai giovani che rifiutano la violenza delle armi la possibilità di iscrivere il loro nome in appositi registri comunali per essere legittimamente e legalmente riconosciuti obiettori di coscienza.",
+        "descrizioneBreve": "“Io obietto la guerra” è una proposta di legge di iniziativa popolare per istituire il diritto all'obiezione di coscienza alla guerra e il ripristino dell’obiezione di coscienza al servizio militare, affinché le cittadine e i cittadini possano legittimamente dichiararsi indisponibili a prestare il proprio corpo, il proprio lavoro, il proprio consenso alla guerra, alla violenza e all’uso delle armi per la risoluzione dei conflitti. ",
+        "estremi": "5700001",
+        "id": 7700001,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://ripudia.it/",
+        "sostenitori": 15,
+        "supportata": false,
+        "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
+        "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
+      },
+      "hash": "6cb3cf686460e78379f33aaf02ec21ea8b2ef7272bd352f19f6169006f6e2eb1"
+    }
+  },
+  {
     "id": "5a891340e493043f48ebef0e391bdbfec3d2f4a98af6d5a48b29aab4f320ff05",
     "type": "created",
     "itemId": "7600001",
