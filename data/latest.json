@@ -3411,7 +3411,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 7076,
+    "signaturesCount": 7077,
     "quorum": 50000,
     "openingDate": "2026-02-16",
     "deadline": "2026-08-16",
@@ -3462,12 +3462,12 @@
       "logo": "",
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 7076,
+      "sostenitori": 7077,
       "supportata": false,
       "titolo": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo",
       "titoloLeggeCostituzionale": "Disposizioni per la prevenzione e il contrasto degli atti di bullismo"
     },
-    "hash": "b63175b218160d40468b727257441e26f2072f2d730a1cc721f24f540a8ddc86"
+    "hash": "0fd8f0c901c03ccb3d8f89a5a9f9ef2f4874cb889a8b076a1d916feb34fc534e"
   },
   {
     "id": "6000002",
@@ -3876,7 +3876,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 36435,
+    "signaturesCount": 36443,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -3928,12 +3928,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 36435,
+      "sostenitori": 36443,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "7802bc7a5c4ba4ee65c7ed02a60700de8519ab0b3fcf40e8ab8a5c044b33640a"
+    "hash": "15003e794c76da5c76e9cf3975011ce8770b0f5e374a3ccc330265ee4c240891"
   },
   {
     "id": "6500011",
@@ -3942,7 +3942,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 25518,
+    "signaturesCount": 25520,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -3994,12 +3994,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 25518,
+      "sostenitori": 25520,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "5a7b687e266a9851ccb9a98f391d6887d03b22a95bc3393cfabda32c3b424f14"
+    "hash": "eadd1f0da23f7edbef7ba519c16bbddcdf79736e261ffb27c5d17a72f2815301"
   },
   {
     "id": "6500012",
@@ -4074,7 +4074,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 58252,
+    "signaturesCount": 58254,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -4126,12 +4126,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 58252,
+      "sostenitori": 58254,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "418de64d574a7f7c6a2eb09e89e57686462dd8636a9f5442f540c5c7e250cf96"
+    "hash": "213f10373a40c23c5655a7a93a9d5cbe7e7050667b210c79c4224d94e48f6222"
   },
   {
     "id": "6500014",
@@ -4140,7 +4140,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 68951,
+    "signaturesCount": 68952,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4192,12 +4192,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 68951,
+      "sostenitori": 68952,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "5f66f6ccc045e484b2335fbaa73756c1191d16339e17ca3df918cbabb00accb4"
+    "hash": "b82ee13635282a2b4ea8b646be492358cc61f78810499426fa26d3c60f711c0f"
   },
   {
     "id": "6700001",
@@ -4263,7 +4263,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15063,
+    "signaturesCount": 15064,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -4306,12 +4306,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 15063,
+      "sostenitori": 15064,
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-    "hash": "4855a5011420c16e27511b353917543083ce416d36fc1aa9456ead7c2cd71749"
+    "hash": "d2ae81fa3a66f4529419e17a1306af03aee84cc66a658d2d9a2ac302c5bf2320"
   },
   {
     "id": "6800002",
@@ -4320,7 +4320,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 43680,
+    "signaturesCount": 43681,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4372,12 +4372,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 43680,
+      "sostenitori": 43681,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "31c532fc471fe5c96048d27d8d5e118b156196460e0f18f3494077bbcfdf8f5f"
+    "hash": "e08cd77d84a914abc089a1eeb4ece749b047767576a74418270b049310dd5543"
   },
   {
     "id": "6900002",
@@ -4509,7 +4509,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 31649,
+    "signaturesCount": 31660,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4561,12 +4561,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 31649,
+      "sostenitori": 31660,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "954c54ae6fea9bf61f3f7470041305e68ffd9c975f82a2d31dc07ad355763371"
+    "hash": "067927c3fa8892f0b0e0a320f9937d70dbac4362361759878c6abe52c4ea8e9a"
   },
   {
     "id": "7200004",
@@ -4689,7 +4689,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 106897,
+    "signaturesCount": 106900,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4741,12 +4741,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 106897,
+      "sostenitori": 106900,
       "supportata": false,
       "titolo": "VIETIAMO LA CACCIA - ART. 842 - ",
       "titoloLeggeCostituzionale": "ART. 842 - CODICE CIVILE - PRIMO E SECONDO COMMA - "
     },
-    "hash": "f281b42d2161198ad95d8f677e14131c21ec3225b5810b606739695768345b1c"
+    "hash": "c45a1ad064465514ba573ff260ad03b9618906a336a9c1d49d3d817e1e177c5d"
   },
   {
     "id": "7300001",
@@ -4755,7 +4755,7 @@
     "type": "Referendum  abrogativo (art. 75 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 107287,
+    "signaturesCount": 107291,
     "quorum": 500000,
     "openingDate": "2026-07-15",
     "deadline": "2026-10-15",
@@ -4807,12 +4807,12 @@
       "quesito": "",
       "quorum": 500000,
       "sito": "www.rispettopertuttiglianimali.it",
-      "sostenitori": 107287,
+      "sostenitori": 107291,
       "supportata": false,
       "titolo": "VIETARE LA CACCIA IN ITALIA - ART. 19 TER - ",
       "titoloLeggeCostituzionale": "ART. 19 TER - LEGGI SPECIALI IN MATERIA DI ANIMALI - "
     },
-    "hash": "0ca4a32bce6598bdefd26ea4b852f5930dc58fd4aee5a52cd9627b45ead1025a"
+    "hash": "8bd004b65d4970ab07d10b28e64b2dd22286cee6c91aef87dee352850c704d27"
   },
   {
     "id": "7300005",
@@ -5209,7 +5209,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 26223,
+    "signaturesCount": 26229,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5261,12 +5261,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 26223,
+      "sostenitori": 26229,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "0c330e3370dd3f2e5b1e8948de49f819a1ad117b892d8e92a5a0361149b8baa7"
+    "hash": "c5e7d3cecfb29c61936bc99e5b3ccc5eeea590393ff9d55f5f337ffeece623f4"
   },
   {
     "id": "7300030",
@@ -5275,7 +5275,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2076,
+    "signaturesCount": 2077,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5327,12 +5327,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 2076,
+      "sostenitori": 2077,
       "supportata": false,
       "titolo": "“Legge Abbassa Spese Veterinarie”: Introduzione dell'obbligo di contrattare il prezzo dei farmaci veterinari tra  le aziende farmaceutiche ed il Ministero della Salute ",
       "titoloLeggeCostituzionale": "Obbligo di negoziazione tra il Ministero della Salute e le aziende farmaceutiche in relazione ai prodotti farmaceutici ad uso veterinario"
     },
-    "hash": "17b080a3912f26fe562a07a17f50c1d0febffb5340b0b0254fd4e3a6134b5685"
+    "hash": "301394a7c4fc5013502a96efd498c8605ea084ba7023bd6506336bbf10cf12f9"
   },
   {
     "id": "7500000",
@@ -5474,7 +5474,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 9514,
+    "signaturesCount": 9518,
     "quorum": 50000,
     "openingDate": "2026-09-30",
     "deadline": "2027-03-30",
@@ -5526,12 +5526,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ripudia.it/",
-      "sostenitori": 9514,
+      "sostenitori": 9518,
       "supportata": false,
       "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
       "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
     },
-    "hash": "ec232b541ba328cd6bbe18008fa25758515c4bfd2e4eea33067caa256740cbad"
+    "hash": "a57093402f531ecb92c439be4af0ad1899ad73a8fce94a059031951f94e42cfb"
   },
   {
     "id": "900002",
