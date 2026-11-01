@@ -3876,7 +3876,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50940,
+    "signaturesCount": 50941,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -3928,12 +3928,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 50940,
+      "sostenitori": 50941,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "a3593521bec742fb992532d38cd2a3b8b2db498a75dd37f45785cd8a082d238a"
+    "hash": "e3f1f0483e8293dcfcbfc1a916517645b6464f18c63668e56e149f9db43871ce"
   },
   {
     "id": "6500011",
@@ -4008,7 +4008,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 53760,
+    "signaturesCount": 53765,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -4060,12 +4060,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.cieliblu.it",
-      "sostenitori": 53760,
+      "sostenitori": 53765,
       "supportata": false,
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "52ab952a80b2175d7e185a1f1ce921021cf3df3033f1d8961d21cbbf89eb985f"
+    "hash": "0560e66d70f114f3f094f47e79a8356d20b7230f996b16a8cb1cc6cb3e1b875b"
   },
   {
     "id": "6500013",
@@ -4140,7 +4140,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 70234,
+    "signaturesCount": 70236,
     "quorum": 50000,
     "openingDate": "2026-05-13",
     "deadline": "2026-11-13",
@@ -4192,12 +4192,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.unpercentoequo.it",
-      "sostenitori": 70234,
+      "sostenitori": 70236,
       "supportata": false,
       "titolo": "IMPOSTA GRANDI PATRIMONI",
       "titoloLeggeCostituzionale": "IMPOSTA GRANDI PATRIMONI"
     },
-    "hash": "7f6a97c749ac904a909206175819f201b9b9036eb1091b6ffc4eac2eb5e18c9a"
+    "hash": "f7f4cb8f5ed18890011f3ddc34541e57a005421695d407336f751abddfae2579"
   },
   {
     "id": "6700001",
@@ -4320,7 +4320,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50529,
+    "signaturesCount": 50533,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4372,12 +4372,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 50529,
+      "sostenitori": 50533,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "b935c6a3622ee5ecf3725f42e8a2529224d6843fb66918b328d5e2d6d8f24884"
+    "hash": "b4e4461276ea3f42b9a29dbe4193f06b59cb4c8450dbfeb5ccfa2116242c4fb4"
   },
   {
     "id": "6900002",
@@ -4509,7 +4509,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 51270,
+    "signaturesCount": 51281,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4561,12 +4561,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 51270,
+      "sostenitori": 51281,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "de9e50d5361261448182d02b42067f9266a4d30551aff7111f97c91291b05646"
+    "hash": "e7eff8473600f6ac28e358f036c63c688ab0a1618b5376f38a27fd733a99d528"
   },
   {
     "id": "7200004",
@@ -5088,7 +5088,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 7805,
+    "signaturesCount": 7806,
     "quorum": 50000,
     "openingDate": "2026-07-19",
     "deadline": "2027-01-19",
@@ -5140,12 +5140,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://contanteliberta.it",
-      "sostenitori": 7805,
+      "sostenitori": 7806,
       "supportata": false,
       "titolo": "IL CONTANTE È LIBERTÀ. SUBITO IN COSTITUZIONE. Ogni limitazione di sovranità deve rispettare la Costituzione. L’euro digitale è innovazione ma dà potere di controllo. Il contante è libertà, non si spegne con un clic.  Servono limiti e garanzie. La sovranità monetaria deve restare agli Italiani. Obiettivo: una moneta al servizio dei cittadini e delle imprese italiane. ",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 47 della Costituzione in materia di garanzia dell'uso del denaro contante avente corso legale"
     },
-    "hash": "cd728e60fc7e45980589be89eeceb8b2410d75c765e8a3d4467aa9e86ff8fd60"
+    "hash": "9b8771f7a1658240b023df4e6204e42dd81e2f5c72d0ba3e46e268f462163ce0"
   },
   {
     "id": "7300027",
@@ -5212,7 +5212,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 31312,
+    "signaturesCount": 31320,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5264,12 +5264,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 31312,
+      "sostenitori": 31320,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "3259656a52858cf82dca6f69bb6208d5c5ef9e0b4d0e7051047a8e2b61f660c2"
+    "hash": "c57d8fc58c63f1b9668506d6d640fe39d4f68c4e05f5fb9d3a34c653ab352380"
   },
   {
     "id": "7300030",
@@ -5477,7 +5477,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 47058,
+    "signaturesCount": 47080,
     "quorum": 50000,
     "openingDate": "2026-09-30",
     "deadline": "2027-03-30",
@@ -5529,12 +5529,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ripudia.it/",
-      "sostenitori": 47058,
+      "sostenitori": 47080,
       "supportata": false,
       "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
       "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
     },
-    "hash": "2c872bb4a6988cb1699d3a501192a5bfea2cbc3a0ac13d4eac97cee92f7acf3c"
+    "hash": "87194271ef91cb237018ade478ae00d67d218ea6cd05e9b4f141adc48939d40a"
   },
   {
     "id": "900002",
