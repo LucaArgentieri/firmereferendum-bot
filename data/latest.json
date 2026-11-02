@@ -2349,7 +2349,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 18226,
+    "signaturesCount": 18227,
     "quorum": 50000,
     "openingDate": "2024-07-26",
     "deadline": "9999-12-31",
@@ -2401,12 +2401,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.acli.it/la-tua-politica/",
-      "sostenitori": 18226,
+      "sostenitori": 18227,
       "supportata": false,
       "titolo": "La Tua Politica. Scelte per la Democrazia - Proposta di legge sulla Democrazia interna e la Trasparenza dei Partiti Politici",
       "titoloLeggeCostituzionale": "Norme per la democrazia, la trasparenza di bilancio ed il finanziamento pubblico dei partiti politici (art. 49 della Costituzione)pubblico diretto alla partecipazione politica"
     },
-    "hash": "923621ba7238d9c3932e30944b3da9b5d97ec7fd31bf70e0c06829387d9cea24"
+    "hash": "edcb31793856c0b591fa1b1b2b31d3327beabe64fa6bea094d7ec62585abdbd7"
   },
   {
     "id": "500023",
@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 13069,
+    "signaturesCount": 13070,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 13069,
+      "sostenitori": 13070,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "85f41b1bc5ad91e30e29caf47ded259b432dcf829ddf98b96845e847dbc1ab3d"
+    "hash": "a26d6258f68e4ef3f308ce018bc13490607c5d35a1a8650f2dbbc4a88cb5242d"
   },
   {
     "id": "5600002",
@@ -3876,7 +3876,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50957,
+    "signaturesCount": 50958,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -3928,12 +3928,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.cgil.it/proposte-di-legge-di-iniziativa-popolare/i-diritti-non-si-appaltano",
-      "sostenitori": 50957,
+      "sostenitori": 50958,
       "supportata": false,
       "titolo": "PIÙ TUTELE PER CHI LAVORA NEGLI APPALTI E PIÙ SALUTE E SICUREZZA NEI LUOGHI DI LAVORO",
       "titoloLeggeCostituzionale": "DISPOSIZIONI PER MAGGIORI TUTELE ECONOMICHE E NORMATIVE A FAVORE DEI LAVORATORI E LAVORATRICI IN APPALTO E PER PIU' SALUTE E SICUREZZA NEI LUOGHI DI LAVORO"
     },
-    "hash": "a08ae3c0acb54000f4324354f6ba60db911291310ced4339f5ff97479bfc23ed"
+    "hash": "6fb475400896d1c8b1a91acfbb1f2d014ac1c79c5163f38c622edcb8ead71c47"
   },
   {
     "id": "6500011",
@@ -3942,7 +3942,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 27015,
+    "signaturesCount": 27016,
     "quorum": 50000,
     "openingDate": "2026-05-10",
     "deadline": "2026-11-10",
@@ -3994,35 +3994,36 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://comitatoitalianeutrale.it/",
-      "sostenitori": 27015,
+      "sostenitori": 27016,
       "supportata": false,
       "titolo": "NEUTRALITÀ dell'ITALIA, per la pace e contro la guerra. Garanzie di costituzionalità nell'adesione alle Organizzazioni Internazionali implicanti limitazioni di sovranità.",
       "titoloLeggeCostituzionale": "Modifiche all'articolo 11 della Costituzione recanti: \"neutralità permanente dell'Italia e garanzie di costituzionalità in materia di organizzazione internazionale\""
     },
-    "hash": "27de93cd971447f4492a750b4f43ea89f24bb2cb2568fd098a83a0a9700710d6"
+    "hash": "0a7182a65dc9a493495f7848f85a0901465aa562c3878eb591a62c0efc889af3"
   },
   {
     "id": "6500012",
     "title": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
     "category": "AMBIENTE",
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
-    "status": "IN RACCOLTA FIRME",
+    "status": "CHIUSA",
     "committee": "",
     "signaturesCount": 53901,
     "quorum": 50000,
     "openingDate": "2026-05-10",
-    "deadline": "2026-11-10",
+    "deadline": "2026-11-02",
     "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/6500012",
     "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/6500012",
     "raw": {
       "dataApertura": "2026-05-10",
-      "dataFineRaccolta": "2026-11-10",
+      "dataChiusura": "2026-11-02",
+      "dataFineRaccolta": "2026-11-02",
       "dataFineValidita": "9999-12-31",
       "dataGazzetta": "2026-05-05",
       "dataInizioRaccolta": "2026-05-10",
       "dataInizioValidita": "2026-05-10",
       "dataIns": "2026-05-10T12:00:30",
-      "dataUltimoAgg": "2026-05-10",
+      "dataUltimoAgg": "2026-11-02",
       "descrizione": "Partendo dai Trattati internazionali, normative europee e nazionali ed in applicazione del principio si pre\ncauzione e richiamandosi alla Convenzione dell’ ONU sulla diversità biologica del 2010 che ha \nstabilito che la geoingegneria comporta una seria violazione dei diritti umani a causa dei pericoli \nimpliciti nelle tecnologie utilizzate e alla Moratoria delle Nazioni Unite Cop 10 Nagoya,\n alla Risoluzione dell’ Assemblea Generale delle Nazioni Unite sulla protezione dell’ atmosfera AIRES 76/112; al  Trattato ONU sulla Biodiversità (CBD 1992); all’l’Accordo sulla conservazione e l' uso sostenibile             \n della biodiversità marina nelle aree al di là  della giurisdizione nazionale (Bbnj) del 2026;alla Dichiarazione di Rio sull’Ambiente e lo Sviluppo (1992); al Dlg 152/2006 Testo Unico Ambientale;\ned in applicazione dello stesso principio di precauzione che permea tutto il diritto posto a tutela della salute e del benessere ambientale ed umano, e che è stato altresì cristallizzato  nell’ art Art.191 TFUE, co 2 \n“La politica dell’Unione in materia ambientale mira a un elevato livello di tutela, tenendo conto \ndella diversità delle situazioni nelle varie regioni dell’Unione. Essa è fondata sui principi della \nprecauzione e dell’azione preventiva.”  In perfetta e totale applicazione degli Artt Costituzionali : 9 co 2 Cost,41 co3, 32 co.1.\nSi vieta l' attività di Modifica delle condizioni metereologiche attraverso attività di geoingegneria nei cieli italiani.\nPer \n  ",
       "descrizioneBreve": "Questa legge chiede che venga posto un divieto all' attività di Geoingegneria climatica(Geoingegneria) nei cieli italiani.",
       "estremi": "4600001",
@@ -4038,9 +4039,9 @@
       "idDecStatoIniziativa": {
         "dataFineValidita": "9999-12-31",
         "dataInizioValidita": "2021-08-01",
-        "descrizione": "IN RACCOLTA FIRME",
-        "id": 2,
-        "nome": "IN RACCOLTA FIRME"
+        "descrizione": "CHIUSA",
+        "id": 3,
+        "nome": "CHIUSA"
       },
       "idDecStatoLogo": {
         "dataFineValidita": "9999-12-31",
@@ -4065,7 +4066,7 @@
       "titolo": "Divieto di modifica delle condizioni metereologiche(Geoingegneria)",
       "titoloLeggeCostituzionale": "\"Cieli Blu\" Divieto di modifica delle condizioni metereologiche(Geoingegneria)"
     },
-    "hash": "b7dfc702a14af4ed49aa60fc780fcc2a21e7b1d7c0d171b1e021f05aeacfb05f"
+    "hash": "1046e927e2aa70e8a2dbc0e7350c3fa2029addc568225b75a4eb1891cdf2bd46"
   },
   {
     "id": "6500013",
@@ -4074,7 +4075,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 59816,
+    "signaturesCount": 59817,
     "quorum": 50000,
     "openingDate": "2026-05-14",
     "deadline": "2026-11-14",
@@ -4126,12 +4127,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.salutediritto.it/",
-      "sostenitori": 59816,
+      "sostenitori": 59817,
       "supportata": false,
       "titolo": "SOSTENIAMO IL SERVIZIO SANITARIO NAZIONALE",
       "titoloLeggeCostituzionale": "Disposizioni per rendere effettivo il diritto alla salute mediante il rafforzamento del Servizio Sanitario Nazionale e la valorizzazione del personale"
     },
-    "hash": "a1c22ec395de47d697b51e3b98c29776c9a5ed2bd639d47e230215632d0f49b4"
+    "hash": "8c66e3be249d00f1b92b05d83cec5f85500e5bd731e58c973f5400ac4782b19e"
   },
   {
     "id": "6500014",
@@ -4320,7 +4321,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50608,
+    "signaturesCount": 50609,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4372,12 +4373,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 50608,
+      "sostenitori": 50609,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "a2abcab7a0a2150f3c30b202490d8f705f0c803aa9a6434934310858a137290b"
+    "hash": "9f08dbff3c0bbee48f221e26c5c88eff4db49a6c13327c8084e54d6d98e6c39d"
   },
   {
     "id": "6900002",
@@ -4386,7 +4387,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 58239,
+    "signaturesCount": 58240,
     "quorum": 50000,
     "openingDate": "2026-06-12",
     "deadline": "2026-12-12",
@@ -4438,12 +4439,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.pariallapari.it",
-      "sostenitori": 58239,
+      "sostenitori": 58240,
       "supportata": false,
       "titolo": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre: Per il superamento delle disuguaglianze di genere, la redistribuzione del lavoro di cura, il sostegno alla natalità e la tutela effettiva della famiglia e dell’infanzia.",
       "titoloLeggeCostituzionale": "Disposizioni per l’introduzione del congedo paritario obbligatorio tra madre e padre"
     },
-    "hash": "a9c91e9d62eaf1cd50ec1903815487b89abb848b2cd1795274c5535ab534374c"
+    "hash": "307cc7351a154129c2361f5dc7e7c82d41e4af99a49cc25582c511e52506fdb1"
   },
   {
     "id": "700000",
@@ -4509,7 +4510,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 51575,
+    "signaturesCount": 51587,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4561,12 +4562,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 51575,
+      "sostenitori": 51587,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "be87b21a191e7382f8750e569cf8ed0b0de97eb4316cfaf9774e6de81b6c9991"
+    "hash": "9955ce1aaae6ac09f402093badae3d3a767374c265b4a01bf72e1cddb416e686"
   },
   {
     "id": "7200004",
@@ -4575,7 +4576,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 128,
+    "signaturesCount": 129,
     "quorum": 50000,
     "openingDate": "2026-07-11",
     "deadline": "2027-01-11",
@@ -4618,12 +4619,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 128,
+      "sostenitori": 129,
       "supportata": false,
       "titolo": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore.",
       "titoloLeggeCostituzionale": "Formale rinuncia unilaterale al credito deteriorato cancellato dal bilancio con liberazione del debitore."
     },
-    "hash": "c8fa3b8d3a768a307ed334cd1e8d38168effcd4a80588110a4389e9f0a3da122"
+    "hash": "d5a201d3dce80e5ef1c334c1b7fd65a207821b9709b70456f52f4940ad9862dc"
   },
   {
     "id": "7200005",
@@ -5212,7 +5213,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 31622,
+    "signaturesCount": 31627,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5264,12 +5265,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 31622,
+      "sostenitori": 31627,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "1db17ad6d3d6e51c89370abde1f2b21ae812074e1deac1b41ab459f741c61ddd"
+    "hash": "ded655ec5f31e109de50898244aad1cfaaeb019586775ae8a546ea25fd6f4d30"
   },
   {
     "id": "7300030",
@@ -5477,7 +5478,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 47631,
+    "signaturesCount": 47637,
     "quorum": 50000,
     "openingDate": "2026-09-30",
     "deadline": "2027-03-30",
@@ -5529,12 +5530,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ripudia.it/",
-      "sostenitori": 47631,
+      "sostenitori": 47637,
       "supportata": false,
       "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
       "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
     },
-    "hash": "d44fc3f8bb68c4c76a36781a571f83f4615f5c1a3e94aa6fab089d07c3de3b73"
+    "hash": "2a3478d65f7ab1b529510f9a7f56f1e5f8123a59a14df50fd35a5b5e33da3082"
   },
   {
     "id": "900002",
