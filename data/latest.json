@@ -1958,7 +1958,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 696,
+    "signaturesCount": 697,
     "quorum": 50000,
     "openingDate": "2025-07-29",
     "deadline": "9999-12-31",
@@ -2002,12 +2002,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.jesuslenygomes.com",
-      "sostenitori": 696,
+      "sostenitori": 697,
       "supportata": false,
       "titolo": "MODIFICA AL DECRETO LEGGE, CONVERTITO CON\nMODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE\n“DISPOSIZIONI URGENTI IN MATERIA DI SICUREZZA\nDELLE CITTÀ”\n",
       "titoloLeggeCostituzionale": "«MODIFICA AL DECRETO LEGGE, CONVERTITO CON MODIFICAZIONI, 20 FEBBRAIO 2017, N. 14 RECANTE \"DI- S P O S I Z I O N I U R G E N T I I N M AT E R I A D I S I C U R E Z Z A D E L L E CITTÀ\"»"
     },
-    "hash": "19627bf2e56109f3456ae4892eda2371b26342e5e7a4e88fd55d4a40e0dd97b0"
+    "hash": "0f6c1c6c95abe911a5ff7eed613dd33c2d3a7e8ea394f42fb81024bc58e517ee"
   },
   {
     "id": "4600001",
@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 13164,
+    "signaturesCount": 13168,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 13164,
+      "sostenitori": 13168,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "374f5997e1a8d9ce4dfbfeb762b8cedce488af018b42baf3ff14c90170d32efd"
+    "hash": "42d06825e530a4a0934aeacd8021004b029696f847c3a7ccca418c1df083748a"
   },
   {
     "id": "5600002",
@@ -4266,7 +4266,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 15973,
+    "signaturesCount": 15974,
     "quorum": 50000,
     "openingDate": "2026-05-25",
     "deadline": "2026-11-25",
@@ -4309,12 +4309,12 @@
       },
       "quesito": "",
       "quorum": 50000,
-      "sostenitori": 15973,
+      "sostenitori": 15974,
       "supportata": false,
       "titolo": "MISURE PER LA RIGENERAZIONE URBANA DEL COMMERCIO E DEI SERVIZI DI PROSSIMITÀ",
       "titoloLeggeCostituzionale": "Misure per la rigenerazione urbana del commercio e dei servizi di prossimità"
     },
-    "hash": "49a5302d1d815fe72e1e81171377b4ed8f9699092c4f5e0f5facb8f2f8999914"
+    "hash": "c72ffbd107276dac5cf8b7ff881ae8850d32c90204919206bfadc63e91c897c1"
   },
   {
     "id": "6800002",
@@ -4323,7 +4323,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50690,
+    "signaturesCount": 50691,
     "quorum": 50000,
     "openingDate": "2026-06-08",
     "deadline": "2026-12-08",
@@ -4375,12 +4375,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://pmapertutte.it/",
-      "sostenitori": 50690,
+      "sostenitori": 50691,
       "supportata": false,
       "titolo": "PMA PER TUTTE PIÙ DIRITTI PIÙ MAMME",
       "titoloLeggeCostituzionale": "Modifiche alla legge 19 febbraio 2004, n. 40, in materia di accesso alle tecniche di procreazione medicalmente assistita"
     },
-    "hash": "5f448dcbffca970d75de7a525b108d100e4ff0e242dc0469eb986d79025361de"
+    "hash": "b696d75b1a0f883846d558f64d2773315d37843247cf00fc38dbd1b98f3d33a5"
   },
   {
     "id": "6900002",
@@ -4512,7 +4512,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 52398,
+    "signaturesCount": 52421,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4564,12 +4564,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 52398,
+      "sostenitori": 52421,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "18d508035ee15dad61f317918bc7d7e6eb11a2ae2eaad7d34a4590a01ca6abf8"
+    "hash": "742d3cb8018c30304ceaa8ee372b57551753d45428b7ea5d6a3a9fcab4acbc04"
   },
   {
     "id": "7200004",
@@ -5215,7 +5215,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 31846,
+    "signaturesCount": 31851,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5267,12 +5267,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 31846,
+      "sostenitori": 31851,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "659e20e606b363248696297c3011610a42d37771bfe260d35f3ead0890b5911a"
+    "hash": "da0badf49eaea600cdc34c0b3e3d095414c6617a67d934ddee2d877bc6c66940"
   },
   {
     "id": "7300030",
@@ -5480,7 +5480,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 48337,
+    "signaturesCount": 48349,
     "quorum": 50000,
     "openingDate": "2026-09-30",
     "deadline": "2027-03-30",
@@ -5532,12 +5532,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ripudia.it/",
-      "sostenitori": 48337,
+      "sostenitori": 48349,
       "supportata": false,
       "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
       "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
     },
-    "hash": "25b4d95422696e7263bd25d8c2a020d6ef48db899db7ed6081c1ee29076a94db"
+    "hash": "4d20dadeaabd380dbf92be3cdfbab45459f88949865666df16352c50d3d0866e"
   },
   {
     "id": "900002",
