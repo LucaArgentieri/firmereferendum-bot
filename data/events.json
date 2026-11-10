@@ -1,5 +1,79 @@
 [
   {
+    "id": "478b88a03e26ae1a51bae23228a777d014b97eb406ac42528082e974181b2401",
+    "type": "created",
+    "itemId": "7800000",
+    "title": "Garanzia della libertà di scelta degli elettori\ne della parità di accesso alle elezioni",
+    "changes": [],
+    "createdAt": "2026-11-10T18:51:27.385Z",
+    "item": {
+      "id": "7800000",
+      "title": "Garanzia della libertà di scelta degli elettori\ne della parità di accesso alle elezioni",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 1475,
+      "quorum": 50000,
+      "openingDate": "2026-11-10",
+      "deadline": "2027-05-10",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7800000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7800000",
+      "raw": {
+        "dataApertura": "2026-11-10",
+        "dataFineRaccolta": "2027-05-10",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-11-06",
+        "dataInizioRaccolta": "2026-11-10",
+        "dataInizioValidita": "2026-11-10",
+        "dataIns": "2026-11-10T12:20:02",
+        "dataUltimoAgg": "2026-11-10",
+        "descrizione": "La proposta modifica la Costituzione in tre punti per rendere il voto più libero e le regole elettorali più stabili. All'articolo 48 vieta le liste bloccate: nessun candidato può essere eletto per la sua posizione in lista o per designazione di un partito o di una coalizione, e la scelta degli eletti spetta agli elettori. Stabilisce inoltre che le nuove leggi elettorali si applichino dalla seconda legislatura successiva, salvo approvazione a maggioranza dei due terzi dei componenti di ciascuna Camera. Garantisce poi alle persone con disabilità l'esercizio autonomo del voto e il voto fuori dal comune di residenza per ragioni di salute, cura o assistenza. Agli articoli 56 e 57 fissa il limite massimo di firme per presentare le liste a un millesimo degli elettori del collegio, per Camera e Senato, e ammette sempre la firma digitale. All'articolo 134 attribuisce alla Corte costituzionale il giudizio di legittimità sulle leggi elettorali prima della loro promulgazione.",
+        "descrizioneBreve": "Proposta di revisione costituzionale che vieta le liste bloccate, affida agli elettori la scelta degli eletti, limita le firme per presentare le liste a un millesimo degli iscritti, ammette la firma digitale, tutela l’autonomia del voto delle persone con disabilità e introduce il controllo preventivo della Corte costituzionale sulle leggi elettorali.\n",
+        "estremi": "5800001",
+        "id": 7800000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://ora-italia.it/ilvotoetuo/",
+        "sostenitori": 1475,
+        "supportata": false,
+        "titolo": "Garanzia della libertà di scelta degli elettori\ne della parità di accesso alle elezioni",
+        "titoloLeggeCostituzionale": "Garanzia della libertà di scelta degli elettori e della parità di accesso alle elezioni"
+      },
+      "hash": "48b45fba6e9fed05491412f75a45fd3f7592847534cff63ee27d06fe5ccdb88a"
+    }
+  },
+  {
     "id": "368c7de19c528e8af7c0d5df95854bd1dce4e33806cf9593d7cead71d1b64f97",
     "type": "created",
     "itemId": "7700001",
