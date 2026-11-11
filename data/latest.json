@@ -2811,7 +2811,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 14524,
+    "signaturesCount": 14551,
     "quorum": 50000,
     "openingDate": "2026-01-13",
     "deadline": "2026-07-13",
@@ -2863,12 +2863,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://www.facebook.com/groups/redditominimogarantitoindividuale/?ref=share",
-      "sostenitori": 14524,
+      "sostenitori": 14551,
       "supportata": false,
       "titolo": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)",
       "titoloLeggeCostituzionale": "REDDITO MINIMO GARANTITO INDIVIDUALE (RMGI)"
     },
-    "hash": "b51d49316d82e254cd6e84e4d84882a1322e36fb8c58b9014d0ad07443dd57bf"
+    "hash": "12b9105c1cb39694bbb019235eb4173be6df8ff98dd4444cdf6547c108f04c19"
   },
   {
     "id": "5600002",
@@ -3476,7 +3476,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 6853,
+    "signaturesCount": 6854,
     "quorum": 50000,
     "openingDate": "2026-03-03",
     "deadline": "2026-09-03",
@@ -3528,12 +3528,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "Proposta legislativa scritta dall'avv.Valentina Presicce ",
-      "sostenitori": 6853,
+      "sostenitori": 6854,
       "supportata": false,
       "titolo": "\"NOEMI DURINI\"",
       "titoloLeggeCostituzionale": "\"Noemi Durini\""
     },
-    "hash": "cc7ff36d6d6563e6fab34cadfe41d176c3eff3639b9ab3ffacf7de072ac1bc66"
+    "hash": "d554fc3b776841a9c59716717e79d49b4ffea530ee4566551e9bfce4271b0946"
   },
   {
     "id": "600003",
@@ -4513,7 +4513,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 54349,
+    "signaturesCount": 54360,
     "quorum": 50000,
     "openingDate": "2026-07-06",
     "deadline": "2027-01-06",
@@ -4565,12 +4565,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://animalequality.it/campagna/stop-macellazione-cavalli/fine-corsa/",
-      "sostenitori": 54349,
+      "sostenitori": 54360,
       "supportata": false,
       "titolo": "Divieto di macellazione degli equidi e altre disposizioni\nper la loro tutela",
       "titoloLeggeCostituzionale": "Divieto di macellazione degli equidi e altre disposizioni per la loro tutela"
     },
-    "hash": "0706845689c41bb38645af55c47fd714390f27d7f40da4475bcc0689dc8d4757"
+    "hash": "a98ca5fa418f0d11aa61332d31a40f0e8bb746b1186ce7cbf8a1e4286163654e"
   },
   {
     "id": "7200004",
@@ -5216,7 +5216,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 33267,
+    "signaturesCount": 33274,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5268,12 +5268,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 33267,
+      "sostenitori": 33274,
       "supportata": false,
       "titolo": "“Carcere vero per chi commette reati sugli animali”: Innalzamento delle pene e introduzione di gravi recidive e aggravanti per chi uccide, maltratta e abbandona animali.",
       "titoloLeggeCostituzionale": "Modifiche  degli  articoli   544-bis,   544-ter,   544-quater, 544-quinquies e 727 del codice penale  con  innalzamento  delle  pene edittali per chi  maltratta,  uccide  o  abbandona  animali."
     },
-    "hash": "ea9897c61fed2a89327107de6e40dcdd352f70db5f6c7fca7d791f4867dfa336"
+    "hash": "976ff15d85d60ac5d2e47eb9f51c61151b10f69cd69f63f94b8d39674ce59425"
   },
   {
     "id": "7300030",
@@ -5282,7 +5282,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2424,
+    "signaturesCount": 2425,
     "quorum": 50000,
     "openingDate": "2026-07-23",
     "deadline": "2027-01-23",
@@ -5334,12 +5334,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "www.leggianimaliste.it",
-      "sostenitori": 2424,
+      "sostenitori": 2425,
       "supportata": false,
       "titolo": "“Legge Abbassa Spese Veterinarie”: Introduzione dell'obbligo di contrattare il prezzo dei farmaci veterinari tra  le aziende farmaceutiche ed il Ministero della Salute ",
       "titoloLeggeCostituzionale": "Obbligo di negoziazione tra il Ministero della Salute e le aziende farmaceutiche in relazione ai prodotti farmaceutici ad uso veterinario"
     },
-    "hash": "152b072399fe913beb08dedc652e6ed5af947f41bc4127812f0c8831937b84db"
+    "hash": "f2bc26e9d658ea18aa7722edbc4082574ea2d41cbae25e81277f76642a7f76e1"
   },
   {
     "id": "7500000",
@@ -5481,7 +5481,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 50081,
+    "signaturesCount": 50089,
     "quorum": 50000,
     "openingDate": "2026-09-30",
     "deadline": "2027-03-30",
@@ -5533,12 +5533,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ripudia.it/",
-      "sostenitori": 50081,
+      "sostenitori": 50089,
       "supportata": false,
       "titolo": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra",
       "titoloLeggeCostituzionale": "\"io obietto la  guerra\" - proposta  di  legge  di  iniziativa popolare per il diritto alla obiezione di coscienza alla guerra"
     },
-    "hash": "d184919c2e9eda7091376e63e28dda4c1b9106c83e1764db8b67472611f52ede"
+    "hash": "ff3bdbf0178b139a18f02e1ae39d4032de9e963d7f479f01e65a5b75a7b529cd"
   },
   {
     "id": "7800000",
@@ -5547,7 +5547,7 @@
     "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
     "status": "IN RACCOLTA FIRME",
     "committee": "",
-    "signaturesCount": 2334,
+    "signaturesCount": 2414,
     "quorum": 50000,
     "openingDate": "2026-11-10",
     "deadline": "2027-05-10",
@@ -5599,12 +5599,12 @@
       "quesito": "",
       "quorum": 50000,
       "sito": "https://ora-italia.it/ilvotoetuo/",
-      "sostenitori": 2334,
+      "sostenitori": 2414,
       "supportata": false,
       "titolo": "Garanzia della libertà di scelta degli elettori\ne della parità di accesso alle elezioni",
       "titoloLeggeCostituzionale": "Garanzia della libertà di scelta degli elettori e della parità di accesso alle elezioni"
     },
-    "hash": "66d85801d75677d925e246abb8a72400f1ea1efdd880776f45cf9449db8934ad"
+    "hash": "0970054f65dbb3b3cfc500413400bd0fec7fdfcbb02ded8d266a0f2e7cfc904f"
   },
   {
     "id": "900002",
