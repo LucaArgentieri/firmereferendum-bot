@@ -1,5 +1,70 @@
 [
   {
+    "id": "31f7656fa5f6d3f2f6c0e750df0b72d01966d8578d80322d863ae25002103554",
+    "type": "created",
+    "itemId": "7900000",
+    "title": "DISPOSIZIONI PER LA RIVALUTAZIONE INTEGRALE DEI TRATTAMENTI PENSIONISTICI, L'ESENZIONE FISCALE DEGLI INCREMENTI E IL RAFFORZAMENTO DELLA NO TAX AREA",
+    "changes": [],
+    "createdAt": "2026-11-18T10:33:45.953Z",
+    "item": {
+      "id": "7900000",
+      "title": "DISPOSIZIONI PER LA RIVALUTAZIONE INTEGRALE DEI TRATTAMENTI PENSIONISTICI, L'ESENZIONE FISCALE DEGLI INCREMENTI E IL RAFFORZAMENTO DELLA NO TAX AREA",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 15,
+      "quorum": 50000,
+      "openingDate": "2026-11-18",
+      "deadline": "2027-05-18",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/7900000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/7900000",
+      "raw": {
+        "dataApertura": "2026-11-18",
+        "dataFineRaccolta": "2027-05-18",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-11-13",
+        "dataInizioRaccolta": "2026-11-18",
+        "dataInizioValidita": "2026-11-17",
+        "dataIns": "2026-11-17T15:59:04",
+        "dataUltimoAgg": "2026-11-18",
+        "descrizione": "La proposta interviene sul rapporto tra adeguatezza dei trattamenti pensionistici, andamento del costo della vita e sostenibilità del prelievo fiscale. L’obiettivo è rendere certa, annuale, automatica e integrale la rivalutazione dei trattamenti pensionistici, sostituendo i meccanismi differenziati e potenzialmente riduttivi, meglio indicati al paragrafo successivo, con un criterio uniforme applicato all’intero importo di ciascun trattamento.\nLa scelta legislativa è accompagnata da due misure fiscali coerenti: l’esenzione degli incrementi derivanti dalla rivalutazione introdotta dalla legge e il rafforzamento della soglia di reddito pensionistico integralmente protetta dall’IRPEF. La proposta non presume che tali misure siano prive di effetti finanziari: al contrario, prevede una relazione tecnica certificata e una clausola di efficacia subordinata alla copertura da completare in sede parlamentare.",
+        "descrizioneBreve": "La proposta interviene sul rapporto tra adeguatezza dei trattamenti pensionistici, andamento del costo della vita e sostenibilità del prelievo fiscale. L’obiettivo è rendere certa, annuale, automatica e integrale la rivalutazione dei trattamenti pensionistici, sostituendo i meccanismi differenziati e potenzialmente riduttivi con un criterio uniforme applicato all’intero importo di ciascun trattamento.",
+        "estremi": "5900000",
+        "id": 7900000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 15,
+        "supportata": false,
+        "titolo": "DISPOSIZIONI PER LA RIVALUTAZIONE INTEGRALE DEI TRATTAMENTI PENSIONISTICI, L'ESENZIONE FISCALE DEGLI INCREMENTI E IL RAFFORZAMENTO DELLA NO TAX AREA",
+        "titoloLeggeCostituzionale": "Disposizioni per la rivalutazione integrale dei trattamenti pensionistici, l’esenzione fiscale degli incrementi e il rafforzamento della no tax area"
+      },
+      "hash": "c2bc5547734eedbfea8bbc2a75213d886cf53d0572fc0adda8889500df3aa196"
+    }
+  },
+  {
     "id": "478b88a03e26ae1a51bae23228a777d014b97eb406ac42528082e974181b2401",
     "type": "created",
     "itemId": "7800000",
