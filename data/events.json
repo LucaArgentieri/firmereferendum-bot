@@ -1,5 +1,79 @@
 [
   {
+    "id": "cb61699b599189a0f988a61b76a8404f9c6dedb24f8de6a13b8bbabeca30cebf",
+    "type": "created",
+    "itemId": "8000000",
+    "title": "“Mitigazione della Responsabilità Civile Solidale dei Professionisti Tecnici”\n(Perboni – Falanga)",
+    "changes": [],
+    "createdAt": "2026-11-20T22:59:30.079Z",
+    "item": {
+      "id": "8000000",
+      "title": "“Mitigazione della Responsabilità Civile Solidale dei Professionisti Tecnici”\n(Perboni – Falanga)",
+      "category": "DIRITTO",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 0,
+      "quorum": 50000,
+      "openingDate": "2026-11-20",
+      "deadline": "2027-05-20",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/8000000",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/8000000",
+      "raw": {
+        "dataApertura": "2026-11-20",
+        "dataFineRaccolta": "2027-05-20",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-11-14",
+        "dataInizioRaccolta": "2026-11-20",
+        "dataInizioValidita": "2026-11-20",
+        "dataIns": "2026-11-20T17:13:49",
+        "dataUltimoAgg": "2026-11-20",
+        "descrizione": "La proposta introduce una disciplina speciale della responsabilità civile dei professionisti tecnici iscritti agli Albi per le attività di progettazione, direzione lavori o collaudo di opere edilizie e impiantistiche.\n\nArt. 1 - In deroga all'art. 2055 c.c., in caso di concorso di colpa tra il tecnico e l'appaltatore o subappaltatore, il tecnico risponde verso il committente solo per la propria quota (responsabilità parziaria). La responsabilità solidale opera solo in caso di dolo o colpa grave. Per le prestazioni di speciale difficoltà tecnica (art. 2236 c.c.) resta parziaria anche in caso di colpa grave.\n\nArt. 2 - La quota è determinata in proporzione al grado di colpa e alla rilevanza causale della condotta; nel dubbio le quote si presumono uguali. La prova di dolo o colpa grave spetta al danneggiato.\n\nArt. 3 - Se alla cessazione dell'attività o al decesso è attiva una polizza RC professionale che copre i danni manifestatisi nel decennio successivo al compimento dell'opera, l'obbligazione risarcitoria contrattuale non si trasmette agli eredi oltre il valore dell'eredità e il danneggiato agisce solo verso l'assicuratore, con azione diretta.\n\nArt. 4 - L'obbligazione extracontrattuale (artt. 2043 e 1669 c.c.) si trasmette agli eredi solo in caso di dolo o colpa grave, entro il valore dei beni ereditari.\n\nArt. 5 - La legge si applica ai contratti e ai fatti successivi alla sua entrata in vigore; l'attuazione è demandata a un decreto ministeriale.",
+        "descrizioneBreve": "Proposta di legge speciale che deroga, per i professionisti tecnici iscritti agli Albi (progettisti, direttori dei lavori, collaudatori), al regime della responsabilità solidale dell'art. 2055 c.c. In caso di concorso di colpa con appaltatore o subappaltatore, il tecnico risponde solo per la propria quota; la solidarietà resta nei casi di dolo o colpa grave. La proposta limita inoltre la trasmissione agli eredi delle obbligazioni risarcitorie, collegandola alla copertura assicurativa postuma e all'azione diretta del danneggiato verso l'assicuratore.",
+        "estremi": "5900005",
+        "id": 8000000,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "DIRITTO",
+          "id": 4,
+          "nome": "DIRITTO"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://www.perboni.group/propostadilegge",
+        "sostenitori": 0,
+        "supportata": false,
+        "titolo": "“Mitigazione della Responsabilità Civile Solidale dei Professionisti Tecnici”\n(Perboni – Falanga)\n",
+        "titoloLeggeCostituzionale": "“Mitigazione della Responsabilità Civile Solidale dei Professionisti Tecnici” (Perboni – Falanga)"
+      },
+      "hash": "175f24a1acbe3301411a58b1ab1410aaabb85ad9f9cb0e34f441ef0b87dcd1cf"
+    }
+  },
+  {
     "id": "31f7656fa5f6d3f2f6c0e750df0b72d01966d8578d80322d863ae25002103554",
     "type": "created",
     "itemId": "7900000",
