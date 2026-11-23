@@ -1,5 +1,79 @@
 [
   {
+    "id": "0f52df4e0ca55257bf011fd672acf88f1725527e4f0d3f3fdbbbd9b4e9bac83f",
+    "type": "created",
+    "itemId": "8000003",
+    "title": "Disposizioni per l'avvio delle procedure di adesione della Repubblica Italiana al gruppo intergovernativo BRICS e al Nuovo Banco di Sviluppo (NDB)",
+    "changes": [],
+    "createdAt": "2026-11-23T21:56:13.485Z",
+    "item": {
+      "id": "8000003",
+      "title": "Disposizioni per l'avvio delle procedure di adesione della Repubblica Italiana al gruppo intergovernativo BRICS e al Nuovo Banco di Sviluppo (NDB)",
+      "category": "RELAZION INTERNAZIONALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 207,
+      "quorum": 50000,
+      "openingDate": "2026-11-23",
+      "deadline": "2027-05-23",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/8000003",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/8000003",
+      "raw": {
+        "dataApertura": "2026-11-23",
+        "dataFineRaccolta": "2027-05-23",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-11-20",
+        "dataInizioRaccolta": "2026-11-23",
+        "dataInizioValidita": "2026-11-23",
+        "dataIns": "2026-11-23T16:33:16",
+        "dataUltimoAgg": "2026-11-23",
+        "descrizione": "La presente proposta di legge nasce dalla necessità di adeguare il posizionamento strategico ed economico della Repubblica Italiana alle profonde trasformazioni in atto negli equilibri geopolitici globali.\n \nIl gruppo BRICS (originariamente formato da Brasile, Russia, India, Cina e Sudafrica, e oggi in fase di progressivo allargamento) rappresenta una quota maggioritaria della popolazione mondiale e una percentuale del PIL globale, calcolato a parità di potere d'acquisto, che ha ormai superato quello dei Paesi del G7.\n \nIn un contesto internazionale orientato verso un crescente multipolarismo, l'adesione dell'Italia al gruppo BRICS e alle sue istituzioni finanziarie – in primis il Nuovo Banco di Sviluppo (New Development Bank - NDB) – rappresenta un'opportunità imprescindibile per:\n \n1.\tDiversificare i mercati di sbocco per il Made in Italy, garantendo alle nostre imprese un accesso privilegiato alle economie a più rapida crescita del pianeta.\n \n2.\tGarantire la sicurezza energetica e l'approvvigionamento di materie prime critiche, di cui i Paesi membri sono i principali detentori.\n \n3.\tPartecipare attivamente alla costruzione di nuove architetture finanziarie globali, tutelando il risparmio italiano e promuovendo investimenti infrastrutturali.",
+        "descrizioneBreve": "Italia nei BRICS. Sul finire di una globalizzazione ormai fallita si è ridisegnato un nuovo equilibrio mondiale multipolare che si sta sempre più rafforzando. Per garantire all’Italia una posizione strategica dal punto di vista geopolitico ed economico è indispensabile avviare quanto prima le procedure diplomatiche e negoziali per l’adesione della Repubblica Italiana al gruppo intergovernativo BRICS.",
+        "estremi": "6000001",
+        "id": 8000003,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "RELAZION INTERNAZIONALI",
+          "id": 2,
+          "nome": "RELAZION INTERNAZIONALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecStatoLogo": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-09-22",
+          "descrizione": "VERIFICATO",
+          "id": 1,
+          "nome": "VERIFICATO"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "logo": "",
+        "quesito": "",
+        "quorum": 50000,
+        "sito": "https://perunmondomultipolare.it ",
+        "sostenitori": 207,
+        "supportata": false,
+        "titolo": "Disposizioni per l'avvio delle procedure di adesione della Repubblica Italiana al gruppo intergovernativo BRICS e al Nuovo Banco di Sviluppo (NDB)",
+        "titoloLeggeCostituzionale": "Disposizioni per l'avvio delle procedure di adesione della Repubblica Italiana al gruppo intergovernativo BRICS e al Nuovo Banco di Sviluppo (NDB)"
+      },
+      "hash": "95d9242f33fc04e21a58767e5f5e50329fd01ae91b782becbbf88d3622ec3511"
+    }
+  },
+  {
     "id": "cb61699b599189a0f988a61b76a8404f9c6dedb24f8de6a13b8bbabeca30cebf",
     "type": "created",
     "itemId": "8000000",
