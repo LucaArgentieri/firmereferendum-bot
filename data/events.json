@@ -1,5 +1,70 @@
 [
   {
+    "id": "bc47f890c8a7d6ef2cd690bf48a18894af1aeadc141ded788daf844fac02761d",
+    "type": "created",
+    "itemId": "8000005",
+    "title": "Riforma dei Servizi Sociali e Tutela della Famiglia: Disposizioni in materia di trasparenza, oggettività delle relazioni sociali, progetto personalizzato partecipato e garanzie procedimentali",
+    "changes": [],
+    "createdAt": "2026-11-26T21:34:36.473Z",
+    "item": {
+      "id": "8000005",
+      "title": "Riforma dei Servizi Sociali e Tutela della Famiglia: Disposizioni in materia di trasparenza, oggettività delle relazioni sociali, progetto personalizzato partecipato e garanzie procedimentali",
+      "category": "QUESTIONI SOCIALI",
+      "type": "Legge di iniziativa popolare (art. 71 Costituzione)",
+      "status": "IN RACCOLTA FIRME",
+      "committee": "",
+      "signaturesCount": 2,
+      "quorum": 50000,
+      "openingDate": "2026-11-26",
+      "deadline": "2027-05-26",
+      "detailUrl": "https://firmereferendum.giustizia.it/referendum/open/dettaglio-open/8000005",
+      "logoUrl": "https://firmereferendum.giustizia.it/referendum/api-portal/iniziativa/public/logo/8000005",
+      "raw": {
+        "dataApertura": "2026-11-26",
+        "dataFineRaccolta": "2027-05-26",
+        "dataFineValidita": "9999-12-31",
+        "dataGazzetta": "2026-11-21",
+        "dataInizioRaccolta": "2026-11-26",
+        "dataInizioValidita": "2026-11-26",
+        "dataIns": "2026-11-26T15:59:17",
+        "dataUltimoAgg": "2026-11-26",
+        "descrizione": "La proposta di legge di iniziativa popolare «Riforma dei servizi sociali e tutela della famiglia» mira a migliorare la qualità degli interventi, rafforzare le garanzie per le famiglie e tutelare il diritto dei minori a crescere nel proprio nucleo familiare.\nPrevede che le relazioni dei servizi sociali distinguano chiaramente i fatti accertati, le dichiarazioni raccolte e le valutazioni professionali, indicando le fonti, i documenti esaminati e i metodi utilizzati. Introduce il lavoro in équipe multidisciplinari, la supervisione e la formazione continua degli operatori. Le richieste di misure limitative della responsabilità genitoriale devono indicare gli interventi di sostegno già svolti, i loro esiti e gli elementi concreti su cui si fonda la valutazione del rischio per il minore.\nPer le persone e le famiglie in condizioni di vulnerabilità prese in carico, la proposta prevede un progetto personalizzato, costruito con gli interessati e verificato periodicamente, con obiettivi, prestazioni, tempi e responsabilità definiti. Rafforza il diritto all’informazione, all’accesso agli atti e alla partecipazione al procedimento. Prevede inoltre un ufficio dedicato al pubblico e un riscontro scritto e motivato alle istanze entro venti giorni. Istituisce infine un Ispettorato nazionale dei servizi sociali, con funzioni di vigilanza e controllo e poteri sanzionatori",
+        "descrizioneBreve": "La proposta di legge di iniziativa popolare «Riforma dei servizi sociali e tutela della famiglia» mira a rendere più trasparenti le relazioni dei servizi sociali e a rafforzare le garanzie per i minori e le famiglie. Prevede che le relazioni distinguano i fatti verificati, le dichiarazioni raccolte e le valutazioni degli operatori, che le famiglie partecipino alla definizione dei percorsi di sostegno e che possano ricevere informazioni sullo stato delle proprie pratiche",
+        "estremi": "6000002",
+        "id": 8000005,
+        "idComitato": [],
+        "idDecCatIniziativa": {
+          "dataFineValidita": "1999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "QUESTIONI SOCIALI",
+          "id": 8,
+          "nome": "QUESTIONI SOCIALI"
+        },
+        "idDecStatoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "IN RACCOLTA FIRME",
+          "id": 2,
+          "nome": "IN RACCOLTA FIRME"
+        },
+        "idDecTipoIniziativa": {
+          "dataFineValidita": "9999-12-31",
+          "dataInizioValidita": "2021-08-01",
+          "descrizione": "Legge di iniziativa popolare (art. 71 Costituzione)",
+          "id": 4,
+          "nome": "Legge di iniziativa popolare (art. 71 Costituzione)"
+        },
+        "quesito": "",
+        "quorum": 50000,
+        "sostenitori": 2,
+        "supportata": false,
+        "titolo": "Riforma dei Servizi Sociali e Tutela della Famiglia: Disposizioni in materia di trasparenza, oggettività delle relazioni sociali, progetto personalizzato partecipato e garanzie procedimentali",
+        "titoloLeggeCostituzionale": "Riforma dei Servizi Sociali e Tutela della Famiglia: Disposizioni in materia di trasparenza, oggettività delle relazioni sociali, progetto personalizzato partecipato e garanzie procedimentali"
+      },
+      "hash": "551d41929ef63a14c3924294b3821f7d2057e9e908c5bc8197c24ab1b7d15919"
+    }
+  },
+  {
     "id": "0f52df4e0ca55257bf011fd672acf88f1725527e4f0d3f3fdbbbd9b4e9bac83f",
     "type": "created",
     "itemId": "8000003",
